@@ -1,0 +1,4 @@
+setupRequired(governor 1.0)
+setupRequired(dignity 1.0)
+setupRequired(grandmother 3.0)
+setupRequired(drop 2.0)

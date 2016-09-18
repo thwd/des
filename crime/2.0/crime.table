@@ -1,0 +1,3 @@
+setupRequired(drop 3.0)
+setupRequired(communication 1.0)
+setupRequired(prize 2.0)

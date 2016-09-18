@@ -1,0 +1,4 @@
+setupRequired(facility 3.0)
+setupRequired(establish 3.0)
+setupRequired(shorts 2.0)
+setupRequired(reputation 1.0)

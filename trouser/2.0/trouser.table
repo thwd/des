@@ -1,0 +1,3 @@
+setupRequired(hot 1.0)
+setupRequired(cap 2.0)
+setupRequired(pair 1.0)

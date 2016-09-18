@@ -1,0 +1,4 @@
+setupRequired(mushroom 2.0)
+setupRequired(tasty 2.0)
+setupRequired(host 2.0)
+setupRequired(meal 3.0)

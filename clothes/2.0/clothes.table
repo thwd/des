@@ -1,0 +1,4 @@
+setupRequired(steam 2.0)
+setupRequired(approve 3.0)
+setupRequired(inspiration 2.0)
+setupRequired(fraction 2.0)

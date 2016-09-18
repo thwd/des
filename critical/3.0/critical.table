@@ -1,0 +1,4 @@
+setupRequired(ranch 1.0)
+setupRequired(prevent 2.0)
+setupRequired(stun 1.0)
+setupRequired(manage 3.0)

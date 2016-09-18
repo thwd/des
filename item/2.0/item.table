@@ -1,0 +1,5 @@
+setupRequired(top 1.0)
+setupRequired(battlefield 2.0)
+setupRequired(tin 1.0)
+setupRequired(myth 3.0)
+setupRequired(paper 3.0)

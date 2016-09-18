@@ -1,0 +1,4 @@
+setupRequired(map 1.0)
+setupRequired(election 2.0)
+setupRequired(miracle 2.0)
+setupRequired(morsel 2.0)

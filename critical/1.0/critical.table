@@ -1,0 +1,4 @@
+setupRequired(morsel 1.0)
+setupRequired(letter 2.0)
+setupRequired(slump 2.0)
+setupRequired(element 2.0)

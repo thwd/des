@@ -1,0 +1,5 @@
+setupRequired(district 3.0)
+setupRequired(tax 1.0)
+setupRequired(suit 2.0)
+setupRequired(fragment 1.0)
+setupRequired(continental 1.0)

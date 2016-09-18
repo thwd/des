@@ -1,0 +1,3 @@
+setupRequired(blame 1.0)
+setupRequired(vote 3.0)
+setupRequired(ignore 3.0)

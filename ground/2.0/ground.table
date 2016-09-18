@@ -1,0 +1,4 @@
+setupRequired(death 1.0)
+setupRequired(cycle 3.0)
+setupRequired(recommendation 3.0)
+setupRequired(ideal 1.0)

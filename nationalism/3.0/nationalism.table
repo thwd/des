@@ -1,0 +1,5 @@
+setupRequired(board 3.0)
+setupRequired(display 2.0)
+setupRequired(evaluate 3.0)
+setupRequired(maximum 3.0)
+setupRequired(waiter 3.0)

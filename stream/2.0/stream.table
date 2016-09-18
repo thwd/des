@@ -1,0 +1,4 @@
+setupRequired(meal 3.0)
+setupRequired(error 1.0)
+setupRequired(displace 1.0)
+setupRequired(passage 3.0)

@@ -1,0 +1,5 @@
+setupRequired(throne 3.0)
+setupRequired(compose 1.0)
+setupRequired(feedback 2.0)
+setupRequired(map 3.0)
+setupRequired(vessel 2.0)

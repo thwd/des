@@ -1,0 +1,4 @@
+setupRequired(shell 2.0)
+setupRequired(ditch 2.0)
+setupRequired(runner 1.0)
+setupRequired(game 1.0)

@@ -1,0 +1,4 @@
+setupRequired(museum 1.0)
+setupRequired(slave 2.0)
+setupRequired(magazine 2.0)
+setupRequired(crown 1.0)

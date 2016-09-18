@@ -1,0 +1,4 @@
+setupRequired(idea 2.0)
+setupRequired(bake 3.0)
+setupRequired(approve 1.0)
+setupRequired(burn 1.0)

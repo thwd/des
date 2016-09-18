@@ -1,0 +1,4 @@
+setupRequired(captain 2.0)
+setupRequired(flash 2.0)
+setupRequired(useful 1.0)
+setupRequired(brick 3.0)

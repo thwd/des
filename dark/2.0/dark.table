@@ -1,0 +1,4 @@
+setupRequired(crown 3.0)
+setupRequired(adopt 1.0)
+setupRequired(government 3.0)
+setupRequired(cereal 2.0)

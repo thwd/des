@@ -1,0 +1,4 @@
+setupRequired(harmful 1.0)
+setupRequired(joystick 1.0)
+setupRequired(cheque 2.0)
+setupRequired(recommendation 1.0)

@@ -1,0 +1,4 @@
+setupRequired(basketball 2.0)
+setupRequired(highlight 2.0)
+setupRequired(bat 3.0)
+setupRequired(rob 1.0)

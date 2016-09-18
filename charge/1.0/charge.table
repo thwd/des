@@ -1,0 +1,4 @@
+setupRequired(gaffe 1.0)
+setupRequired(nose 2.0)
+setupRequired(nursery 1.0)
+setupRequired(pollution 3.0)

@@ -1,0 +1,4 @@
+setupRequired(final 2.0)
+setupRequired(dog 2.0)
+setupRequired(troop 2.0)
+setupRequired(protect 3.0)

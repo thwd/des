@@ -1,0 +1,5 @@
+setupRequired(hotdog 2.0)
+setupRequired(variation 2.0)
+setupRequired(age 2.0)
+setupRequired(problem 3.0)
+setupRequired(automatic 1.0)

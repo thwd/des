@@ -1,0 +1,5 @@
+setupRequired(symptom 3.0)
+setupRequired(coat 3.0)
+setupRequired(peak 3.0)
+setupRequired(cluster 3.0)
+setupRequired(advocate 2.0)

@@ -1,0 +1,5 @@
+setupRequired(normal 1.0)
+setupRequired(dome 3.0)
+setupRequired(law 1.0)
+setupRequired(sheep 1.0)
+setupRequired(army 3.0)

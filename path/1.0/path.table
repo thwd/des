@@ -1,0 +1,5 @@
+setupRequired(litigation 2.0)
+setupRequired(ball 1.0)
+setupRequired(steam 2.0)
+setupRequired(photography 3.0)
+setupRequired(staff 3.0)

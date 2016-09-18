@@ -1,0 +1,4 @@
+setupRequired(minister 2.0)
+setupRequired(crisis 2.0)
+setupRequired(strike 1.0)
+setupRequired(stop 1.0)

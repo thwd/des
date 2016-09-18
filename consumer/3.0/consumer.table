@@ -1,0 +1,5 @@
+setupRequired(landowner 3.0)
+setupRequired(wriggle 2.0)
+setupRequired(note 2.0)
+setupRequired(language 2.0)
+setupRequired(coast 1.0)

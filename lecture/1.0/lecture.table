@@ -1,0 +1,5 @@
+setupRequired(myth 3.0)
+setupRequired(goal 2.0)
+setupRequired(heel 3.0)
+setupRequired(linen 2.0)
+setupRequired(leaflet 1.0)

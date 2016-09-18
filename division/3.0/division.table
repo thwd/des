@@ -1,0 +1,5 @@
+setupRequired(pack 2.0)
+setupRequired(ranch 2.0)
+setupRequired(restrain 1.0)
+setupRequired(cinema 2.0)
+setupRequired(resource 1.0)

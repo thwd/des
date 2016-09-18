@@ -1,0 +1,4 @@
+setupRequired(loop 1.0)
+setupRequired(compartment 3.0)
+setupRequired(crime 1.0)
+setupRequired(conversation 3.0)

@@ -1,0 +1,5 @@
+setupRequired(refrigerator 3.0)
+setupRequired(symptom 1.0)
+setupRequired(revolutionary 1.0)
+setupRequired(factor 2.0)
+setupRequired(trance 3.0)

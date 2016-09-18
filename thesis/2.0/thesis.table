@@ -1,0 +1,4 @@
+setupRequired(crouch 1.0)
+setupRequired(muggy 1.0)
+setupRequired(smart 3.0)
+setupRequired(wild 1.0)

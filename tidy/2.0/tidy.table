@@ -1,0 +1,4 @@
+setupRequired(scream 1.0)
+setupRequired(recovery 3.0)
+setupRequired(canvas 3.0)
+setupRequired(key 2.0)

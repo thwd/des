@@ -1,0 +1,4 @@
+setupRequired(possibility 1.0)
+setupRequired(cross 1.0)
+setupRequired(observer 2.0)
+setupRequired(fun 1.0)

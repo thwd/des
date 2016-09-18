@@ -1,0 +1,4 @@
+setupRequired(get 1.0)
+setupRequired(intention 1.0)
+setupRequired(lot 3.0)
+setupRequired(stomach 3.0)

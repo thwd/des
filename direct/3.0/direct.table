@@ -1,0 +1,3 @@
+setupRequired(tired 1.0)
+setupRequired(precision 2.0)
+setupRequired(sensitive 2.0)

@@ -1,0 +1,5 @@
+setupRequired(liberal 1.0)
+setupRequired(pop 2.0)
+setupRequired(thirsty 1.0)
+setupRequired(strap 1.0)
+setupRequired(posture 3.0)

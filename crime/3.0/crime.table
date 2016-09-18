@@ -1,0 +1,5 @@
+setupRequired(indoor 1.0)
+setupRequired(exemption 1.0)
+setupRequired(species 3.0)
+setupRequired(information 2.0)
+setupRequired(qualify 1.0)

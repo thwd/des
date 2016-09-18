@@ -1,0 +1,4 @@
+setupRequired(park 2.0)
+setupRequired(classroom 1.0)
+setupRequired(continental 2.0)
+setupRequired(countryside 2.0)

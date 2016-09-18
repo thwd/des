@@ -1,0 +1,4 @@
+setupRequired(pan 1.0)
+setupRequired(queen 1.0)
+setupRequired(witch 1.0)
+setupRequired(reputation 3.0)

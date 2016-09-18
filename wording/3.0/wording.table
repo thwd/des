@@ -1,0 +1,4 @@
+setupRequired(burn 3.0)
+setupRequired(fail 3.0)
+setupRequired(discourage 2.0)
+setupRequired(alive 1.0)

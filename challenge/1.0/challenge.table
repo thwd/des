@@ -1,0 +1,4 @@
+setupRequired(clue 2.0)
+setupRequired(exempt 2.0)
+setupRequired(advocate 1.0)
+setupRequired(blue 1.0)

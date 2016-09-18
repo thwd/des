@@ -1,0 +1,5 @@
+setupRequired(registration 3.0)
+setupRequired(add 2.0)
+setupRequired(displace 2.0)
+setupRequired(facility 2.0)
+setupRequired(celebration 1.0)

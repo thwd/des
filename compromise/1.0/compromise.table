@@ -1,0 +1,5 @@
+setupRequired(familiar 3.0)
+setupRequired(brake 3.0)
+setupRequired(information 1.0)
+setupRequired(temple 1.0)
+setupRequired(convenience 2.0)

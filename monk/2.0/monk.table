@@ -1,0 +1,5 @@
+setupRequired(beautiful 1.0)
+setupRequired(raid 1.0)
+setupRequired(revolutionary 1.0)
+setupRequired(detector 2.0)
+setupRequired(steward 3.0)

@@ -1,0 +1,3 @@
+setupRequired(hammer 1.0)
+setupRequired(wording 2.0)
+setupRequired(society 1.0)

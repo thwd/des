@@ -1,0 +1,4 @@
+setupRequired(peak 3.0)
+setupRequired(game 2.0)
+setupRequired(present 1.0)
+setupRequired(rotate 2.0)

@@ -1,0 +1,4 @@
+setupRequired(steward 2.0)
+setupRequired(conversation 1.0)
+setupRequired(clothes 2.0)
+setupRequired(critic 1.0)

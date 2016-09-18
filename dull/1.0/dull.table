@@ -1,0 +1,4 @@
+setupRequired(decide 3.0)
+setupRequired(withdrawal 1.0)
+setupRequired(engineer 1.0)
+setupRequired(clique 1.0)

@@ -1,0 +1,5 @@
+setupRequired(boot 3.0)
+setupRequired(flash 2.0)
+setupRequired(landowner 3.0)
+setupRequired(lot 3.0)
+setupRequired(charity 1.0)

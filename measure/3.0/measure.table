@@ -1,0 +1,5 @@
+setupRequired(breakdown 2.0)
+setupRequired(performer 1.0)
+setupRequired(lemon 2.0)
+setupRequired(student 1.0)
+setupRequired(queen 3.0)

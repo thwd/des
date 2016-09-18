@@ -1,0 +1,5 @@
+setupRequired(sniff 2.0)
+setupRequired(boot 3.0)
+setupRequired(shower 2.0)
+setupRequired(measure 3.0)
+setupRequired(dictate 1.0)

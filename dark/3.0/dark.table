@@ -1,0 +1,3 @@
+setupRequired(pepper 3.0)
+setupRequired(shrink 2.0)
+setupRequired(ostracize 1.0)

@@ -1,0 +1,4 @@
+setupRequired(flawed 2.0)
+setupRequired(tumble 2.0)
+setupRequired(wilderness 2.0)
+setupRequired(guard 1.0)

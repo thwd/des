@@ -1,0 +1,4 @@
+setupRequired(cross 3.0)
+setupRequired(shout 3.0)
+setupRequired(convert 3.0)
+setupRequired(eyebrow 1.0)

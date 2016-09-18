@@ -1,0 +1,5 @@
+setupRequired(rugby 3.0)
+setupRequired(cucumber 3.0)
+setupRequired(adopt 3.0)
+setupRequired(thirsty 1.0)
+setupRequired(interference 3.0)

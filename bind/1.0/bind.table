@@ -1,0 +1,3 @@
+setupRequired(menu 3.0)
+setupRequired(shell 1.0)
+setupRequired(pride 1.0)

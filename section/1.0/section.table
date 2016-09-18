@@ -1,0 +1,4 @@
+setupRequired(knit 1.0)
+setupRequired(boat 2.0)
+setupRequired(throat 3.0)
+setupRequired(colorful 1.0)

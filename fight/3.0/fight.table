@@ -1,0 +1,4 @@
+setupRequired(facility 3.0)
+setupRequired(organize 3.0)
+setupRequired(bless 1.0)
+setupRequired(laser 2.0)

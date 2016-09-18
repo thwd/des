@@ -1,0 +1,4 @@
+setupRequired(romantic 2.0)
+setupRequired(corn 2.0)
+setupRequired(registration 1.0)
+setupRequired(restrict 2.0)

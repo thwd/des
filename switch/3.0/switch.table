@@ -1,0 +1,4 @@
+setupRequired(chimney 2.0)
+setupRequired(flawed 3.0)
+setupRequired(charity 3.0)
+setupRequired(native 3.0)

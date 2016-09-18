@@ -1,0 +1,4 @@
+setupRequired(index 2.0)
+setupRequired(district 1.0)
+setupRequired(secure 3.0)
+setupRequired(cucumber 1.0)

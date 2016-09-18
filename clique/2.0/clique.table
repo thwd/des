@@ -1,0 +1,3 @@
+setupRequired(integration 2.0)
+setupRequired(symptom 3.0)
+setupRequired(conversation 3.0)

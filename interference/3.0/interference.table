@@ -1,0 +1,4 @@
+setupRequired(dog 1.0)
+setupRequired(settlement 3.0)
+setupRequired(chorus 3.0)
+setupRequired(admit 1.0)

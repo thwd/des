@@ -1,0 +1,4 @@
+setupRequired(wriggle 3.0)
+setupRequired(formal 2.0)
+setupRequired(banish 1.0)
+setupRequired(rebellion 1.0)

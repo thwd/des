@@ -1,0 +1,5 @@
+setupRequired(grand 2.0)
+setupRequired(chicken 3.0)
+setupRequired(harass 2.0)
+setupRequired(monarch 3.0)
+setupRequired(round 1.0)

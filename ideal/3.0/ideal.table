@@ -1,0 +1,4 @@
+setupRequired(institution 2.0)
+setupRequired(sensitive 3.0)
+setupRequired(bathtub 2.0)
+setupRequired(dirty 1.0)

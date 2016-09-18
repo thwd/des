@@ -1,0 +1,5 @@
+setupRequired(apology 2.0)
+setupRequired(cycle 1.0)
+setupRequired(jest 3.0)
+setupRequired(ground 1.0)
+setupRequired(tie 2.0)

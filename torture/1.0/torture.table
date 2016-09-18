@@ -1,0 +1,2 @@
+setupRequired(fibre 1.0)
+setupRequired(trade 3.0)

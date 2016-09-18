@@ -1,0 +1,4 @@
+setupRequired(bark 1.0)
+setupRequired(pepper 1.0)
+setupRequired(straw 2.0)
+setupRequired(dress 1.0)

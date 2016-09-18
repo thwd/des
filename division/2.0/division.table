@@ -1,0 +1,4 @@
+setupRequired(mushroom 3.0)
+setupRequired(expect 1.0)
+setupRequired(laundry 1.0)
+setupRequired(queen 2.0)

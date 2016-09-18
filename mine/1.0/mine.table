@@ -1,0 +1,5 @@
+setupRequired(coffee 1.0)
+setupRequired(entitlement 3.0)
+setupRequired(gift 3.0)
+setupRequired(package 3.0)
+setupRequired(vegetable 2.0)

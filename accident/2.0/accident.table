@@ -1,0 +1,3 @@
+setupRequired(trap 3.0)
+setupRequired(pocket 2.0)
+setupRequired(domestic 2.0)

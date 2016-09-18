@@ -1,0 +1,4 @@
+setupRequired(desert 2.0)
+setupRequired(handy 3.0)
+setupRequired(claim 2.0)
+setupRequired(fraction 2.0)

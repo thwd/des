@@ -1,0 +1,5 @@
+setupRequired(vegetable 2.0)
+setupRequired(ice 2.0)
+setupRequired(publication 3.0)
+setupRequired(surgeon 3.0)
+setupRequired(innovation 2.0)

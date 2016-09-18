@@ -1,0 +1,4 @@
+setupRequired(cucumber 2.0)
+setupRequired(crusade 3.0)
+setupRequired(angle 3.0)
+setupRequired(tropical 3.0)

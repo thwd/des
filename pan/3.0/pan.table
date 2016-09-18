@@ -1,0 +1,4 @@
+setupRequired(foundation 2.0)
+setupRequired(miracle 3.0)
+setupRequired(refund 3.0)
+setupRequired(critic 3.0)

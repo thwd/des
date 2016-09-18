@@ -1,0 +1,5 @@
+setupRequired(clue 1.0)
+setupRequired(pocket 1.0)
+setupRequired(lift 3.0)
+setupRequired(debate 1.0)
+setupRequired(established 3.0)

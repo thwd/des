@@ -1,0 +1,4 @@
+setupRequired(factor 3.0)
+setupRequired(access 1.0)
+setupRequired(lamp 2.0)
+setupRequired(reduce 3.0)

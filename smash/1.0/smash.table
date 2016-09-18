@@ -1,0 +1,3 @@
+setupRequired(wisecrack 1.0)
+setupRequired(colleague 3.0)
+setupRequired(cell 3.0)

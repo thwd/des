@@ -1,0 +1,4 @@
+setupRequired(evaluate 2.0)
+setupRequired(connection 2.0)
+setupRequired(barrel 2.0)
+setupRequired(rebellion 3.0)

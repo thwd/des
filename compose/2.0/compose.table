@@ -1,0 +1,4 @@
+setupRequired(section 3.0)
+setupRequired(joystick 1.0)
+setupRequired(sin 3.0)
+setupRequired(hell 2.0)

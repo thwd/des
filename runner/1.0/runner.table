@@ -1,0 +1,3 @@
+setupRequired(orchestra 3.0)
+setupRequired(danger 2.0)
+setupRequired(familiar 1.0)

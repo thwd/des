@@ -1,0 +1,4 @@
+setupRequired(census 1.0)
+setupRequired(minister 1.0)
+setupRequired(determine 2.0)
+setupRequired(pull 3.0)

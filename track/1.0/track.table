@@ -1,0 +1,5 @@
+setupRequired(test 3.0)
+setupRequired(feedback 2.0)
+setupRequired(sow 3.0)
+setupRequired(test 1.0)
+setupRequired(plane 1.0)

@@ -1,0 +1,5 @@
+setupRequired(television 3.0)
+setupRequired(intention 3.0)
+setupRequired(overlook 1.0)
+setupRequired(novel 3.0)
+setupRequired(wording 3.0)

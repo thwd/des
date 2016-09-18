@@ -1,0 +1,5 @@
+setupRequired(flawed 1.0)
+setupRequired(highlight 3.0)
+setupRequired(inhibition 3.0)
+setupRequired(glimpse 3.0)
+setupRequired(polish 1.0)

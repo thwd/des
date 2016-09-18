@@ -1,0 +1,5 @@
+setupRequired(noise 3.0)
+setupRequired(harsh 3.0)
+setupRequired(tin 2.0)
+setupRequired(coffee 1.0)
+setupRequired(function 2.0)

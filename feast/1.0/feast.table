@@ -1,0 +1,3 @@
+setupRequired(holiday 2.0)
+setupRequired(occupy 3.0)
+setupRequired(tree 1.0)

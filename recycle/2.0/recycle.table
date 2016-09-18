@@ -1,0 +1,4 @@
+setupRequired(reward 2.0)
+setupRequired(pollution 1.0)
+setupRequired(paper 2.0)
+setupRequired(steam 3.0)

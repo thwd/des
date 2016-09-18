@@ -1,0 +1,5 @@
+setupRequired(beg 1.0)
+setupRequired(end 3.0)
+setupRequired(wave 1.0)
+setupRequired(overlook 2.0)
+setupRequired(society 2.0)

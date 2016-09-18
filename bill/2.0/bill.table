@@ -1,0 +1,3 @@
+setupRequired(coin 3.0)
+setupRequired(fever 2.0)
+setupRequired(tax 2.0)

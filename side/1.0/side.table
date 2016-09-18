@@ -1,0 +1,4 @@
+setupRequired(banish 1.0)
+setupRequired(swipe 2.0)
+setupRequired(brink 3.0)
+setupRequired(spare 3.0)

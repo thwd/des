@@ -1,0 +1,5 @@
+setupRequired(print 2.0)
+setupRequired(fan 1.0)
+setupRequired(recession 2.0)
+setupRequired(twilight 3.0)
+setupRequired(colon 1.0)

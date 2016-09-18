@@ -1,0 +1,5 @@
+setupRequired(prize 1.0)
+setupRequired(beautiful 2.0)
+setupRequired(path 3.0)
+setupRequired(runner 2.0)
+setupRequired(promotion 3.0)

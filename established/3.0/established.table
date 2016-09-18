@@ -1,0 +1,4 @@
+setupRequired(boot 2.0)
+setupRequired(bake 2.0)
+setupRequired(dog 1.0)
+setupRequired(raid 3.0)

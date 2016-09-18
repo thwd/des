@@ -1,0 +1,3 @@
+setupRequired(bill 2.0)
+setupRequired(fraction 3.0)
+setupRequired(version 1.0)

@@ -1,0 +1,2 @@
+setupRequired(runner 3.0)
+setupRequired(control 1.0)

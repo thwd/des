@@ -1,0 +1,5 @@
+setupRequired(lighter 1.0)
+setupRequired(like 1.0)
+setupRequired(challenge 3.0)
+setupRequired(torture 3.0)
+setupRequired(thaw 1.0)

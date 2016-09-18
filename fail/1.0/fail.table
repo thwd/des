@@ -1,0 +1,4 @@
+setupRequired(court 2.0)
+setupRequired(holiday 1.0)
+setupRequired(passage 1.0)
+setupRequired(pepper 3.0)

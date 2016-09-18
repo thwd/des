@@ -1,0 +1,3 @@
+setupRequired(raise 2.0)
+setupRequired(maze 1.0)
+setupRequired(force 1.0)

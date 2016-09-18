@@ -1,0 +1,4 @@
+setupRequired(die 2.0)
+setupRequired(official 3.0)
+setupRequired(commission 2.0)
+setupRequired(recovery 1.0)

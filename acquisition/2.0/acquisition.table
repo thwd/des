@@ -1,0 +1,5 @@
+setupRequired(ignore 2.0)
+setupRequired(leash 2.0)
+setupRequired(pepper 1.0)
+setupRequired(bargain 1.0)
+setupRequired(virus 2.0)

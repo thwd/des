@@ -1,0 +1,4 @@
+setupRequired(arrow 3.0)
+setupRequired(satisfied 2.0)
+setupRequired(shape 3.0)
+setupRequired(excess 2.0)

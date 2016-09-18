@@ -1,0 +1,4 @@
+setupRequired(cream 3.0)
+setupRequired(minister 3.0)
+setupRequired(room 3.0)
+setupRequired(eye 1.0)

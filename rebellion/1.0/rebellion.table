@@ -1,0 +1,4 @@
+setupRequired(waiter 1.0)
+setupRequired(exposure 1.0)
+setupRequired(alarm 2.0)
+setupRequired(range 1.0)

@@ -1,0 +1,5 @@
+setupRequired(conglomerate 2.0)
+setupRequired(theory 2.0)
+setupRequired(reduce 3.0)
+setupRequired(round 2.0)
+setupRequired(general 3.0)

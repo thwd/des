@@ -1,0 +1,5 @@
+setupRequired(soak 1.0)
+setupRequired(wave 3.0)
+setupRequired(glory 1.0)
+setupRequired(television 3.0)
+setupRequired(article 3.0)

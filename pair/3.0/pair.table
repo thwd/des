@@ -1,0 +1,4 @@
+setupRequired(middle 1.0)
+setupRequired(restaurant 1.0)
+setupRequired(grave 1.0)
+setupRequired(faithful 2.0)

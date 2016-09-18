@@ -1,0 +1,4 @@
+setupRequired(east 1.0)
+setupRequired(sword 3.0)
+setupRequired(deviation 3.0)
+setupRequired(bow 3.0)

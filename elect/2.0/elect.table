@@ -1,0 +1,4 @@
+setupRequired(accompany 2.0)
+setupRequired(turkey 3.0)
+setupRequired(density 2.0)
+setupRequired(gaffe 1.0)

@@ -1,0 +1,5 @@
+setupRequired(oil 2.0)
+setupRequired(deposit 1.0)
+setupRequired(press 2.0)
+setupRequired(fragment 1.0)
+setupRequired(bad 1.0)

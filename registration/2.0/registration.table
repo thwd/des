@@ -1,0 +1,4 @@
+setupRequired(coat 2.0)
+setupRequired(strap 2.0)
+setupRequired(intensify 3.0)
+setupRequired(rhythm 3.0)

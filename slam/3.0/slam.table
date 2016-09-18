@@ -1,0 +1,3 @@
+setupRequired(limit 3.0)
+setupRequired(court 3.0)
+setupRequired(thesis 1.0)

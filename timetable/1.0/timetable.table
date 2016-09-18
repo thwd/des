@@ -1,0 +1,4 @@
+setupRequired(revival 1.0)
+setupRequired(vessel 1.0)
+setupRequired(refrigerator 3.0)
+setupRequired(approach 2.0)

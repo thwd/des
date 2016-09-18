@@ -1,0 +1,4 @@
+setupRequired(lose 1.0)
+setupRequired(pavement 2.0)
+setupRequired(drop 1.0)
+setupRequired(slant 3.0)

@@ -1,0 +1,5 @@
+setupRequired(donor 3.0)
+setupRequired(censorship 2.0)
+setupRequired(information 3.0)
+setupRequired(secure 1.0)
+setupRequired(bless 3.0)

@@ -1,0 +1,5 @@
+setupRequired(arm 1.0)
+setupRequired(chorus 1.0)
+setupRequired(linen 1.0)
+setupRequired(romantic 1.0)
+setupRequired(valley 2.0)

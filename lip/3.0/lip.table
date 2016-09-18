@@ -1,0 +1,3 @@
+setupRequired(reduce 1.0)
+setupRequired(rent 2.0)
+setupRequired(wall 1.0)

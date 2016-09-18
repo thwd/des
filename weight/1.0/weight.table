@@ -1,0 +1,5 @@
+setupRequired(cereal 1.0)
+setupRequired(uncle 2.0)
+setupRequired(profession 1.0)
+setupRequired(chicken 2.0)
+setupRequired(final 1.0)

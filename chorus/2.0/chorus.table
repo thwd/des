@@ -1,0 +1,4 @@
+setupRequired(colleague 1.0)
+setupRequired(disagreement 3.0)
+setupRequired(get 1.0)
+setupRequired(aisle 2.0)

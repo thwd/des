@@ -1,0 +1,4 @@
+setupRequired(constituency 1.0)
+setupRequired(host 3.0)
+setupRequired(declaration 3.0)
+setupRequired(negotiation 1.0)

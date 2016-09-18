@@ -1,0 +1,5 @@
+setupRequired(convenience 3.0)
+setupRequired(top 2.0)
+setupRequired(gift 2.0)
+setupRequired(menu 3.0)
+setupRequired(loop 2.0)

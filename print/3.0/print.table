@@ -1,0 +1,4 @@
+setupRequired(source 2.0)
+setupRequired(integrated 1.0)
+setupRequired(biscuit 2.0)
+setupRequired(sow 3.0)

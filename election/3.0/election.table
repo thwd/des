@@ -1,0 +1,4 @@
+setupRequired(exclude 1.0)
+setupRequired(whisper 2.0)
+setupRequired(soak 2.0)
+setupRequired(nomination 1.0)

@@ -1,0 +1,5 @@
+setupRequired(mixture 3.0)
+setupRequired(bake 2.0)
+setupRequired(particular 1.0)
+setupRequired(minister 2.0)
+setupRequired(host 1.0)

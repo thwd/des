@@ -1,0 +1,4 @@
+setupRequired(theater 1.0)
+setupRequired(pursuit 1.0)
+setupRequired(lecture 2.0)
+setupRequired(spell 2.0)

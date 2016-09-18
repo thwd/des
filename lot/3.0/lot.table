@@ -1,0 +1,4 @@
+setupRequired(source 3.0)
+setupRequired(ghost 1.0)
+setupRequired(observer 1.0)
+setupRequired(science 2.0)

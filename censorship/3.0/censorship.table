@@ -1,0 +1,5 @@
+setupRequired(prevent 2.0)
+setupRequired(function 1.0)
+setupRequired(strain 1.0)
+setupRequired(spell 2.0)
+setupRequired(splurge 3.0)

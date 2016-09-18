@@ -1,0 +1,3 @@
+setupRequired(integration 3.0)
+setupRequired(monarch 2.0)
+setupRequired(beg 3.0)

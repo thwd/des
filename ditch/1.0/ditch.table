@@ -1,0 +1,5 @@
+setupRequired(division 2.0)
+setupRequired(wild 3.0)
+setupRequired(set 2.0)
+setupRequired(plane 1.0)
+setupRequired(symbol 3.0)

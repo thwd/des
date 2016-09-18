@@ -1,0 +1,5 @@
+setupRequired(straw 2.0)
+setupRequired(crusade 1.0)
+setupRequired(recovery 2.0)
+setupRequired(fence 2.0)
+setupRequired(approve 1.0)

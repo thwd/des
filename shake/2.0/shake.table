@@ -1,0 +1,4 @@
+setupRequired(inspiration 1.0)
+setupRequired(jungle 1.0)
+setupRequired(hole 3.0)
+setupRequired(layer 3.0)

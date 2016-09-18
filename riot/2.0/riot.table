@@ -1,0 +1,5 @@
+setupRequired(displace 2.0)
+setupRequired(soft 3.0)
+setupRequired(displace 1.0)
+setupRequired(stitch 3.0)
+setupRequired(shell 2.0)

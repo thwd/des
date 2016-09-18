@@ -1,0 +1,4 @@
+setupRequired(fence 1.0)
+setupRequired(arrow 2.0)
+setupRequired(insurance 1.0)
+setupRequired(default 2.0)

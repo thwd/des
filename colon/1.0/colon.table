@@ -1,0 +1,3 @@
+setupRequired(narrow 2.0)
+setupRequired(sword 1.0)
+setupRequired(fairy 3.0)

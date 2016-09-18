@@ -1,0 +1,5 @@
+setupRequired(staircase 2.0)
+setupRequired(carry 1.0)
+setupRequired(charity 1.0)
+setupRequired(shrink 2.0)
+setupRequired(fraction 1.0)

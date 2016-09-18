@@ -1,0 +1,3 @@
+setupRequired(ice 3.0)
+setupRequired(siege 1.0)
+setupRequired(ethics 1.0)

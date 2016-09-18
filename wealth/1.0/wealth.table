@@ -1,0 +1,4 @@
+setupRequired(village 2.0)
+setupRequired(exit 2.0)
+setupRequired(horn 2.0)
+setupRequired(advice 3.0)

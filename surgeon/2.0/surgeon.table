@@ -1,0 +1,4 @@
+setupRequired(temple 1.0)
+setupRequired(censorship 3.0)
+setupRequired(fireplace 1.0)
+setupRequired(protection 3.0)

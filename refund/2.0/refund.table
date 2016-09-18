@@ -1,0 +1,4 @@
+setupRequired(qualify 2.0)
+setupRequired(suggest 2.0)
+setupRequired(ostracize 3.0)
+setupRequired(laser 2.0)

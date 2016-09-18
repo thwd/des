@@ -1,0 +1,5 @@
+setupRequired(governor 2.0)
+setupRequired(bill 3.0)
+setupRequired(salon 1.0)
+setupRequired(yard 2.0)
+setupRequired(temporary 1.0)

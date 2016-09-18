@@ -1,0 +1,4 @@
+setupRequired(access 2.0)
+setupRequired(coincide 1.0)
+setupRequired(excess 3.0)
+setupRequired(fight 3.0)

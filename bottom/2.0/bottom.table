@@ -1,0 +1,3 @@
+setupRequired(cow 3.0)
+setupRequired(transport 1.0)
+setupRequired(reputation 3.0)

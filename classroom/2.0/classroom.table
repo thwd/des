@@ -1,0 +1,3 @@
+setupRequired(path 3.0)
+setupRequired(protect 3.0)
+setupRequired(tube 3.0)

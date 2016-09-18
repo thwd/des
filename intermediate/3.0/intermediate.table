@@ -1,0 +1,4 @@
+setupRequired(pavement 1.0)
+setupRequired(company 3.0)
+setupRequired(knit 3.0)
+setupRequired(velvet 3.0)

@@ -1,0 +1,4 @@
+setupRequired(tendency 1.0)
+setupRequired(side 2.0)
+setupRequired(slab 1.0)
+setupRequired(spring 2.0)

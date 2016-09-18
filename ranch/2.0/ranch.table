@@ -1,0 +1,4 @@
+setupRequired(breathe 1.0)
+setupRequired(pace 3.0)
+setupRequired(distant 2.0)
+setupRequired(discourage 1.0)

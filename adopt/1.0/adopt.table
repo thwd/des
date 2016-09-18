@@ -1,0 +1,5 @@
+setupRequired(final 3.0)
+setupRequired(color 2.0)
+setupRequired(rider 3.0)
+setupRequired(soak 3.0)
+setupRequired(element 1.0)

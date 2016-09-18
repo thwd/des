@@ -1,0 +1,5 @@
+setupRequired(wilderness 3.0)
+setupRequired(deficiency 3.0)
+setupRequired(switch 3.0)
+setupRequired(message 3.0)
+setupRequired(pursuit 1.0)

@@ -1,0 +1,5 @@
+setupRequired(suburb 1.0)
+setupRequired(science 1.0)
+setupRequired(laundry 3.0)
+setupRequired(rub 3.0)
+setupRequired(industry 1.0)

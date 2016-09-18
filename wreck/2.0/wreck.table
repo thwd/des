@@ -1,0 +1,4 @@
+setupRequired(captain 2.0)
+setupRequired(leaflet 3.0)
+setupRequired(bless 1.0)
+setupRequired(challenge 2.0)

@@ -1,0 +1,4 @@
+setupRequired(terrace 3.0)
+setupRequired(attractive 1.0)
+setupRequired(force 2.0)
+setupRequired(quota 2.0)

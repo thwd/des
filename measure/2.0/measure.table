@@ -1,0 +1,4 @@
+setupRequired(writer 1.0)
+setupRequired(decline 3.0)
+setupRequired(nature 1.0)
+setupRequired(ample 3.0)

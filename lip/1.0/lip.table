@@ -1,0 +1,3 @@
+setupRequired(magnetic 1.0)
+setupRequired(game 3.0)
+setupRequired(approve 2.0)

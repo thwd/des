@@ -1,0 +1,2 @@
+setupRequired(shiver 2.0)
+setupRequired(ranch 3.0)

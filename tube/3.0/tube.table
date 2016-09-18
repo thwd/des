@@ -1,0 +1,5 @@
+setupRequired(general 3.0)
+setupRequired(strap 1.0)
+setupRequired(brag 2.0)
+setupRequired(dog 2.0)
+setupRequired(customer 2.0)

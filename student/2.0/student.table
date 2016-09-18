@@ -1,0 +1,3 @@
+setupRequired(tree 1.0)
+setupRequired(rugby 1.0)
+setupRequired(commerce 2.0)

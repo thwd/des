@@ -1,0 +1,3 @@
+setupRequired(colon 2.0)
+setupRequired(snow 1.0)
+setupRequired(moment 2.0)

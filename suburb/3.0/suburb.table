@@ -1,0 +1,4 @@
+setupRequired(contract 3.0)
+setupRequired(rehabilitation 3.0)
+setupRequired(fragment 2.0)
+setupRequired(discourage 3.0)

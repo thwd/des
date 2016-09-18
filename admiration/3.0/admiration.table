@@ -1,0 +1,3 @@
+setupRequired(valley 3.0)
+setupRequired(brag 2.0)
+setupRequired(bulletin 3.0)

@@ -1,0 +1,4 @@
+setupRequired(chorus 2.0)
+setupRequired(barrel 1.0)
+setupRequired(short circuit 1.0)
+setupRequired(rent 3.0)

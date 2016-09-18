@@ -1,0 +1,5 @@
+setupRequired(adoption 3.0)
+setupRequired(AIDS 3.0)
+setupRequired(trap 2.0)
+setupRequired(compartment 2.0)
+setupRequired(ideal 3.0)

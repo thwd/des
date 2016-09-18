@@ -1,0 +1,5 @@
+setupRequired(cottage 2.0)
+setupRequired(aisle 1.0)
+setupRequired(landowner 3.0)
+setupRequired(cancer 2.0)
+setupRequired(dress 2.0)

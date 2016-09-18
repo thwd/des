@@ -1,0 +1,4 @@
+setupRequired(judgment 3.0)
+setupRequired(origin 2.0)
+setupRequired(foundation 1.0)
+setupRequired(microphone 2.0)

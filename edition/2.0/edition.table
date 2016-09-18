@@ -1,0 +1,4 @@
+setupRequired(manage 2.0)
+setupRequired(debut 2.0)
+setupRequired(familiar 3.0)
+setupRequired(rhythm 3.0)

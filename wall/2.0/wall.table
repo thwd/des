@@ -1,0 +1,5 @@
+setupRequired(annual 3.0)
+setupRequired(slump 3.0)
+setupRequired(biology 2.0)
+setupRequired(magnetic 3.0)
+setupRequired(coverage 1.0)

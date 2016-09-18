@@ -1,0 +1,5 @@
+setupRequired(crisis 2.0)
+setupRequired(fraction 3.0)
+setupRequired(park 2.0)
+setupRequired(general 1.0)
+setupRequired(established 3.0)

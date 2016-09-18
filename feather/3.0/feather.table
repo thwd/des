@@ -1,0 +1,3 @@
+setupRequired(prospect 2.0)
+setupRequired(limit 1.0)
+setupRequired(normal 2.0)

@@ -1,0 +1,5 @@
+setupRequired(barrier 1.0)
+setupRequired(quota 2.0)
+setupRequired(theater 1.0)
+setupRequired(determine 3.0)
+setupRequired(salon 2.0)

@@ -1,0 +1,5 @@
+setupRequired(conservation 1.0)
+setupRequired(credit 3.0)
+setupRequired(monk 1.0)
+setupRequired(spy 3.0)
+setupRequired(straw 3.0)

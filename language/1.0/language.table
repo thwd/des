@@ -1,0 +1,3 @@
+setupRequired(acceptance 1.0)
+setupRequired(corruption 2.0)
+setupRequired(deprive 1.0)

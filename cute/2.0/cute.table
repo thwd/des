@@ -1,0 +1,5 @@
+setupRequired(bulletin 1.0)
+setupRequired(intensify 1.0)
+setupRequired(maze 3.0)
+setupRequired(retirement 2.0)
+setupRequired(yard 1.0)

@@ -1,0 +1,5 @@
+setupRequired(cow 2.0)
+setupRequired(arrow 1.0)
+setupRequired(recession 2.0)
+setupRequired(attractive 3.0)
+setupRequired(information 2.0)

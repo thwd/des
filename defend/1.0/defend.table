@@ -1,0 +1,5 @@
+setupRequired(pocket 3.0)
+setupRequired(glory 3.0)
+setupRequired(progressive 3.0)
+setupRequired(dog 2.0)
+setupRequired(news 1.0)

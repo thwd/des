@@ -1,0 +1,3 @@
+setupRequired(shell 2.0)
+setupRequired(fold 3.0)
+setupRequired(inquiry 1.0)

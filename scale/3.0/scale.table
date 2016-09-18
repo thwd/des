@@ -1,0 +1,5 @@
+setupRequired(tower 2.0)
+setupRequired(suppress 2.0)
+setupRequired(lighter 3.0)
+setupRequired(intention 2.0)
+setupRequired(congress 1.0)

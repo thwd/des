@@ -1,0 +1,5 @@
+setupRequired(bottom 1.0)
+setupRequired(cheque 2.0)
+setupRequired(coach 2.0)
+setupRequired(circulation 1.0)
+setupRequired(corruption 1.0)

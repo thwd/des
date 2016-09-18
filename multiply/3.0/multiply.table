@@ -1,0 +1,3 @@
+setupRequired(tumble 3.0)
+setupRequired(television 3.0)
+setupRequired(conservation 1.0)

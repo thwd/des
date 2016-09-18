@@ -1,0 +1,5 @@
+setupRequired(article 2.0)
+setupRequired(satisfied 1.0)
+setupRequired(shelf 1.0)
+setupRequired(great 1.0)
+setupRequired(thesis 3.0)

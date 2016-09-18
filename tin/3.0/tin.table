@@ -1,0 +1,5 @@
+setupRequired(customer 2.0)
+setupRequired(world 1.0)
+setupRequired(ostracize 1.0)
+setupRequired(net 1.0)
+setupRequired(knock 3.0)

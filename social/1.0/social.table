@@ -1,0 +1,4 @@
+setupRequired(basketball 2.0)
+setupRequired(species 1.0)
+setupRequired(remember 1.0)
+setupRequired(mayor 2.0)

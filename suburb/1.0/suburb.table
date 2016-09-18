@@ -1,0 +1,5 @@
+setupRequired(harm 2.0)
+setupRequired(science 1.0)
+setupRequired(pillow 1.0)
+setupRequired(pottery 1.0)
+setupRequired(continental 3.0)

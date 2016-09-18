@@ -1,0 +1,5 @@
+setupRequired(treasurer 2.0)
+setupRequired(withdrawal 1.0)
+setupRequired(chimney 2.0)
+setupRequired(track 3.0)
+setupRequired(recession 1.0)

@@ -1,0 +1,3 @@
+setupRequired(slump 2.0)
+setupRequired(army 1.0)
+setupRequired(intensify 2.0)

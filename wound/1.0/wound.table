@@ -1,0 +1,3 @@
+setupRequired(protect 2.0)
+setupRequired(exposure 1.0)
+setupRequired(series 3.0)

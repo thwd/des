@@ -1,0 +1,5 @@
+setupRequired(output 3.0)
+setupRequired(middle 1.0)
+setupRequired(pull 2.0)
+setupRequired(plane 2.0)
+setupRequired(name 3.0)

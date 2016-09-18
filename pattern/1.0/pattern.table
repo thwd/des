@@ -1,0 +1,4 @@
+setupRequired(stream 1.0)
+setupRequired(jockey 1.0)
+setupRequired(refer 1.0)
+setupRequired(muggy 1.0)

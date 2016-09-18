@@ -1,0 +1,5 @@
+setupRequired(spray 2.0)
+setupRequired(announcement 3.0)
+setupRequired(coverage 3.0)
+setupRequired(rob 1.0)
+setupRequired(communist 1.0)

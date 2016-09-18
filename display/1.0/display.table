@@ -1,0 +1,5 @@
+setupRequired(exempt 1.0)
+setupRequired(cinema 3.0)
+setupRequired(contract 1.0)
+setupRequired(goal 1.0)
+setupRequired(despair 1.0)

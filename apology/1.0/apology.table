@@ -1,0 +1,3 @@
+setupRequired(anxiety 3.0)
+setupRequired(restaurant 2.0)
+setupRequired(crown 2.0)

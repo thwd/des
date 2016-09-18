@@ -1,0 +1,4 @@
+setupRequired(visit 3.0)
+setupRequired(ditch 2.0)
+setupRequired(publication 2.0)
+setupRequired(demonstrator 1.0)

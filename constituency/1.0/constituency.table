@@ -1,0 +1,4 @@
+setupRequired(pack 1.0)
+setupRequired(east 3.0)
+setupRequired(auction 3.0)
+setupRequired(critical 3.0)

@@ -1,0 +1,4 @@
+setupRequired(biology 1.0)
+setupRequired(speed 1.0)
+setupRequired(suppress 1.0)
+setupRequired(defend 2.0)

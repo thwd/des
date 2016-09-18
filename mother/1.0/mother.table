@@ -1,0 +1,5 @@
+setupRequired(club 3.0)
+setupRequired(adopt 1.0)
+setupRequired(brake 3.0)
+setupRequired(teach 1.0)
+setupRequired(exempt 2.0)

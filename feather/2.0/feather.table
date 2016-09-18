@@ -1,0 +1,4 @@
+setupRequired(smart 3.0)
+setupRequired(horn 3.0)
+setupRequired(fan 1.0)
+setupRequired(deliver 2.0)

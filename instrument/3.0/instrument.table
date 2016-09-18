@@ -1,0 +1,3 @@
+setupRequired(fan 1.0)
+setupRequired(depart 3.0)
+setupRequired(departure 3.0)

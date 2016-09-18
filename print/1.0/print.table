@@ -1,0 +1,5 @@
+setupRequired(decline 1.0)
+setupRequired(beg 1.0)
+setupRequired(shrink 3.0)
+setupRequired(stadium 2.0)
+setupRequired(pollution 3.0)

@@ -1,0 +1,5 @@
+setupRequired(veil 2.0)
+setupRequired(menu 2.0)
+setupRequired(welcome 1.0)
+setupRequired(decide 3.0)
+setupRequired(contradiction 1.0)

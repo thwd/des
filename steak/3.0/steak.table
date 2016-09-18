@@ -1,0 +1,5 @@
+setupRequired(coffin 3.0)
+setupRequired(unlawful 1.0)
+setupRequired(item 1.0)
+setupRequired(dull 3.0)
+setupRequired(Venus 1.0)

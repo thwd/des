@@ -1,0 +1,5 @@
+setupRequired(governor 3.0)
+setupRequired(assignment 3.0)
+setupRequired(chain 2.0)
+setupRequired(determine 1.0)
+setupRequired(tired 3.0)

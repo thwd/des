@@ -1,0 +1,4 @@
+setupRequired(genetic 2.0)
+setupRequired(fun 2.0)
+setupRequired(pocket 2.0)
+setupRequired(harmful 3.0)

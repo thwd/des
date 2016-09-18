@@ -1,0 +1,4 @@
+setupRequired(bother 1.0)
+setupRequired(dark 1.0)
+setupRequired(nature 3.0)
+setupRequired(net 3.0)

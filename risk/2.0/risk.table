@@ -1,0 +1,3 @@
+setupRequired(disorder 1.0)
+setupRequired(sensitive 3.0)
+setupRequired(parallel 1.0)

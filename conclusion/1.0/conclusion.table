@@ -1,0 +1,5 @@
+setupRequired(bake 2.0)
+setupRequired(news 2.0)
+setupRequired(pottery 1.0)
+setupRequired(elbow 1.0)
+setupRequired(tribute 3.0)

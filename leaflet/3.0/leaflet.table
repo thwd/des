@@ -1,0 +1,5 @@
+setupRequired(start 3.0)
+setupRequired(retain 1.0)
+setupRequired(index 2.0)
+setupRequired(lighter 3.0)
+setupRequired(carry 2.0)

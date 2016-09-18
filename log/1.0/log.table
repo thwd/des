@@ -1,0 +1,4 @@
+setupRequired(global 3.0)
+setupRequired(disco 1.0)
+setupRequired(hotdog 3.0)
+setupRequired(invisible 2.0)

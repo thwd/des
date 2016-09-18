@@ -1,0 +1,2 @@
+setupRequired(stun 2.0)
+setupRequired(acquisition 2.0)

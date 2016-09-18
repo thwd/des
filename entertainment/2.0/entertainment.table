@@ -1,0 +1,5 @@
+setupRequired(dive 1.0)
+setupRequired(critical 1.0)
+setupRequired(access 3.0)
+setupRequired(steward 2.0)
+setupRequired(wife 3.0)

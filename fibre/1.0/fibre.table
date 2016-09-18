@@ -1,0 +1,5 @@
+setupRequired(can 2.0)
+setupRequired(chicken 1.0)
+setupRequired(indoor 3.0)
+setupRequired(challenge 2.0)
+setupRequired(circulation 2.0)

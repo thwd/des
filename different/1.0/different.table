@@ -1,0 +1,4 @@
+setupRequired(constituency 3.0)
+setupRequired(vegetable 2.0)
+setupRequired(error 1.0)
+setupRequired(year 1.0)

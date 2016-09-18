@@ -1,0 +1,5 @@
+setupRequired(cabinet 1.0)
+setupRequired(track 1.0)
+setupRequired(performer 1.0)
+setupRequired(tape 1.0)
+setupRequired(redeem 1.0)

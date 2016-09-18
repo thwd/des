@@ -1,0 +1,5 @@
+setupRequired(lose 2.0)
+setupRequired(fall 1.0)
+setupRequired(bake 1.0)
+setupRequired(year 3.0)
+setupRequired(entertain 2.0)

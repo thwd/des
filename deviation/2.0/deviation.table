@@ -1,0 +1,4 @@
+setupRequired(ban 2.0)
+setupRequired(pattern 3.0)
+setupRequired(smart 3.0)
+setupRequired(condition 1.0)

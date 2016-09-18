@@ -1,0 +1,4 @@
+setupRequired(route 2.0)
+setupRequired(tense 2.0)
+setupRequired(symptom 2.0)
+setupRequired(constitutional 2.0)

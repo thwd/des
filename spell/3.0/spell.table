@@ -1,0 +1,5 @@
+setupRequired(middle 1.0)
+setupRequired(continental 1.0)
+setupRequired(global 2.0)
+setupRequired(pocket 2.0)
+setupRequired(ditch 2.0)

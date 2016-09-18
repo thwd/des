@@ -1,0 +1,5 @@
+setupRequired(invisible 3.0)
+setupRequired(patience 2.0)
+setupRequired(complain 3.0)
+setupRequired(rub 2.0)
+setupRequired(barrier 1.0)

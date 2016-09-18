@@ -1,0 +1,4 @@
+setupRequired(science 3.0)
+setupRequired(company 1.0)
+setupRequired(steam 1.0)
+setupRequired(claim 1.0)

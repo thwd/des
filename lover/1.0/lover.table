@@ -1,0 +1,5 @@
+setupRequired(cute 2.0)
+setupRequired(flawed 3.0)
+setupRequired(conversation 3.0)
+setupRequired(classroom 3.0)
+setupRequired(rest 3.0)

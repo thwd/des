@@ -1,0 +1,4 @@
+setupRequired(bathroom 3.0)
+setupRequired(prize 3.0)
+setupRequired(snub 2.0)
+setupRequired(tape 1.0)

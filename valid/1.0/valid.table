@@ -1,0 +1,4 @@
+setupRequired(spend 2.0)
+setupRequired(twilight 1.0)
+setupRequired(post 1.0)
+setupRequired(convert 3.0)

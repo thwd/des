@@ -1,0 +1,5 @@
+setupRequired(variable 3.0)
+setupRequired(snow 1.0)
+setupRequired(cause 2.0)
+setupRequired(permanent 2.0)
+setupRequired(set 2.0)

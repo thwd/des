@@ -1,0 +1,4 @@
+setupRequired(muscle 1.0)
+setupRequired(tropical 1.0)
+setupRequired(news 1.0)
+setupRequired(assignment 3.0)

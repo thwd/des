@@ -1,0 +1,4 @@
+setupRequired(coverage 3.0)
+setupRequired(visit 3.0)
+setupRequired(valid 2.0)
+setupRequired(crevice 1.0)

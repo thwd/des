@@ -1,0 +1,5 @@
+setupRequired(parallel 2.0)
+setupRequired(snap 2.0)
+setupRequired(governor 1.0)
+setupRequired(crosswalk 2.0)
+setupRequired(boat 2.0)

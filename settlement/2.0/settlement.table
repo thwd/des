@@ -1,0 +1,5 @@
+setupRequired(mist 3.0)
+setupRequired(condition 1.0)
+setupRequired(governor 3.0)
+setupRequired(add 1.0)
+setupRequired(intensify 2.0)

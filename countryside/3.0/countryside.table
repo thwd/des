@@ -1,0 +1,4 @@
+setupRequired(lip 2.0)
+setupRequired(cut 2.0)
+setupRequired(settlement 3.0)
+setupRequired(lot 3.0)

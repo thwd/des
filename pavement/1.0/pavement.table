@@ -1,0 +1,3 @@
+setupRequired(ghost 1.0)
+setupRequired(constitutional 2.0)
+setupRequired(club 1.0)

@@ -1,0 +1,3 @@
+setupRequired(fund 3.0)
+setupRequired(mainstream 2.0)
+setupRequired(trade 2.0)

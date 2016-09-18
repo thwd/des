@@ -1,0 +1,2 @@
+setupRequired(compose 2.0)
+setupRequired(chin 2.0)

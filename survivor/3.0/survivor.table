@@ -1,0 +1,5 @@
+setupRequired(cottage 3.0)
+setupRequired(admit 2.0)
+setupRequired(highway 3.0)
+setupRequired(feather 3.0)
+setupRequired(mix 3.0)

@@ -1,0 +1,4 @@
+setupRequired(lose 3.0)
+setupRequired(plaster 3.0)
+setupRequired(monk 2.0)
+setupRequired(sword 2.0)

@@ -1,0 +1,5 @@
+setupRequired(continuous 1.0)
+setupRequired(conservation 3.0)
+setupRequired(net 2.0)
+setupRequired(defend 1.0)
+setupRequired(rent 2.0)

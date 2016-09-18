@@ -1,0 +1,5 @@
+setupRequired(native 1.0)
+setupRequired(technology 1.0)
+setupRequired(wreck 2.0)
+setupRequired(chin 3.0)
+setupRequired(thesis 1.0)

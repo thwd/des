@@ -1,0 +1,5 @@
+setupRequired(bat 2.0)
+setupRequired(smart 3.0)
+setupRequired(ignorant 1.0)
+setupRequired(ban 3.0)
+setupRequired(suppress 3.0)

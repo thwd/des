@@ -1,0 +1,5 @@
+setupRequired(youth 3.0)
+setupRequired(facility 3.0)
+setupRequired(room 2.0)
+setupRequired(troop 2.0)
+setupRequired(origin 2.0)

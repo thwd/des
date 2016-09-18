@@ -1,0 +1,4 @@
+setupRequired(faint 2.0)
+setupRequired(tree 1.0)
+setupRequired(piano 3.0)
+setupRequired(mother 2.0)

@@ -1,0 +1,4 @@
+setupRequired(convert 2.0)
+setupRequired(residence 1.0)
+setupRequired(fade 2.0)
+setupRequired(fuel 3.0)

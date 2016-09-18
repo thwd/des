@@ -1,0 +1,5 @@
+setupRequired(morning 3.0)
+setupRequired(clique 2.0)
+setupRequired(set 3.0)
+setupRequired(donor 1.0)
+setupRequired(add 3.0)

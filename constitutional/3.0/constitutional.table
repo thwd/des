@@ -1,0 +1,5 @@
+setupRequired(adventure 3.0)
+setupRequired(winter 2.0)
+setupRequired(debut 1.0)
+setupRequired(claim 3.0)
+setupRequired(spy 2.0)

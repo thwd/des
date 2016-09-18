@@ -1,0 +1,5 @@
+setupRequired(high 2.0)
+setupRequired(advocate 3.0)
+setupRequired(net 2.0)
+setupRequired(passage 3.0)
+setupRequired(facility 1.0)

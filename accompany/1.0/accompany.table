@@ -1,0 +1,5 @@
+setupRequired(swell 2.0)
+setupRequired(pattern 3.0)
+setupRequired(ban 2.0)
+setupRequired(multiply 2.0)
+setupRequired(revolutionary 1.0)

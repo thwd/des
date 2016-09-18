@@ -1,0 +1,5 @@
+setupRequired(riot 2.0)
+setupRequired(spring 2.0)
+setupRequired(thirsty 2.0)
+setupRequired(achievement 3.0)
+setupRequired(affect 1.0)

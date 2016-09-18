@@ -1,0 +1,5 @@
+setupRequired(siege 1.0)
+setupRequired(index 1.0)
+setupRequired(fibre 3.0)
+setupRequired(proof 1.0)
+setupRequired(compromise 3.0)

@@ -1,0 +1,5 @@
+setupRequired(clue 1.0)
+setupRequired(fail 1.0)
+setupRequired(biscuit 3.0)
+setupRequired(get 1.0)
+setupRequired(range 3.0)

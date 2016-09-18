@@ -1,0 +1,5 @@
+setupRequired(route 2.0)
+setupRequired(myth 3.0)
+setupRequired(braid 3.0)
+setupRequired(express 3.0)
+setupRequired(forum 3.0)

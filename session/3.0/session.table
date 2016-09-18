@@ -1,0 +1,3 @@
+setupRequired(deviation 2.0)
+setupRequired(faint 1.0)
+setupRequired(fan 1.0)

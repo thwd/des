@@ -1,0 +1,4 @@
+setupRequired(acceptance 3.0)
+setupRequired(revolutionary 1.0)
+setupRequired(effective 1.0)
+setupRequired(window 2.0)

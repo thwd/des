@@ -1,0 +1,3 @@
+setupRequired(partnership 3.0)
+setupRequired(reproduction 3.0)
+setupRequired(recycle 2.0)

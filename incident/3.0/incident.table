@@ -1,0 +1,5 @@
+setupRequired(wound 1.0)
+setupRequired(decline 1.0)
+setupRequired(stitch 1.0)
+setupRequired(quit 1.0)
+setupRequired(side 3.0)

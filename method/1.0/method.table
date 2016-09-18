@@ -1,0 +1,4 @@
+setupRequired(blame 3.0)
+setupRequired(bless 3.0)
+setupRequired(suppress 2.0)
+setupRequired(rock 1.0)

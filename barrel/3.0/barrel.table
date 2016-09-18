@@ -1,0 +1,5 @@
+setupRequired(science 3.0)
+setupRequired(entertainment 3.0)
+setupRequired(bad 2.0)
+setupRequired(language 3.0)
+setupRequired(deprive 3.0)

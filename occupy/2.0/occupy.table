@@ -1,0 +1,4 @@
+setupRequired(reject 1.0)
+setupRequired(hot 2.0)
+setupRequired(pavement 2.0)
+setupRequired(version 3.0)

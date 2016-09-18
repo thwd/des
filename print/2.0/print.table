@@ -1,0 +1,3 @@
+setupRequired(wear 2.0)
+setupRequired(wriggle 3.0)
+setupRequired(salvation 3.0)

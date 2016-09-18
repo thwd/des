@@ -1,0 +1,5 @@
+setupRequired(trade 3.0)
+setupRequired(reproduction 3.0)
+setupRequired(technology 2.0)
+setupRequired(lose 2.0)
+setupRequired(composer 1.0)

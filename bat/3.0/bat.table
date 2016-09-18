@@ -1,0 +1,3 @@
+setupRequired(familiar 2.0)
+setupRequired(maze 3.0)
+setupRequired(grief 2.0)

@@ -1,0 +1,5 @@
+setupRequired(wealth 3.0)
+setupRequired(convince 1.0)
+setupRequired(tool 3.0)
+setupRequired(park 3.0)
+setupRequired(writer 1.0)

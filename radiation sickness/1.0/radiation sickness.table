@@ -1,0 +1,5 @@
+setupRequired(fail 2.0)
+setupRequired(reader 2.0)
+setupRequired(deserve 3.0)
+setupRequired(housewife 2.0)
+setupRequired(pan 1.0)

@@ -1,0 +1,3 @@
+setupRequired(fly 2.0)
+setupRequired(heel 3.0)
+setupRequired(bounce 1.0)

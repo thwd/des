@@ -1,0 +1,5 @@
+setupRequired(theft 1.0)
+setupRequired(sound 3.0)
+setupRequired(left 1.0)
+setupRequired(credit 3.0)
+setupRequired(riot 3.0)

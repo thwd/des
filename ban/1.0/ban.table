@@ -1,0 +1,4 @@
+setupRequired(reveal 1.0)
+setupRequired(compartment 2.0)
+setupRequired(dough 3.0)
+setupRequired(leaflet 2.0)

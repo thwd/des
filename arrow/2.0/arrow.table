@@ -1,0 +1,5 @@
+setupRequired(convert 3.0)
+setupRequired(route 2.0)
+setupRequired(crisis 1.0)
+setupRequired(cottage 1.0)
+setupRequired(residence 2.0)

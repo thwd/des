@@ -1,0 +1,5 @@
+setupRequired(liberal 2.0)
+setupRequired(radiation sickness 1.0)
+setupRequired(print 3.0)
+setupRequired(round 3.0)
+setupRequired(story 3.0)

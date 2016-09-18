@@ -1,0 +1,5 @@
+setupRequired(fame 1.0)
+setupRequired(crisis 2.0)
+setupRequired(feast 3.0)
+setupRequired(profession 1.0)
+setupRequired(insistence 2.0)

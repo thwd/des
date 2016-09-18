@@ -1,0 +1,5 @@
+setupRequired(reduce 1.0)
+setupRequired(approach 2.0)
+setupRequired(dictate 3.0)
+setupRequired(swipe 2.0)
+setupRequired(achievement 1.0)

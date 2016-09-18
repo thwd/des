@@ -1,0 +1,4 @@
+setupRequired(rock 1.0)
+setupRequired(revolutionary 3.0)
+setupRequired(quota 2.0)
+setupRequired(exemption 3.0)

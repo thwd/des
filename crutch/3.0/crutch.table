@@ -1,0 +1,2 @@
+setupRequired(parallel 1.0)
+setupRequired(confuse 1.0)

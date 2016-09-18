@@ -1,0 +1,5 @@
+setupRequired(idea 1.0)
+setupRequired(makeup 1.0)
+setupRequired(deposit 1.0)
+setupRequired(coin 2.0)
+setupRequired(troop 3.0)

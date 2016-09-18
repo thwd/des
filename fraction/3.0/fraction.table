@@ -1,0 +1,4 @@
+setupRequired(inspiration 3.0)
+setupRequired(registration 1.0)
+setupRequired(sell 3.0)
+setupRequired(society 2.0)

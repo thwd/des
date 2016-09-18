@@ -1,0 +1,5 @@
+setupRequired(thirsty 2.0)
+setupRequired(multiply 3.0)
+setupRequired(constituency 2.0)
+setupRequired(company 1.0)
+setupRequired(graze 3.0)

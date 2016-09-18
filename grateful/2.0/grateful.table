@@ -1,0 +1,5 @@
+setupRequired(promotion 2.0)
+setupRequired(lose 1.0)
+setupRequired(symbol 3.0)
+setupRequired(highlight 1.0)
+setupRequired(formal 3.0)

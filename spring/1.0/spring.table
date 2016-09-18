@@ -1,0 +1,5 @@
+setupRequired(state 1.0)
+setupRequired(cabinet 1.0)
+setupRequired(insurance 1.0)
+setupRequired(achievement 1.0)
+setupRequired(joystick 2.0)

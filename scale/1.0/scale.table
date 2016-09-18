@@ -1,0 +1,4 @@
+setupRequired(continuous 3.0)
+setupRequired(tax 3.0)
+setupRequired(shout 1.0)
+setupRequired(performer 3.0)

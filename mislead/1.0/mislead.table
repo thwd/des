@@ -1,0 +1,5 @@
+setupRequired(breathe 2.0)
+setupRequired(solo 3.0)
+setupRequired(chicken 3.0)
+setupRequired(mine 3.0)
+setupRequired(precision 2.0)

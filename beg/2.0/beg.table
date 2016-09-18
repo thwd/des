@@ -1,0 +1,4 @@
+setupRequired(profession 1.0)
+setupRequired(vessel 3.0)
+setupRequired(disability 3.0)
+setupRequired(fade 2.0)

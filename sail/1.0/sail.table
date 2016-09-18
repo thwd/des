@@ -1,0 +1,4 @@
+setupRequired(compromise 2.0)
+setupRequired(grandmother 2.0)
+setupRequired(disability 2.0)
+setupRequired(element 3.0)

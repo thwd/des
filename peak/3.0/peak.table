@@ -1,0 +1,4 @@
+setupRequired(tidy 1.0)
+setupRequired(name 3.0)
+setupRequired(topple 3.0)
+setupRequired(champagne 1.0)

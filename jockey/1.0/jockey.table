@@ -1,0 +1,4 @@
+setupRequired(add 2.0)
+setupRequired(law 3.0)
+setupRequired(theory 1.0)
+setupRequired(grateful 1.0)

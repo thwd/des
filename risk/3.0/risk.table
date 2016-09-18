@@ -1,0 +1,5 @@
+setupRequired(fast 2.0)
+setupRequired(assumption 1.0)
+setupRequired(steam 3.0)
+setupRequired(unlawful 2.0)
+setupRequired(raise 1.0)

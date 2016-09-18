@@ -1,0 +1,5 @@
+setupRequired(ice 1.0)
+setupRequired(pavement 2.0)
+setupRequired(letter 1.0)
+setupRequired(appoint 2.0)
+setupRequired(barrier 2.0)

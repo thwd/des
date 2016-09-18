@@ -1,0 +1,4 @@
+setupRequired(rational 3.0)
+setupRequired(fan 1.0)
+setupRequired(wound 1.0)
+setupRequired(overlook 2.0)

@@ -1,0 +1,5 @@
+setupRequired(monk 2.0)
+setupRequired(technology 2.0)
+setupRequired(habitat 3.0)
+setupRequired(bronze 3.0)
+setupRequired(muscle 2.0)

@@ -1,0 +1,4 @@
+setupRequired(entry 3.0)
+setupRequired(provoke 1.0)
+setupRequired(feather 1.0)
+setupRequired(mix 3.0)

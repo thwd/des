@@ -1,0 +1,5 @@
+setupRequired(crime 1.0)
+setupRequired(claim 3.0)
+setupRequired(shake 2.0)
+setupRequired(corn 3.0)
+setupRequired(formal 1.0)

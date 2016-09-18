@@ -1,0 +1,4 @@
+setupRequired(instal 2.0)
+setupRequired(conservation 3.0)
+setupRequired(slam 3.0)
+setupRequired(market 3.0)

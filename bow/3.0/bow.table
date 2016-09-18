@@ -1,0 +1,4 @@
+setupRequired(orchestra 1.0)
+setupRequired(rhythm 2.0)
+setupRequired(promotion 2.0)
+setupRequired(village 2.0)

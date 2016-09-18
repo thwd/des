@@ -1,0 +1,5 @@
+setupRequired(fast 1.0)
+setupRequired(gift 3.0)
+setupRequired(core 2.0)
+setupRequired(team 2.0)
+setupRequired(reproduction 3.0)

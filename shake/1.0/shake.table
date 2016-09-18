@@ -1,0 +1,5 @@
+setupRequired(coverage 1.0)
+setupRequired(win 3.0)
+setupRequired(widen 2.0)
+setupRequired(morning 1.0)
+setupRequired(convenience 3.0)

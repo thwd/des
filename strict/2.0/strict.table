@@ -1,0 +1,2 @@
+setupRequired(confuse 3.0)
+setupRequired(sow 2.0)

@@ -1,0 +1,5 @@
+setupRequired(spy 1.0)
+setupRequired(transport 2.0)
+setupRequired(prospect 1.0)
+setupRequired(pie 1.0)
+setupRequired(buy 1.0)

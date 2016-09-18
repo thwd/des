@@ -1,0 +1,5 @@
+setupRequired(sail 2.0)
+setupRequired(cinema 2.0)
+setupRequired(tool 2.0)
+setupRequired(precision 1.0)
+setupRequired(recession 3.0)

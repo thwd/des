@@ -1,0 +1,4 @@
+setupRequired(core 1.0)
+setupRequired(progressive 1.0)
+setupRequired(parking 2.0)
+setupRequired(proportion 2.0)

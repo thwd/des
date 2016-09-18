@@ -1,0 +1,3 @@
+setupRequired(slam 1.0)
+setupRequired(temple 2.0)
+setupRequired(suntan 1.0)

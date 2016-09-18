@@ -1,0 +1,4 @@
+setupRequired(ranch 1.0)
+setupRequired(language 1.0)
+setupRequired(incident 3.0)
+setupRequired(note 2.0)

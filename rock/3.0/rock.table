@@ -1,0 +1,4 @@
+setupRequired(intermediate 1.0)
+setupRequired(deserve 2.0)
+setupRequired(ranch 2.0)
+setupRequired(depart 2.0)

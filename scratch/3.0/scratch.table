@@ -1,0 +1,4 @@
+setupRequired(trouser 2.0)
+setupRequired(slave 3.0)
+setupRequired(toss 1.0)
+setupRequired(subject 1.0)

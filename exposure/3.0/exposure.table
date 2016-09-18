@@ -1,0 +1,5 @@
+setupRequired(AIDS 1.0)
+setupRequired(reserve 2.0)
+setupRequired(elect 3.0)
+setupRequired(add 1.0)
+setupRequired(novel 2.0)

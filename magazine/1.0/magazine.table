@@ -1,0 +1,4 @@
+setupRequired(plan 2.0)
+setupRequired(fail 3.0)
+setupRequired(apology 3.0)
+setupRequired(breakdown 3.0)

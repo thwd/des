@@ -1,0 +1,5 @@
+setupRequired(brag 2.0)
+setupRequired(continental 1.0)
+setupRequired(compromise 1.0)
+setupRequired(mass 3.0)
+setupRequired(access 2.0)

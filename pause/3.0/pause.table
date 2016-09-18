@@ -1,0 +1,3 @@
+setupRequired(automatic 2.0)
+setupRequired(connection 1.0)
+setupRequired(cap 2.0)

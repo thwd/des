@@ -1,0 +1,5 @@
+setupRequired(retirement 3.0)
+setupRequired(piano 1.0)
+setupRequired(coin 1.0)
+setupRequired(subject 3.0)
+setupRequired(present 1.0)

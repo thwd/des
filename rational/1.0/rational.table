@@ -1,0 +1,4 @@
+setupRequired(intention 3.0)
+setupRequired(army 3.0)
+setupRequired(negotiation 2.0)
+setupRequired(government 3.0)

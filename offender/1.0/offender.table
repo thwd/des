@@ -1,0 +1,5 @@
+setupRequired(start 1.0)
+setupRequired(redeem 3.0)
+setupRequired(tower 2.0)
+setupRequired(child 3.0)
+setupRequired(brag 2.0)

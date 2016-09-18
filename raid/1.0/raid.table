@@ -1,0 +1,5 @@
+setupRequired(sword 1.0)
+setupRequired(convince 3.0)
+setupRequired(plan 3.0)
+setupRequired(snow 1.0)
+setupRequired(relax 1.0)

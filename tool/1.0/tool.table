@@ -1,0 +1,4 @@
+setupRequired(beautiful 3.0)
+setupRequired(ball 1.0)
+setupRequired(move 2.0)
+setupRequired(despair 2.0)

@@ -1,0 +1,4 @@
+setupRequired(castle 3.0)
+setupRequired(hostility 1.0)
+setupRequired(forum 3.0)
+setupRequired(exemption 2.0)

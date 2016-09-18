@@ -1,0 +1,4 @@
+setupRequired(menu 1.0)
+setupRequired(sheet 3.0)
+setupRequired(positive 3.0)
+setupRequired(brainstorm 3.0)

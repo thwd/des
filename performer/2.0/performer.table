@@ -1,0 +1,4 @@
+setupRequired(graphic 2.0)
+setupRequired(canvas 2.0)
+setupRequired(fan 2.0)
+setupRequired(hole 1.0)

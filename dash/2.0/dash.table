@@ -1,0 +1,5 @@
+setupRequired(fireplace 2.0)
+setupRequired(timetable 1.0)
+setupRequired(tie 1.0)
+setupRequired(teach 1.0)
+setupRequired(salon 3.0)

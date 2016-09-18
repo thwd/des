@@ -1,0 +1,5 @@
+setupRequired(fence 3.0)
+setupRequired(cereal 3.0)
+setupRequired(flash 3.0)
+setupRequired(elbow 1.0)
+setupRequired(contradiction 1.0)

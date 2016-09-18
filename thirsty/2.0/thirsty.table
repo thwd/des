@@ -1,0 +1,5 @@
+setupRequired(mix 2.0)
+setupRequired(economic 1.0)
+setupRequired(offer 1.0)
+setupRequired(admiration 2.0)
+setupRequired(clearance 3.0)

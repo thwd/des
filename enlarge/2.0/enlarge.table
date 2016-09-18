@@ -1,0 +1,3 @@
+setupRequired(cutting 2.0)
+setupRequired(oil 2.0)
+setupRequired(jest 1.0)

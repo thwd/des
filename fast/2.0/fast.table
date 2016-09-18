@@ -1,0 +1,5 @@
+setupRequired(classroom 1.0)
+setupRequired(world 2.0)
+setupRequired(smash 2.0)
+setupRequired(angle 1.0)
+setupRequired(chorus 3.0)

@@ -1,0 +1,3 @@
+setupRequired(can 3.0)
+setupRequired(lot 1.0)
+setupRequired(technology 3.0)

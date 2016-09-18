@@ -1,0 +1,3 @@
+setupRequired(random 3.0)
+setupRequired(rainbow 1.0)
+setupRequired(sympathetic 2.0)

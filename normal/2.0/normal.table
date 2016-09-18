@@ -1,0 +1,3 @@
+setupRequired(shower 3.0)
+setupRequired(unlikely 2.0)
+setupRequired(bronze 1.0)

@@ -1,0 +1,4 @@
+setupRequired(pour 1.0)
+setupRequired(reduce 1.0)
+setupRequired(theater 2.0)
+setupRequired(ride 2.0)

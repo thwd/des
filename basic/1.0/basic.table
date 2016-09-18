@@ -1,0 +1,4 @@
+setupRequired(narrow 2.0)
+setupRequired(satisfied 1.0)
+setupRequired(digress 2.0)
+setupRequired(burn 3.0)

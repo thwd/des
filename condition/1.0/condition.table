@@ -1,0 +1,5 @@
+setupRequired(seek 3.0)
+setupRequired(commerce 3.0)
+setupRequired(output 3.0)
+setupRequired(army 3.0)
+setupRequired(ignore 2.0)

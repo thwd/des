@@ -1,0 +1,4 @@
+setupRequired(bathtub 1.0)
+setupRequired(host 1.0)
+setupRequired(litigation 2.0)
+setupRequired(conservation 2.0)

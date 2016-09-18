@@ -1,0 +1,4 @@
+setupRequired(rub 2.0)
+setupRequired(bathtub 3.0)
+setupRequired(mainstream 3.0)
+setupRequired(confuse 1.0)

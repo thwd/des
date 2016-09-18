@@ -1,0 +1,5 @@
+setupRequired(chicken 1.0)
+setupRequired(chair 2.0)
+setupRequired(adult 3.0)
+setupRequired(conglomerate 2.0)
+setupRequired(fog 3.0)

@@ -1,0 +1,5 @@
+setupRequired(worry 1.0)
+setupRequired(Europe 1.0)
+setupRequired(refund 2.0)
+setupRequired(host 1.0)
+setupRequired(witch 1.0)

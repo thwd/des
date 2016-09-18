@@ -1,0 +1,4 @@
+setupRequired(commerce 2.0)
+setupRequired(judgment 3.0)
+setupRequired(tired 1.0)
+setupRequired(deserve 2.0)

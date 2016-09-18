@@ -1,0 +1,5 @@
+setupRequired(established 1.0)
+setupRequired(board 2.0)
+setupRequired(pawn 1.0)
+setupRequired(rob 1.0)
+setupRequired(facility 3.0)

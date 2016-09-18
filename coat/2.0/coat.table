@@ -1,0 +1,5 @@
+setupRequired(glow 2.0)
+setupRequired(graphic 2.0)
+setupRequired(bat 2.0)
+setupRequired(freeze 2.0)
+setupRequired(pattern 1.0)

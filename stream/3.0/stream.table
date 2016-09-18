@@ -1,0 +1,5 @@
+setupRequired(unlawful 3.0)
+setupRequired(soft 3.0)
+setupRequired(press 2.0)
+setupRequired(fail 3.0)
+setupRequired(mayor 1.0)

@@ -1,0 +1,4 @@
+setupRequired(recommend 3.0)
+setupRequired(solo 2.0)
+setupRequired(nose 3.0)
+setupRequired(glow 3.0)

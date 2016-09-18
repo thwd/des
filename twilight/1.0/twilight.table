@@ -1,0 +1,5 @@
+setupRequired(announcement 3.0)
+setupRequired(moment 2.0)
+setupRequired(memorandum 1.0)
+setupRequired(bulletin 1.0)
+setupRequired(admire 3.0)

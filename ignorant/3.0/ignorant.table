@@ -1,0 +1,3 @@
+setupRequired(valley 1.0)
+setupRequired(end 3.0)
+setupRequired(tool 3.0)

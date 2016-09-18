@@ -1,0 +1,4 @@
+setupRequired(slam 3.0)
+setupRequired(basketball 3.0)
+setupRequired(fight 3.0)
+setupRequired(bargain 3.0)

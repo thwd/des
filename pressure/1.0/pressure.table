@@ -1,0 +1,5 @@
+setupRequired(morning 1.0)
+setupRequired(continuous 2.0)
+setupRequired(shrink 2.0)
+setupRequired(present 2.0)
+setupRequired(diet 3.0)

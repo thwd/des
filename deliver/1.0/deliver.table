@@ -1,0 +1,4 @@
+setupRequired(toss 2.0)
+setupRequired(engineer 3.0)
+setupRequired(pollution 3.0)
+setupRequired(linen 3.0)

@@ -1,0 +1,5 @@
+setupRequired(temporary 3.0)
+setupRequired(wound 3.0)
+setupRequired(can 3.0)
+setupRequired(death 3.0)
+setupRequired(shelf 3.0)

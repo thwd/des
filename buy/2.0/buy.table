@@ -1,0 +1,5 @@
+setupRequired(spend 1.0)
+setupRequired(context 1.0)
+setupRequired(annual 3.0)
+setupRequired(section 1.0)
+setupRequired(performer 3.0)

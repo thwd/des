@@ -1,0 +1,4 @@
+setupRequired(canvas 2.0)
+setupRequired(pavement 2.0)
+setupRequired(avant-garde 2.0)
+setupRequired(deliver 1.0)

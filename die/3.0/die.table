@@ -1,0 +1,4 @@
+setupRequired(valley 2.0)
+setupRequired(jewel 1.0)
+setupRequired(deliver 3.0)
+setupRequired(waiter 3.0)

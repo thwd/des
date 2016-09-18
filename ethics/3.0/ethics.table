@@ -1,0 +1,5 @@
+setupRequired(director 1.0)
+setupRequired(circulation 1.0)
+setupRequired(narrow 3.0)
+setupRequired(holiday 2.0)
+setupRequired(south 1.0)

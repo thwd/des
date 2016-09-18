@@ -1,0 +1,4 @@
+setupRequired(passage 2.0)
+setupRequired(elect 3.0)
+setupRequired(tasty 1.0)
+setupRequired(useful 1.0)

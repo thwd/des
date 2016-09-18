@@ -1,0 +1,5 @@
+setupRequired(like 1.0)
+setupRequired(park 3.0)
+setupRequired(mainstream 2.0)
+setupRequired(retirement 1.0)
+setupRequired(light 1.0)

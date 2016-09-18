@@ -1,0 +1,5 @@
+setupRequired(mainstream 3.0)
+setupRequired(provoke 3.0)
+setupRequired(cute 3.0)
+setupRequired(inhibition 1.0)
+setupRequired(reward 1.0)

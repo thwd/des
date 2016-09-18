@@ -1,0 +1,3 @@
+setupRequired(accessible 1.0)
+setupRequired(fascinate 1.0)
+setupRequired(prospect 2.0)

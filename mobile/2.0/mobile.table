@@ -1,0 +1,5 @@
+setupRequired(useful 1.0)
+setupRequired(pop 2.0)
+setupRequired(congress 2.0)
+setupRequired(stream 3.0)
+setupRequired(instrument 1.0)

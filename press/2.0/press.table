@@ -1,0 +1,2 @@
+setupRequired(wisecrack 3.0)
+setupRequired(whisper 2.0)

@@ -1,0 +1,4 @@
+setupRequired(adopt 1.0)
+setupRequired(science 2.0)
+setupRequired(wrist 3.0)
+setupRequired(great 2.0)

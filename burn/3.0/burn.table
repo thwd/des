@@ -1,0 +1,5 @@
+setupRequired(sound 3.0)
+setupRequired(vegetable 3.0)
+setupRequired(limit 1.0)
+setupRequired(nose 2.0)
+setupRequired(lemon 2.0)

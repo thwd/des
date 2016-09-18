@@ -1,0 +1,4 @@
+setupRequired(session 2.0)
+setupRequired(tidy 1.0)
+setupRequired(nose 3.0)
+setupRequired(default 2.0)

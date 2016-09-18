@@ -1,0 +1,5 @@
+setupRequired(crusade 2.0)
+setupRequired(steward 3.0)
+setupRequired(tool 3.0)
+setupRequired(redeem 2.0)
+setupRequired(manufacture 3.0)

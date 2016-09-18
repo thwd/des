@@ -1,0 +1,4 @@
+setupRequired(bark 2.0)
+setupRequired(mainstream 3.0)
+setupRequired(contract 3.0)
+setupRequired(flex 2.0)

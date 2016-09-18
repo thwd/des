@@ -1,0 +1,4 @@
+setupRequired(chin 3.0)
+setupRequired(cycle 3.0)
+setupRequired(suggest 2.0)
+setupRequired(orchestra 2.0)

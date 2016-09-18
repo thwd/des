@@ -1,0 +1,4 @@
+setupRequired(landowner 2.0)
+setupRequired(pride 2.0)
+setupRequired(length 2.0)
+setupRequired(adoption 2.0)

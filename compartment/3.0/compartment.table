@@ -1,0 +1,4 @@
+setupRequired(manufacture 3.0)
+setupRequired(stroke 1.0)
+setupRequired(high 3.0)
+setupRequired(laser 2.0)

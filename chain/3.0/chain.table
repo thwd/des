@@ -1,0 +1,4 @@
+setupRequired(broccoli 3.0)
+setupRequired(arm 1.0)
+setupRequired(enlarge 3.0)
+setupRequired(path 3.0)

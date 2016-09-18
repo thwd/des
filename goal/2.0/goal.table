@@ -1,0 +1,5 @@
+setupRequired(offender 2.0)
+setupRequired(habitat 3.0)
+setupRequired(wave 1.0)
+setupRequired(uncle 2.0)
+setupRequired(theory 1.0)

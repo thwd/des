@@ -1,0 +1,5 @@
+setupRequired(pollution 3.0)
+setupRequired(condition 2.0)
+setupRequired(wreck 1.0)
+setupRequired(depart 1.0)
+setupRequired(traffic 3.0)

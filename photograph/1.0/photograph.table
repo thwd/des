@@ -1,0 +1,4 @@
+setupRequired(track 1.0)
+setupRequired(fast 2.0)
+setupRequired(ranch 1.0)
+setupRequired(tendency 1.0)

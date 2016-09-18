@@ -1,0 +1,5 @@
+setupRequired(welcome 1.0)
+setupRequired(claim 3.0)
+setupRequired(blue 2.0)
+setupRequired(location 3.0)
+setupRequired(fairy 3.0)

@@ -1,0 +1,5 @@
+setupRequired(heel 3.0)
+setupRequired(pack 2.0)
+setupRequired(moment 1.0)
+setupRequired(donor 1.0)
+setupRequired(speed 1.0)

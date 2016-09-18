@@ -1,0 +1,5 @@
+setupRequired(insurance 1.0)
+setupRequired(captain 1.0)
+setupRequired(alive 3.0)
+setupRequired(compete 1.0)
+setupRequired(passage 3.0)

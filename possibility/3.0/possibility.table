@@ -1,0 +1,4 @@
+setupRequired(grounds 3.0)
+setupRequired(output 1.0)
+setupRequired(memorandum 3.0)
+setupRequired(blame 2.0)

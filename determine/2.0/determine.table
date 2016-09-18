@@ -1,0 +1,5 @@
+setupRequired(nomination 2.0)
+setupRequired(fog 3.0)
+setupRequired(castle 3.0)
+setupRequired(avant-garde 2.0)
+setupRequired(restrain 1.0)

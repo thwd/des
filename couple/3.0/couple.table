@@ -1,0 +1,5 @@
+setupRequired(screw 3.0)
+setupRequired(corruption 2.0)
+setupRequired(sculpture 1.0)
+setupRequired(bottom 2.0)
+setupRequired(indoor 2.0)

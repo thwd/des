@@ -1,0 +1,3 @@
+setupRequired(rock 2.0)
+setupRequired(length 3.0)
+setupRequired(mainstream 3.0)

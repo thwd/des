@@ -1,0 +1,3 @@
+setupRequired(ground 2.0)
+setupRequired(steam 3.0)
+setupRequired(alive 3.0)

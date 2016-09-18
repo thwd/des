@@ -1,0 +1,5 @@
+setupRequired(pardon 3.0)
+setupRequired(mist 1.0)
+setupRequired(cottage 2.0)
+setupRequired(application 2.0)
+setupRequired(can 3.0)

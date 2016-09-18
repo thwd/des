@@ -1,0 +1,5 @@
+setupRequired(waiter 1.0)
+setupRequired(worker 2.0)
+setupRequired(literacy 1.0)
+setupRequired(mother 3.0)
+setupRequired(hammer 3.0)

@@ -1,0 +1,4 @@
+setupRequired(censorship 1.0)
+setupRequired(shareholder 2.0)
+setupRequired(track 2.0)
+setupRequired(rugby 3.0)

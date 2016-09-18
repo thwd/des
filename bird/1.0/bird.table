@@ -1,0 +1,5 @@
+setupRequired(cut 2.0)
+setupRequired(shot 3.0)
+setupRequired(connection 3.0)
+setupRequired(permanent 3.0)
+setupRequired(liberal 3.0)

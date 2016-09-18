@@ -1,0 +1,5 @@
+setupRequired(mist 2.0)
+setupRequired(insurance 2.0)
+setupRequired(runner 3.0)
+setupRequired(note 1.0)
+setupRequired(recession 3.0)

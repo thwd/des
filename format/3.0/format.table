@@ -1,0 +1,4 @@
+setupRequired(terrace 2.0)
+setupRequired(civilian 2.0)
+setupRequired(deprive 3.0)
+setupRequired(ditch 2.0)

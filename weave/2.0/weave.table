@@ -1,0 +1,4 @@
+setupRequired(site 2.0)
+setupRequired(diet 1.0)
+setupRequired(conservation 3.0)
+setupRequired(crusade 1.0)

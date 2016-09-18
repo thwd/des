@@ -1,0 +1,4 @@
+setupRequired(army 3.0)
+setupRequired(cut 2.0)
+setupRequired(host 2.0)
+setupRequired(sea 2.0)

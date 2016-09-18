@@ -1,0 +1,5 @@
+setupRequired(student 1.0)
+setupRequired(suppress 1.0)
+setupRequired(adoption 1.0)
+setupRequired(exposure 2.0)
+setupRequired(proposal 3.0)

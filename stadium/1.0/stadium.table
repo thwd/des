@@ -1,0 +1,4 @@
+setupRequired(exception 3.0)
+setupRequired(diet 3.0)
+setupRequired(superintendent 3.0)
+setupRequired(prevent 2.0)

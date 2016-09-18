@@ -1,0 +1,3 @@
+setupRequired(prospect 3.0)
+setupRequired(creed 1.0)
+setupRequired(director 1.0)

@@ -1,0 +1,5 @@
+setupRequired(infection 3.0)
+setupRequired(census 2.0)
+setupRequired(fraud 3.0)
+setupRequired(salmon 2.0)
+setupRequired(reward 1.0)

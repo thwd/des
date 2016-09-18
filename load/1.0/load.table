@@ -1,0 +1,4 @@
+setupRequired(posture 1.0)
+setupRequired(coast 2.0)
+setupRequired(assumption 2.0)
+setupRequired(feedback 3.0)

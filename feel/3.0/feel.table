@@ -1,0 +1,4 @@
+setupRequired(election 3.0)
+setupRequired(load 2.0)
+setupRequired(survivor 3.0)
+setupRequired(brake 2.0)

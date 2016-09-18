@@ -1,0 +1,4 @@
+setupRequired(debate 1.0)
+setupRequired(noise 1.0)
+setupRequired(patch 2.0)
+setupRequired(great 2.0)

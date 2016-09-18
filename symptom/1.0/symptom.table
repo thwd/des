@@ -1,0 +1,5 @@
+setupRequired(print 3.0)
+setupRequired(chalk 1.0)
+setupRequired(great 2.0)
+setupRequired(reader 1.0)
+setupRequired(rhythm 1.0)

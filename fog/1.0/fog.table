@@ -1,0 +1,5 @@
+setupRequired(genetic 3.0)
+setupRequired(basin 3.0)
+setupRequired(parallel 2.0)
+setupRequired(wilderness 1.0)
+setupRequired(established 1.0)

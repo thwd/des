@@ -1,0 +1,3 @@
+setupRequired(museum 1.0)
+setupRequired(measure 3.0)
+setupRequired(genetic 2.0)

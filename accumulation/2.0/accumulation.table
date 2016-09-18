@@ -1,0 +1,4 @@
+setupRequired(shout 3.0)
+setupRequired(recognize 2.0)
+setupRequired(story 3.0)
+setupRequired(musical 3.0)

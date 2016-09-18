@@ -1,0 +1,4 @@
+setupRequired(permanent 2.0)
+setupRequired(agile 1.0)
+setupRequired(colleague 1.0)
+setupRequired(congress 3.0)

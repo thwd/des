@@ -1,0 +1,5 @@
+setupRequired(disability 3.0)
+setupRequired(ride 3.0)
+setupRequired(cycle 1.0)
+setupRequired(widen 1.0)
+setupRequired(timetable 1.0)

@@ -1,0 +1,5 @@
+setupRequired(application 1.0)
+setupRequired(storm 1.0)
+setupRequired(set 3.0)
+setupRequired(joystick 2.0)
+setupRequired(chain 2.0)

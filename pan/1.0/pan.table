@@ -1,0 +1,5 @@
+setupRequired(conclusion 3.0)
+setupRequired(tower 1.0)
+setupRequired(stop 1.0)
+setupRequired(express 2.0)
+setupRequired(scratch 1.0)

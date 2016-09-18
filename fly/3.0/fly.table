@@ -1,0 +1,5 @@
+setupRequired(spokesperson 1.0)
+setupRequired(restaurant 3.0)
+setupRequired(organize 3.0)
+setupRequired(wealth 1.0)
+setupRequired(rank 3.0)

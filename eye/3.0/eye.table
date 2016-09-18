@@ -1,0 +1,4 @@
+setupRequired(south 1.0)
+setupRequired(path 1.0)
+setupRequired(light 1.0)
+setupRequired(government 1.0)

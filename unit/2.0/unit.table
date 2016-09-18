@@ -1,0 +1,5 @@
+setupRequired(general 3.0)
+setupRequired(auction 3.0)
+setupRequired(uncle 1.0)
+setupRequired(run 1.0)
+setupRequired(eyebrow 1.0)

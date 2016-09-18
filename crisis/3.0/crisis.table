@@ -1,0 +1,5 @@
+setupRequired(memorandum 3.0)
+setupRequired(moment 2.0)
+setupRequired(few 1.0)
+setupRequired(straight 3.0)
+setupRequired(convince 3.0)

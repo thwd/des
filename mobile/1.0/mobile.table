@@ -1,0 +1,4 @@
+setupRequired(staircase 1.0)
+setupRequired(slave 1.0)
+setupRequired(instal 2.0)
+setupRequired(lineage 2.0)

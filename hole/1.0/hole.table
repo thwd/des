@@ -1,0 +1,4 @@
+setupRequired(pause 2.0)
+setupRequired(continental 3.0)
+setupRequired(tower 2.0)
+setupRequired(rest 3.0)

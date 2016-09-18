@@ -1,0 +1,5 @@
+setupRequired(proof 1.0)
+setupRequired(foundation 1.0)
+setupRequired(law 1.0)
+setupRequired(rob 1.0)
+setupRequired(knock 2.0)

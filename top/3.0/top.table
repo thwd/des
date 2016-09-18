@@ -1,0 +1,4 @@
+setupRequired(composer 3.0)
+setupRequired(mass 1.0)
+setupRequired(ride 3.0)
+setupRequired(fade 3.0)

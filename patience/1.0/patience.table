@@ -1,0 +1,5 @@
+setupRequired(pie 1.0)
+setupRequired(end 1.0)
+setupRequired(rugby 2.0)
+setupRequired(revoke 1.0)
+setupRequired(arrow 3.0)

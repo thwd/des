@@ -1,0 +1,5 @@
+setupRequired(dog 3.0)
+setupRequired(habitat 3.0)
+setupRequired(adoption 1.0)
+setupRequired(bounce 2.0)
+setupRequired(guard 2.0)

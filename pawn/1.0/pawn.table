@@ -1,0 +1,5 @@
+setupRequired(worry 1.0)
+setupRequired(dome 1.0)
+setupRequired(jet 2.0)
+setupRequired(lodge 3.0)
+setupRequired(academy 1.0)

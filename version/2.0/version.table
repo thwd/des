@@ -1,0 +1,3 @@
+setupRequired(exit 2.0)
+setupRequired(shareholder 2.0)
+setupRequired(muggy 2.0)

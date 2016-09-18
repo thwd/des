@@ -1,0 +1,5 @@
+setupRequired(suntan 3.0)
+setupRequired(proof 1.0)
+setupRequired(division 2.0)
+setupRequired(fair 1.0)
+setupRequired(bathtub 1.0)

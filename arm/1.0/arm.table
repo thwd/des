@@ -1,0 +1,5 @@
+setupRequired(monk 2.0)
+setupRequired(wound 1.0)
+setupRequired(bride 2.0)
+setupRequired(terrace 1.0)
+setupRequired(tenant 3.0)

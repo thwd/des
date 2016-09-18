@@ -1,0 +1,3 @@
+setupRequired(thaw 3.0)
+setupRequired(raise 1.0)
+setupRequired(peak 2.0)

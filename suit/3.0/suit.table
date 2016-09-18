@@ -1,0 +1,3 @@
+setupRequired(pack 1.0)
+setupRequired(risk 2.0)
+setupRequired(circulation 3.0)

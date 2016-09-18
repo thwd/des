@@ -1,0 +1,4 @@
+setupRequired(past 3.0)
+setupRequired(resource 1.0)
+setupRequired(basic 2.0)
+setupRequired(reject 3.0)

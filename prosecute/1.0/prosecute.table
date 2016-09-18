@@ -1,0 +1,4 @@
+setupRequired(couple 3.0)
+setupRequired(flawed 1.0)
+setupRequired(screw 1.0)
+setupRequired(faithful 1.0)

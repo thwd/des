@@ -1,0 +1,5 @@
+setupRequired(inappropriate 1.0)
+setupRequired(presence 1.0)
+setupRequired(runner 1.0)
+setupRequired(critic 3.0)
+setupRequired(deer 3.0)

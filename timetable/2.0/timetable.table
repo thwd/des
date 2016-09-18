@@ -1,0 +1,5 @@
+setupRequired(donor 1.0)
+setupRequired(yard 2.0)
+setupRequired(quota 2.0)
+setupRequired(manufacture 3.0)
+setupRequired(direct 1.0)

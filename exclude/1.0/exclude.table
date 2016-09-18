@@ -1,0 +1,5 @@
+setupRequired(onion 1.0)
+setupRequired(genetic 1.0)
+setupRequired(abandon 2.0)
+setupRequired(lick 2.0)
+setupRequired(pack 1.0)

@@ -1,0 +1,5 @@
+setupRequired(temporary 3.0)
+setupRequired(flat 3.0)
+setupRequired(sex 2.0)
+setupRequired(role 3.0)
+setupRequired(length 3.0)

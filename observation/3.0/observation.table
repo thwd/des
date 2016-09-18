@@ -1,0 +1,5 @@
+setupRequired(daughter 3.0)
+setupRequired(bronze 2.0)
+setupRequired(photography 3.0)
+setupRequired(transport 3.0)
+setupRequired(deer 1.0)

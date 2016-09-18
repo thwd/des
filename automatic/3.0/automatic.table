@@ -1,0 +1,3 @@
+setupRequired(mainstream 2.0)
+setupRequired(drink 1.0)
+setupRequired(nursery 2.0)

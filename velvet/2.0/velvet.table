@@ -1,0 +1,2 @@
+setupRequired(moment 1.0)
+setupRequired(vegetable 1.0)

@@ -1,0 +1,4 @@
+setupRequired(retirement 1.0)
+setupRequired(pen 3.0)
+setupRequired(restaurant 2.0)
+setupRequired(dash 2.0)

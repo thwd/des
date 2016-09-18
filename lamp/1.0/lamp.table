@@ -1,0 +1,4 @@
+setupRequired(south 3.0)
+setupRequired(sea 2.0)
+setupRequired(stroke 1.0)
+setupRequired(shape 1.0)

@@ -1,0 +1,4 @@
+setupRequired(mine 2.0)
+setupRequired(suburb 1.0)
+setupRequired(entitlement 1.0)
+setupRequired(excess 1.0)

@@ -1,0 +1,5 @@
+setupRequired(commerce 3.0)
+setupRequired(pull 2.0)
+setupRequired(format 3.0)
+setupRequired(slab 1.0)
+setupRequired(apology 3.0)

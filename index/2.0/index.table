@@ -1,0 +1,5 @@
+setupRequired(bulletin 3.0)
+setupRequired(battlefield 1.0)
+setupRequired(raid 1.0)
+setupRequired(ideal 3.0)
+setupRequired(wagon 1.0)

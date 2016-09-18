@@ -1,0 +1,4 @@
+setupRequired(diet 2.0)
+setupRequired(reduce 3.0)
+setupRequired(uncle 3.0)
+setupRequired(normal 3.0)

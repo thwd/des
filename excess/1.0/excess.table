@@ -1,0 +1,3 @@
+setupRequired(mother 2.0)
+setupRequired(primary 1.0)
+setupRequired(state 1.0)

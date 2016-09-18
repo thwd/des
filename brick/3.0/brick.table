@@ -1,0 +1,2 @@
+setupRequired(arrow 3.0)
+setupRequired(bride 2.0)

@@ -1,0 +1,5 @@
+setupRequired(slave 3.0)
+setupRequired(costume 1.0)
+setupRequired(deposit 1.0)
+setupRequired(treasurer 3.0)
+setupRequired(progressive 3.0)

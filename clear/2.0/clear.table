@@ -1,0 +1,5 @@
+setupRequired(offer 3.0)
+setupRequired(pursuit 3.0)
+setupRequired(ride 2.0)
+setupRequired(swear 3.0)
+setupRequired(general 2.0)

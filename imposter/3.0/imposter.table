@@ -1,0 +1,4 @@
+setupRequired(housewife 1.0)
+setupRequired(sword 3.0)
+setupRequired(reflect 1.0)
+setupRequired(polish 1.0)

@@ -1,0 +1,5 @@
+setupRequired(source 3.0)
+setupRequired(bounce 2.0)
+setupRequired(edition 2.0)
+setupRequired(solo 3.0)
+setupRequired(test 2.0)

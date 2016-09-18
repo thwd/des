@@ -1,0 +1,5 @@
+setupRequired(fund 1.0)
+setupRequired(host 1.0)
+setupRequired(courtesy 1.0)
+setupRequired(basketball 2.0)
+setupRequired(problem 1.0)

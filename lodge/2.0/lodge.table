@@ -1,0 +1,5 @@
+setupRequired(narrow 3.0)
+setupRequired(interference 1.0)
+setupRequired(solo 3.0)
+setupRequired(castle 2.0)
+setupRequired(inquiry 1.0)

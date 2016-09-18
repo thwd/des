@@ -1,0 +1,4 @@
+setupRequired(coincide 1.0)
+setupRequired(oil 1.0)
+setupRequired(exposure 2.0)
+setupRequired(mislead 3.0)

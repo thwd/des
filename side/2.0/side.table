@@ -1,0 +1,5 @@
+setupRequired(rational 3.0)
+setupRequired(publication 2.0)
+setupRequired(yard 2.0)
+setupRequired(grounds 2.0)
+setupRequired(approach 3.0)

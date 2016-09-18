@@ -1,0 +1,3 @@
+setupRequired(indulge 3.0)
+setupRequired(withdrawal 2.0)
+setupRequired(rotate 1.0)

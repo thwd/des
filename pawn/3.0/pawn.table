@@ -1,0 +1,5 @@
+setupRequired(load 1.0)
+setupRequired(mother 1.0)
+setupRequired(indoor 1.0)
+setupRequired(attractive 2.0)
+setupRequired(mayor 3.0)

@@ -1,0 +1,5 @@
+setupRequired(highway 3.0)
+setupRequired(symptom 3.0)
+setupRequired(acceptance 2.0)
+setupRequired(sail 2.0)
+setupRequired(humor 1.0)

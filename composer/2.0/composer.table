@@ -1,0 +1,4 @@
+setupRequired(ignorant 1.0)
+setupRequired(cancer 3.0)
+setupRequired(refund 1.0)
+setupRequired(item 3.0)

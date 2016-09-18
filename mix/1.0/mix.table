@@ -1,0 +1,4 @@
+setupRequired(blame 1.0)
+setupRequired(familiar 3.0)
+setupRequired(cap 1.0)
+setupRequired(inhibition 3.0)

@@ -1,0 +1,3 @@
+setupRequired(behave 2.0)
+setupRequired(pop 1.0)
+setupRequired(north 3.0)

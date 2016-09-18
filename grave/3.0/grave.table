@@ -1,0 +1,5 @@
+setupRequired(swear 3.0)
+setupRequired(mine 1.0)
+setupRequired(instrument 3.0)
+setupRequired(seek 3.0)
+setupRequired(exit 3.0)

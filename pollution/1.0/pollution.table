@@ -1,0 +1,4 @@
+setupRequired(throne 1.0)
+setupRequired(imposter 1.0)
+setupRequired(version 2.0)
+setupRequired(faithful 3.0)

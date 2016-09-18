@@ -1,0 +1,4 @@
+setupRequired(attract 1.0)
+setupRequired(native 1.0)
+setupRequired(sex 2.0)
+setupRequired(pocket 3.0)

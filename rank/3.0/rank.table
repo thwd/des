@@ -1,0 +1,4 @@
+setupRequired(publication 1.0)
+setupRequired(siege 3.0)
+setupRequired(troop 2.0)
+setupRequired(layer 1.0)

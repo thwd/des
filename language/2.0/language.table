@@ -1,0 +1,5 @@
+setupRequired(blue 3.0)
+setupRequired(official 2.0)
+setupRequired(bill 1.0)
+setupRequired(siege 3.0)
+setupRequired(sail 1.0)

@@ -1,0 +1,3 @@
+setupRequired(present 3.0)
+setupRequired(child 3.0)
+setupRequired(trouser 3.0)

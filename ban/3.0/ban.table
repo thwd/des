@@ -1,0 +1,5 @@
+setupRequired(classroom 1.0)
+setupRequired(arrow 2.0)
+setupRequired(weight 3.0)
+setupRequired(integrated 1.0)
+setupRequired(world 2.0)

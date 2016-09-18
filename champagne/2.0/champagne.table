@@ -1,0 +1,4 @@
+setupRequired(inspiration 2.0)
+setupRequired(plane 3.0)
+setupRequired(spread 2.0)
+setupRequired(control 1.0)

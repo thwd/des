@@ -1,0 +1,5 @@
+setupRequired(adventure 3.0)
+setupRequired(real 1.0)
+setupRequired(path 2.0)
+setupRequired(pair 1.0)
+setupRequired(lose 1.0)

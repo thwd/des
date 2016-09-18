@@ -1,0 +1,4 @@
+setupRequired(dough 3.0)
+setupRequired(lick 1.0)
+setupRequired(item 1.0)
+setupRequired(cow 3.0)

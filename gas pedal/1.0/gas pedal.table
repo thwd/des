@@ -1,0 +1,4 @@
+setupRequired(landowner 3.0)
+setupRequired(fan 1.0)
+setupRequired(layer 1.0)
+setupRequired(clear 1.0)

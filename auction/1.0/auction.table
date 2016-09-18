@@ -1,0 +1,4 @@
+setupRequired(leash 3.0)
+setupRequired(reader 2.0)
+setupRequired(socialist 2.0)
+setupRequired(cream 2.0)

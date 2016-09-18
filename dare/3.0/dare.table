@@ -1,0 +1,2 @@
+setupRequired(dash 3.0)
+setupRequired(moment 3.0)

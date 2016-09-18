@@ -1,0 +1,5 @@
+setupRequired(holiday 1.0)
+setupRequired(site 2.0)
+setupRequired(dorm 3.0)
+setupRequired(win 2.0)
+setupRequired(rhythm 3.0)

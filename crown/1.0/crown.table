@@ -1,0 +1,3 @@
+setupRequired(guard 3.0)
+setupRequired(compartment 2.0)
+setupRequired(version 2.0)

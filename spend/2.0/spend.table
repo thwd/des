@@ -1,0 +1,5 @@
+setupRequired(state 3.0)
+setupRequired(resource 3.0)
+setupRequired(accident 3.0)
+setupRequired(swipe 1.0)
+setupRequired(throat 2.0)

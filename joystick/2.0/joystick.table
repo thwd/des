@@ -1,0 +1,5 @@
+setupRequired(turn 3.0)
+setupRequired(global 1.0)
+setupRequired(elbow 2.0)
+setupRequired(highlight 3.0)
+setupRequired(chalk 3.0)

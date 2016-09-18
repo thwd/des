@@ -1,0 +1,5 @@
+setupRequired(guard 2.0)
+setupRequired(glory 1.0)
+setupRequired(wall 2.0)
+setupRequired(landowner 3.0)
+setupRequired(intention 1.0)

@@ -1,0 +1,5 @@
+setupRequired(humor 1.0)
+setupRequired(fraud 1.0)
+setupRequired(script 1.0)
+setupRequired(can 1.0)
+setupRequired(superintendent 3.0)

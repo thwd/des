@@ -1,0 +1,4 @@
+setupRequired(rugby 2.0)
+setupRequired(prize 2.0)
+setupRequired(consumer 1.0)
+setupRequired(lemon 3.0)

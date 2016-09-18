@@ -1,0 +1,5 @@
+setupRequired(beautiful 2.0)
+setupRequired(pause 3.0)
+setupRequired(Venus 3.0)
+setupRequired(censorship 1.0)
+setupRequired(origin 3.0)

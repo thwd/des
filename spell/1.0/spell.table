@@ -1,0 +1,2 @@
+setupRequired(spray 2.0)
+setupRequired(pull 1.0)

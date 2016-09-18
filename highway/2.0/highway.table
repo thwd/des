@@ -1,0 +1,4 @@
+setupRequired(subway 3.0)
+setupRequired(hurl 3.0)
+setupRequired(car 2.0)
+setupRequired(admit 1.0)

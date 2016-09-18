@@ -1,0 +1,5 @@
+setupRequired(map 1.0)
+setupRequired(rock 2.0)
+setupRequired(congress 3.0)
+setupRequired(fair 2.0)
+setupRequired(censorship 3.0)

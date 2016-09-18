@@ -1,0 +1,5 @@
+setupRequired(refer 3.0)
+setupRequired(constraint 3.0)
+setupRequired(mayor 2.0)
+setupRequired(redeem 3.0)
+setupRequired(demonstrator 1.0)

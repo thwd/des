@@ -1,0 +1,4 @@
+setupRequired(rank 2.0)
+setupRequired(manner 2.0)
+setupRequired(cluster 1.0)
+setupRequired(traffic 2.0)

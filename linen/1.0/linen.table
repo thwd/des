@@ -1,0 +1,4 @@
+setupRequired(top 1.0)
+setupRequired(breathe 3.0)
+setupRequired(wrist 2.0)
+setupRequired(party 1.0)

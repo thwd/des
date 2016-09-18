@@ -1,0 +1,2 @@
+setupRequired(nose 2.0)
+setupRequired(mother 1.0)

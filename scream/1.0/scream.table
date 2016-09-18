@@ -1,0 +1,5 @@
+setupRequired(fast 3.0)
+setupRequired(unlawful 2.0)
+setupRequired(story 2.0)
+setupRequired(steam 1.0)
+setupRequired(auction 1.0)

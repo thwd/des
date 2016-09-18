@@ -1,0 +1,4 @@
+setupRequired(window 3.0)
+setupRequired(passage 2.0)
+setupRequired(foundation 3.0)
+setupRequired(shout 3.0)

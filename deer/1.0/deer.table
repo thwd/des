@@ -1,0 +1,5 @@
+setupRequired(compose 3.0)
+setupRequired(fall 1.0)
+setupRequired(flash 3.0)
+setupRequired(paper 2.0)
+setupRequired(biology 2.0)

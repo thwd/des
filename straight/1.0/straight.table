@@ -1,0 +1,5 @@
+setupRequired(slump 3.0)
+setupRequired(salmon 3.0)
+setupRequired(barrier 1.0)
+setupRequired(harmful 2.0)
+setupRequired(add 1.0)

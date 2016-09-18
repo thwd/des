@@ -1,0 +1,4 @@
+setupRequired(jungle 2.0)
+setupRequired(feedback 2.0)
+setupRequired(pillow 3.0)
+setupRequired(recommendation 3.0)

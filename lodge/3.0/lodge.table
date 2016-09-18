@@ -1,0 +1,5 @@
+setupRequired(narrow 2.0)
+setupRequired(prospect 3.0)
+setupRequired(essay 3.0)
+setupRequired(solution 3.0)
+setupRequired(superintendent 3.0)

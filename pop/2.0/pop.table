@@ -1,0 +1,4 @@
+setupRequired(lamp 3.0)
+setupRequired(grounds 2.0)
+setupRequired(recovery 3.0)
+setupRequired(intention 3.0)

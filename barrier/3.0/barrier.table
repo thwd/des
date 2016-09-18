@@ -1,0 +1,3 @@
+setupRequired(orchestra 1.0)
+setupRequired(crime 2.0)
+setupRequired(green 2.0)

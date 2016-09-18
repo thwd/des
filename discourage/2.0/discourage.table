@@ -1,0 +1,5 @@
+setupRequired(account 2.0)
+setupRequired(civilian 2.0)
+setupRequired(lease 1.0)
+setupRequired(switch 2.0)
+setupRequired(observer 1.0)

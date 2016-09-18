@@ -1,0 +1,5 @@
+setupRequired(condition 3.0)
+setupRequired(essay 3.0)
+setupRequired(graphic 2.0)
+setupRequired(wear 2.0)
+setupRequired(constituency 1.0)

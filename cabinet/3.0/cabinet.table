@@ -1,0 +1,5 @@
+setupRequired(muscle 1.0)
+setupRequired(eyebrow 1.0)
+setupRequired(mass 1.0)
+setupRequired(pop 1.0)
+setupRequired(speed 2.0)

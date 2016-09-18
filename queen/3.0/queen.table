@@ -1,0 +1,4 @@
+setupRequired(settlement 3.0)
+setupRequired(deprive 3.0)
+setupRequired(can 2.0)
+setupRequired(excess 2.0)

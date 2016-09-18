@@ -1,0 +1,5 @@
+setupRequired(precision 1.0)
+setupRequired(access 3.0)
+setupRequired(celebration 1.0)
+setupRequired(literacy 2.0)
+setupRequired(cause 2.0)

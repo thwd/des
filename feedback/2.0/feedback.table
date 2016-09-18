@@ -1,0 +1,5 @@
+setupRequired(final 1.0)
+setupRequired(fun 3.0)
+setupRequired(barrier 2.0)
+setupRequired(maze 3.0)
+setupRequired(spell 1.0)

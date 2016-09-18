@@ -1,0 +1,5 @@
+setupRequired(death 3.0)
+setupRequired(ground 3.0)
+setupRequired(reproduction 1.0)
+setupRequired(deficit 1.0)
+setupRequired(dilute 3.0)

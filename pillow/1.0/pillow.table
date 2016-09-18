@@ -1,0 +1,5 @@
+setupRequired(manner 1.0)
+setupRequired(exclude 1.0)
+setupRequired(convenience 2.0)
+setupRequired(discourage 1.0)
+setupRequired(entry 3.0)

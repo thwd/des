@@ -1,0 +1,2 @@
+setupRequired(holiday 1.0)
+setupRequired(jest 1.0)

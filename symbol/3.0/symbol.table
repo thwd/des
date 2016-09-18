@@ -1,0 +1,4 @@
+setupRequired(mainstream 2.0)
+setupRequired(critic 2.0)
+setupRequired(virus 2.0)
+setupRequired(harass 2.0)

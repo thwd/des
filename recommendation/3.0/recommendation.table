@@ -1,0 +1,4 @@
+setupRequired(director 2.0)
+setupRequired(anxiety 2.0)
+setupRequired(memorandum 2.0)
+setupRequired(log 1.0)

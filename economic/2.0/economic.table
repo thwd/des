@@ -1,0 +1,5 @@
+setupRequired(patience 2.0)
+setupRequired(carriage 1.0)
+setupRequired(Europe 3.0)
+setupRequired(clearance 3.0)
+setupRequired(abandon 1.0)

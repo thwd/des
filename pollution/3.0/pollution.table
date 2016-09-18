@@ -1,0 +1,4 @@
+setupRequired(superintendent 2.0)
+setupRequired(entertainment 1.0)
+setupRequired(rational 2.0)
+setupRequired(redeem 2.0)

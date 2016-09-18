@@ -1,0 +1,5 @@
+setupRequired(symbol 3.0)
+setupRequired(formal 1.0)
+setupRequired(transport 2.0)
+setupRequired(linen 2.0)
+setupRequired(inappropriate 2.0)

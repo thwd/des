@@ -1,0 +1,5 @@
+setupRequired(dull 3.0)
+setupRequired(wagon 2.0)
+setupRequired(entertainment 1.0)
+setupRequired(determine 3.0)
+setupRequired(route 3.0)

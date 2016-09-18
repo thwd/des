@@ -1,0 +1,5 @@
+setupRequired(museum 1.0)
+setupRequired(disco 3.0)
+setupRequired(anxiety 2.0)
+setupRequired(diet 2.0)
+setupRequired(youth 3.0)

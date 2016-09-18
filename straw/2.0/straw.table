@@ -1,0 +1,3 @@
+setupRequired(commission 2.0)
+setupRequired(fair 3.0)
+setupRequired(convert 2.0)

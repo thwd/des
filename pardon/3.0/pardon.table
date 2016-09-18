@@ -1,0 +1,3 @@
+setupRequired(session 3.0)
+setupRequired(sword 1.0)
+setupRequired(get 1.0)

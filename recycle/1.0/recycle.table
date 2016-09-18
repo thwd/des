@@ -1,0 +1,5 @@
+setupRequired(fraud 2.0)
+setupRequired(innovation 3.0)
+setupRequired(behave 3.0)
+setupRequired(offer 2.0)
+setupRequired(magazine 2.0)

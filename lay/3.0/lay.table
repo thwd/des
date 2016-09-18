@@ -1,0 +1,5 @@
+setupRequired(fame 1.0)
+setupRequired(bargain 3.0)
+setupRequired(primary 2.0)
+setupRequired(constitutional 1.0)
+setupRequired(leash 2.0)

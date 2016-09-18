@@ -1,0 +1,5 @@
+setupRequired(game 3.0)
+setupRequired(classify 3.0)
+setupRequired(satisfaction 1.0)
+setupRequired(parallel 1.0)
+setupRequired(error 1.0)

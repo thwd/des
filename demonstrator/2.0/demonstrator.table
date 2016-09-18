@@ -1,0 +1,4 @@
+setupRequired(revolutionary 2.0)
+setupRequired(linen 2.0)
+setupRequired(coverage 2.0)
+setupRequired(press 1.0)

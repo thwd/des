@@ -1,0 +1,2 @@
+setupRequired(classify 3.0)
+setupRequired(tower 3.0)

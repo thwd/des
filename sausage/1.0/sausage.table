@@ -1,0 +1,4 @@
+setupRequired(indoor 2.0)
+setupRequired(stream 3.0)
+setupRequired(prospect 3.0)
+setupRequired(adult 2.0)

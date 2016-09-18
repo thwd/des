@@ -1,0 +1,4 @@
+setupRequired(sniff 1.0)
+setupRequired(integration 2.0)
+setupRequired(cross 1.0)
+setupRequired(attractive 1.0)

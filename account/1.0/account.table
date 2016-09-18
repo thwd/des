@@ -1,0 +1,5 @@
+setupRequired(remember 1.0)
+setupRequired(miracle 3.0)
+setupRequired(appoint 3.0)
+setupRequired(carry 1.0)
+setupRequired(prevent 2.0)

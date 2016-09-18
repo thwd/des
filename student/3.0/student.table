@@ -1,0 +1,4 @@
+setupRequired(splurge 2.0)
+setupRequired(pride 2.0)
+setupRequired(mother 2.0)
+setupRequired(version 3.0)

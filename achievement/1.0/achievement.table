@@ -1,0 +1,4 @@
+setupRequired(straw 1.0)
+setupRequired(burn 2.0)
+setupRequired(exception 2.0)
+setupRequired(fireplace 3.0)

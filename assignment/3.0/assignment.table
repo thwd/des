@@ -1,0 +1,4 @@
+setupRequired(fairy 2.0)
+setupRequired(congress 3.0)
+setupRequired(swear 3.0)
+setupRequired(post 1.0)

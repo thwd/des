@@ -1,0 +1,4 @@
+setupRequired(death 3.0)
+setupRequired(soft 2.0)
+setupRequired(score 3.0)
+setupRequired(veil 2.0)

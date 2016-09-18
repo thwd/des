@@ -1,0 +1,4 @@
+setupRequired(resist 1.0)
+setupRequired(cut 3.0)
+setupRequired(screw 3.0)
+setupRequired(strict 3.0)

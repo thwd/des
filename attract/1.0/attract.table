@@ -1,0 +1,4 @@
+setupRequired(swear 2.0)
+setupRequired(grateful 1.0)
+setupRequired(suggest 2.0)
+setupRequired(graduate 3.0)

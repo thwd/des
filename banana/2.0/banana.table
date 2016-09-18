@@ -1,0 +1,4 @@
+setupRequired(log 2.0)
+setupRequired(range 3.0)
+setupRequired(virus 3.0)
+setupRequired(redeem 2.0)

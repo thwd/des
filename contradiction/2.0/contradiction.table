@@ -1,0 +1,5 @@
+setupRequired(institution 1.0)
+setupRequired(suburb 3.0)
+setupRequired(shower 1.0)
+setupRequired(log 1.0)
+setupRequired(stitch 2.0)

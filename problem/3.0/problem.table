@@ -1,0 +1,4 @@
+setupRequired(intermediate 2.0)
+setupRequired(ghost 1.0)
+setupRequired(pace 1.0)
+setupRequired(origin 1.0)

@@ -1,0 +1,5 @@
+setupRequired(plane 3.0)
+setupRequired(basketball 3.0)
+setupRequired(sympathetic 2.0)
+setupRequired(feedback 2.0)
+setupRequired(application 3.0)

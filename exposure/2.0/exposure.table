@@ -1,0 +1,5 @@
+setupRequired(boot 1.0)
+setupRequired(offender 1.0)
+setupRequired(peak 2.0)
+setupRequired(dive 2.0)
+setupRequired(primary 3.0)

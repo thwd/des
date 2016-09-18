@@ -1,0 +1,5 @@
+setupRequired(musical 1.0)
+setupRequired(tenant 1.0)
+setupRequired(classify 1.0)
+setupRequired(horn 1.0)
+setupRequired(east 2.0)

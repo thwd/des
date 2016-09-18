@@ -1,0 +1,3 @@
+setupRequired(magnetic 1.0)
+setupRequired(item 1.0)
+setupRequired(weight 2.0)

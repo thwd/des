@@ -1,0 +1,4 @@
+setupRequired(layer 3.0)
+setupRequired(appetite 2.0)
+setupRequired(cell 3.0)
+setupRequired(message 2.0)

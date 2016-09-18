@@ -1,0 +1,5 @@
+setupRequired(congress 2.0)
+setupRequired(steward 2.0)
+setupRequired(complain 1.0)
+setupRequired(carve 1.0)
+setupRequired(figure 3.0)

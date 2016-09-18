@@ -1,0 +1,3 @@
+setupRequired(story 2.0)
+setupRequired(worker 1.0)
+setupRequired(strict 2.0)

@@ -1,0 +1,4 @@
+setupRequired(admit 3.0)
+setupRequired(fireplace 3.0)
+setupRequired(traffic 1.0)
+setupRequired(determine 3.0)

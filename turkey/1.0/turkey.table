@@ -1,0 +1,4 @@
+setupRequired(housewife 3.0)
+setupRequired(compose 3.0)
+setupRequired(plot 2.0)
+setupRequired(velvet 1.0)

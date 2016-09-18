@@ -1,0 +1,5 @@
+setupRequired(child 2.0)
+setupRequired(residence 3.0)
+setupRequired(dive 1.0)
+setupRequired(offer 2.0)
+setupRequired(tense 3.0)

@@ -1,0 +1,4 @@
+setupRequired(real 3.0)
+setupRequired(lodge 2.0)
+setupRequired(photograph 2.0)
+setupRequired(holiday 3.0)

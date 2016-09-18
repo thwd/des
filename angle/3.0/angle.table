@@ -1,0 +1,4 @@
+setupRequired(hurl 1.0)
+setupRequired(incident 1.0)
+setupRequired(dress 2.0)
+setupRequired(crutch 2.0)

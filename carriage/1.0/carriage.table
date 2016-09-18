@@ -1,0 +1,4 @@
+setupRequired(army 1.0)
+setupRequired(figure 2.0)
+setupRequired(conversation 2.0)
+setupRequired(liberal 1.0)

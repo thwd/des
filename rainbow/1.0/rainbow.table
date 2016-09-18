@@ -1,0 +1,4 @@
+setupRequired(abandon 3.0)
+setupRequired(iron 1.0)
+setupRequired(graphic 1.0)
+setupRequired(myth 3.0)

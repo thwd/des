@@ -1,0 +1,5 @@
+setupRequired(grateful 3.0)
+setupRequired(company 3.0)
+setupRequired(bride 2.0)
+setupRequired(posture 2.0)
+setupRequired(plaster 2.0)

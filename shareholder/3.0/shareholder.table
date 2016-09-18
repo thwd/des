@@ -1,0 +1,5 @@
+setupRequired(conglomerate 1.0)
+setupRequired(slave 1.0)
+setupRequired(activate 3.0)
+setupRequired(weight 3.0)
+setupRequired(seek 1.0)

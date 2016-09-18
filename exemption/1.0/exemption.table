@@ -1,0 +1,4 @@
+setupRequired(elbow 3.0)
+setupRequired(sex 2.0)
+setupRequired(high 2.0)
+setupRequired(rebellion 1.0)

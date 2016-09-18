@@ -1,0 +1,5 @@
+setupRequired(nationalism 3.0)
+setupRequired(nursery 2.0)
+setupRequired(broccoli 1.0)
+setupRequired(rainbow 3.0)
+setupRequired(peace 2.0)

@@ -1,0 +1,5 @@
+setupRequired(mother 3.0)
+setupRequired(wisecrack 2.0)
+setupRequired(score 3.0)
+setupRequired(brake 3.0)
+setupRequired(rotate 3.0)

@@ -1,0 +1,5 @@
+setupRequired(castle 2.0)
+setupRequired(subject 1.0)
+setupRequired(article 1.0)
+setupRequired(age 1.0)
+setupRequired(stitch 2.0)

@@ -1,0 +1,4 @@
+setupRequired(compete 1.0)
+setupRequired(room 3.0)
+setupRequired(spray 1.0)
+setupRequired(decide 3.0)

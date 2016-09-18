@@ -1,0 +1,5 @@
+setupRequired(rest 3.0)
+setupRequired(entitlement 1.0)
+setupRequired(posture 1.0)
+setupRequired(news 1.0)
+setupRequired(banana 1.0)

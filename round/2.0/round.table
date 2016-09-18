@@ -1,0 +1,3 @@
+setupRequired(commission 3.0)
+setupRequired(elect 3.0)
+setupRequired(progressive 3.0)

@@ -1,0 +1,3 @@
+setupRequired(noise 3.0)
+setupRequired(shareholder 2.0)
+setupRequired(team 2.0)

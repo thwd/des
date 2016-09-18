@@ -1,0 +1,2 @@
+setupRequired(parachute 3.0)
+setupRequired(feast 1.0)

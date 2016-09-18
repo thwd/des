@@ -1,0 +1,5 @@
+setupRequired(ditch 3.0)
+setupRequired(danger 3.0)
+setupRequired(burn 2.0)
+setupRequired(brainstorm 1.0)
+setupRequired(convince 1.0)

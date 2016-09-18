@@ -1,0 +1,5 @@
+setupRequired(output 2.0)
+setupRequired(sheet 2.0)
+setupRequired(lot 2.0)
+setupRequired(fast 2.0)
+setupRequired(registration 2.0)

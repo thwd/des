@@ -1,0 +1,3 @@
+setupRequired(organize 3.0)
+setupRequired(coincide 3.0)
+setupRequired(performer 1.0)

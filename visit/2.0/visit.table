@@ -1,0 +1,5 @@
+setupRequired(excess 3.0)
+setupRequired(recognize 1.0)
+setupRequired(smash 3.0)
+setupRequired(corruption 3.0)
+setupRequired(lodge 3.0)

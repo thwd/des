@@ -1,0 +1,5 @@
+setupRequired(conversation 2.0)
+setupRequired(steam 2.0)
+setupRequired(entertainment 1.0)
+setupRequired(interference 3.0)
+setupRequired(side 3.0)

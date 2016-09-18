@@ -1,0 +1,5 @@
+setupRequired(pie 2.0)
+setupRequired(host 2.0)
+setupRequired(pop 3.0)
+setupRequired(pillow 1.0)
+setupRequired(approach 1.0)

@@ -1,0 +1,3 @@
+setupRequired(corn 3.0)
+setupRequired(color 2.0)
+setupRequired(coat 1.0)

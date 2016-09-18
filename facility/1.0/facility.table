@@ -1,0 +1,4 @@
+setupRequired(crutch 2.0)
+setupRequired(species 3.0)
+setupRequired(integrated 2.0)
+setupRequired(inappropriate 2.0)

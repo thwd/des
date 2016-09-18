@@ -1,0 +1,5 @@
+setupRequired(dog 2.0)
+setupRequired(annual 3.0)
+setupRequired(highway 2.0)
+setupRequired(ostracize 1.0)
+setupRequired(stadium 2.0)

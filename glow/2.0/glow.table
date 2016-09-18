@@ -1,0 +1,4 @@
+setupRequired(tasty 3.0)
+setupRequired(classify 2.0)
+setupRequired(theory 1.0)
+setupRequired(lift 3.0)

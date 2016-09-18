@@ -1,0 +1,5 @@
+setupRequired(steward 1.0)
+setupRequired(debate 1.0)
+setupRequired(tidy 1.0)
+setupRequired(integrated 1.0)
+setupRequired(slab 3.0)

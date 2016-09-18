@@ -1,0 +1,5 @@
+setupRequired(temporary 2.0)
+setupRequired(challenge 2.0)
+setupRequired(pavement 1.0)
+setupRequired(plaintiff 3.0)
+setupRequired(conglomerate 3.0)

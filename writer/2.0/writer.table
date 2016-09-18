@@ -1,0 +1,4 @@
+setupRequired(beautiful 3.0)
+setupRequired(cinema 1.0)
+setupRequired(banish 3.0)
+setupRequired(conventional 3.0)

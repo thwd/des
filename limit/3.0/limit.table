@@ -1,0 +1,4 @@
+setupRequired(pack 3.0)
+setupRequired(native 1.0)
+setupRequired(like 1.0)
+setupRequired(achievement 3.0)

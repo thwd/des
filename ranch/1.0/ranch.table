@@ -1,0 +1,5 @@
+setupRequired(deficit 3.0)
+setupRequired(formal 3.0)
+setupRequired(speed 1.0)
+setupRequired(revival 2.0)
+setupRequired(radiation sickness 1.0)

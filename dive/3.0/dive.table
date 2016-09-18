@@ -1,0 +1,4 @@
+setupRequired(blackmail 1.0)
+setupRequired(harmful 2.0)
+setupRequired(sow 3.0)
+setupRequired(goal 1.0)

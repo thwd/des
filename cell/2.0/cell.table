@@ -1,0 +1,5 @@
+setupRequired(boot 3.0)
+setupRequired(iron 1.0)
+setupRequired(spare 2.0)
+setupRequired(copy 1.0)
+setupRequired(ghost 3.0)

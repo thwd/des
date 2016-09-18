@@ -1,0 +1,5 @@
+setupRequired(harm 2.0)
+setupRequired(crusade 1.0)
+setupRequired(buy 2.0)
+setupRequired(hay 1.0)
+setupRequired(suburb 3.0)

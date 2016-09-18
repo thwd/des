@@ -1,0 +1,4 @@
+setupRequired(biology 1.0)
+setupRequired(beautiful 1.0)
+setupRequired(offer 3.0)
+setupRequired(flat 3.0)

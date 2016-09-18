@@ -1,0 +1,4 @@
+setupRequired(cook 1.0)
+setupRequired(inspiration 2.0)
+setupRequired(ground 3.0)
+setupRequired(foundation 3.0)

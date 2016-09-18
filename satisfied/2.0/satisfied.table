@@ -1,0 +1,3 @@
+setupRequired(foster 3.0)
+setupRequired(engineer 1.0)
+setupRequired(dome 1.0)

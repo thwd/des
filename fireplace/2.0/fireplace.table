@@ -1,0 +1,3 @@
+setupRequired(miracle 1.0)
+setupRequired(suit 2.0)
+setupRequired(application 3.0)

@@ -1,0 +1,4 @@
+setupRequired(man 2.0)
+setupRequired(admiration 1.0)
+setupRequired(troop 3.0)
+setupRequired(pepper 2.0)

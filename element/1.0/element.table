@@ -1,0 +1,5 @@
+setupRequired(control 2.0)
+setupRequired(poor 2.0)
+setupRequired(sin 2.0)
+setupRequired(suit 2.0)
+setupRequired(horn 3.0)

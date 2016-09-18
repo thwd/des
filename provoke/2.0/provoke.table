@@ -1,0 +1,4 @@
+setupRequired(glimpse 1.0)
+setupRequired(presence 2.0)
+setupRequired(foster 3.0)
+setupRequired(confuse 3.0)

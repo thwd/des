@@ -1,0 +1,5 @@
+setupRequired(ride 2.0)
+setupRequired(parachute 1.0)
+setupRequired(regard 1.0)
+setupRequired(maze 2.0)
+setupRequired(accessible 2.0)

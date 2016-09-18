@@ -1,0 +1,4 @@
+setupRequired(subject 3.0)
+setupRequired(bounce 1.0)
+setupRequired(length 3.0)
+setupRequired(set 2.0)

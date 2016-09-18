@@ -1,0 +1,4 @@
+setupRequired(digress 1.0)
+setupRequired(offend 1.0)
+setupRequired(coincide 3.0)
+setupRequired(basic 1.0)

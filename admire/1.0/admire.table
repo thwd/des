@@ -1,0 +1,4 @@
+setupRequired(partnership 2.0)
+setupRequired(salon 2.0)
+setupRequired(sell 2.0)
+setupRequired(shareholder 2.0)

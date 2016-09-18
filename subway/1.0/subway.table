@@ -1,0 +1,5 @@
+setupRequired(nose 3.0)
+setupRequired(spread 3.0)
+setupRequired(youth 1.0)
+setupRequired(mayor 3.0)
+setupRequired(give 2.0)

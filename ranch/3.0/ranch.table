@@ -1,0 +1,2 @@
+setupRequired(compose 3.0)
+setupRequired(particular 1.0)

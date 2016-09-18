@@ -1,0 +1,3 @@
+setupRequired(minister 3.0)
+setupRequired(behave 3.0)
+setupRequired(residence 1.0)

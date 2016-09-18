@@ -1,0 +1,5 @@
+setupRequired(graphic 3.0)
+setupRequired(prize 3.0)
+setupRequired(storm 2.0)
+setupRequired(challenge 2.0)
+setupRequired(angle 1.0)

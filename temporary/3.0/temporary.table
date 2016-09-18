@@ -1,0 +1,3 @@
+setupRequired(canvas 3.0)
+setupRequired(provoke 1.0)
+setupRequired(speed 1.0)

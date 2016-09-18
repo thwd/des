@@ -1,0 +1,4 @@
+setupRequired(primary 2.0)
+setupRequired(chin 2.0)
+setupRequired(park 2.0)
+setupRequired(boat 1.0)

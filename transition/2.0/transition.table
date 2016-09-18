@@ -1,0 +1,4 @@
+setupRequired(patience 2.0)
+setupRequired(whisper 1.0)
+setupRequired(society 1.0)
+setupRequired(champion 3.0)

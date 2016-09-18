@@ -1,0 +1,4 @@
+setupRequired(settlement 2.0)
+setupRequired(heel 1.0)
+setupRequired(present 3.0)
+setupRequired(message 1.0)

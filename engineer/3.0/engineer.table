@@ -1,0 +1,5 @@
+setupRequired(leaflet 1.0)
+setupRequired(morning 3.0)
+setupRequired(acquisition 2.0)
+setupRequired(color 1.0)
+setupRequired(adventure 3.0)

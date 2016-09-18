@@ -1,0 +1,4 @@
+setupRequired(pursuit 2.0)
+setupRequired(prize 2.0)
+setupRequired(circulation 2.0)
+setupRequired(winter 3.0)

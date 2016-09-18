@@ -1,0 +1,5 @@
+setupRequired(steward 2.0)
+setupRequired(yard 2.0)
+setupRequired(tool 3.0)
+setupRequired(encourage 3.0)
+setupRequired(courtesy 1.0)

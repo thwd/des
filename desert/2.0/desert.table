@@ -1,0 +1,4 @@
+setupRequired(foundation 1.0)
+setupRequired(session 2.0)
+setupRequired(east 1.0)
+setupRequired(industry 3.0)

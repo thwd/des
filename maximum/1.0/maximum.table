@@ -1,0 +1,5 @@
+setupRequired(elect 2.0)
+setupRequired(package 2.0)
+setupRequired(high 1.0)
+setupRequired(faint 1.0)
+setupRequired(bronze 3.0)

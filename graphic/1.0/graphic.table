@@ -1,0 +1,5 @@
+setupRequired(path 1.0)
+setupRequired(ignore 2.0)
+setupRequired(consumer 3.0)
+setupRequired(rebellion 3.0)
+setupRequired(coin 1.0)

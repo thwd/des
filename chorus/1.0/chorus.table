@@ -1,0 +1,4 @@
+setupRequired(throne 1.0)
+setupRequired(switch 3.0)
+setupRequired(treasurer 3.0)
+setupRequired(sticky 2.0)

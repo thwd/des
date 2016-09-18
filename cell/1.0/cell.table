@@ -1,0 +1,5 @@
+setupRequired(feed 1.0)
+setupRequired(great 1.0)
+setupRequired(velvet 1.0)
+setupRequired(pressure 3.0)
+setupRequired(indulge 3.0)

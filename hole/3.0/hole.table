@@ -1,0 +1,5 @@
+setupRequired(index 1.0)
+setupRequired(location 2.0)
+setupRequired(indoor 1.0)
+setupRequired(chin 3.0)
+setupRequired(fraction 3.0)

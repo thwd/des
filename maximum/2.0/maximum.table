@@ -1,0 +1,2 @@
+setupRequired(riot 2.0)
+setupRequired(salmon 1.0)

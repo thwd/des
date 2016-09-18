@@ -1,0 +1,5 @@
+setupRequired(defend 2.0)
+setupRequired(final 1.0)
+setupRequired(tropical 1.0)
+setupRequired(fold 2.0)
+setupRequired(corruption 1.0)

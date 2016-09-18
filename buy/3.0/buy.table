@@ -1,0 +1,3 @@
+setupRequired(basin 3.0)
+setupRequired(boot 1.0)
+setupRequired(linen 1.0)

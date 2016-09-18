@@ -1,0 +1,4 @@
+setupRequired(socialist 1.0)
+setupRequired(run 1.0)
+setupRequired(integration 2.0)
+setupRequired(photography 3.0)

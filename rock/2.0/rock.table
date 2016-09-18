@@ -1,0 +1,5 @@
+setupRequired(swipe 1.0)
+setupRequired(throat 1.0)
+setupRequired(subject 2.0)
+setupRequired(rent 1.0)
+setupRequired(sticky 2.0)

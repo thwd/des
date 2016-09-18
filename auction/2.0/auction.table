@@ -1,0 +1,4 @@
+setupRequired(ideal 1.0)
+setupRequired(displace 3.0)
+setupRequired(teach 2.0)
+setupRequired(revoke 3.0)

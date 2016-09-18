@@ -1,0 +1,4 @@
+setupRequired(fireplace 2.0)
+setupRequired(flash 3.0)
+setupRequired(lick 3.0)
+setupRequired(sensitive 1.0)

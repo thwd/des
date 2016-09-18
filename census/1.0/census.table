@@ -1,0 +1,5 @@
+setupRequired(fail 2.0)
+setupRequired(man 2.0)
+setupRequired(force 3.0)
+setupRequired(piano 2.0)
+setupRequired(miracle 2.0)

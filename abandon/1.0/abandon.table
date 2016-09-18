@@ -1,0 +1,5 @@
+setupRequired(log 3.0)
+setupRequired(fan 3.0)
+setupRequired(noise 3.0)
+setupRequired(observer 3.0)
+setupRequired(promotion 1.0)

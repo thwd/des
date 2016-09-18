@@ -1,0 +1,4 @@
+setupRequired(announcement 3.0)
+setupRequired(intermediate 1.0)
+setupRequired(bad 2.0)
+setupRequired(publication 3.0)

@@ -1,0 +1,5 @@
+setupRequired(coach 3.0)
+setupRequired(general 3.0)
+setupRequired(symbol 1.0)
+setupRequired(shower 1.0)
+setupRequired(general 3.0)

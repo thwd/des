@@ -1,0 +1,3 @@
+setupRequired(transport 1.0)
+setupRequired(east 1.0)
+setupRequired(note 2.0)

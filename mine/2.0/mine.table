@@ -1,0 +1,4 @@
+setupRequired(continuous 3.0)
+setupRequired(accompany 1.0)
+setupRequired(track 2.0)
+setupRequired(integrated 2.0)

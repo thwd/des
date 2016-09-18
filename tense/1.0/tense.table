@@ -1,0 +1,3 @@
+setupRequired(empirical 3.0)
+setupRequired(affect 3.0)
+setupRequired(aisle 3.0)

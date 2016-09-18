@@ -1,0 +1,5 @@
+setupRequired(copy 3.0)
+setupRequired(lose 2.0)
+setupRequired(round 1.0)
+setupRequired(dress 3.0)
+setupRequired(cereal 3.0)

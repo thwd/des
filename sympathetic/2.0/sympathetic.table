@@ -1,0 +1,4 @@
+setupRequired(carve 1.0)
+setupRequired(cell 1.0)
+setupRequired(hammer 2.0)
+setupRequired(agile 2.0)

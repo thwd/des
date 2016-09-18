@@ -1,0 +1,5 @@
+setupRequired(net 1.0)
+setupRequired(consumer 2.0)
+setupRequired(general 2.0)
+setupRequired(rest 2.0)
+setupRequired(raid 2.0)

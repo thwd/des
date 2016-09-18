@@ -1,0 +1,5 @@
+setupRequired(auction 2.0)
+setupRequired(classify 2.0)
+setupRequired(foster 1.0)
+setupRequired(goal 2.0)
+setupRequired(final 3.0)

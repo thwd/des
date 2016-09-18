@@ -1,0 +1,3 @@
+setupRequired(wagon 2.0)
+setupRequired(note 3.0)
+setupRequired(feast 2.0)

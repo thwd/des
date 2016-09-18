@@ -1,0 +1,3 @@
+setupRequired(cheque 3.0)
+setupRequired(sound 3.0)
+setupRequired(recommendation 3.0)

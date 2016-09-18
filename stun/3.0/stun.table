@@ -1,0 +1,5 @@
+setupRequired(field 3.0)
+setupRequired(plaintiff 3.0)
+setupRequired(refund 2.0)
+setupRequired(feather 1.0)
+setupRequired(rent 2.0)

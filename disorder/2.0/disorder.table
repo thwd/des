@@ -1,0 +1,5 @@
+setupRequired(ball 3.0)
+setupRequired(throat 1.0)
+setupRequired(elbow 3.0)
+setupRequired(basketball 2.0)
+setupRequired(imposter 3.0)

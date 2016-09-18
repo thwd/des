@@ -1,0 +1,4 @@
+setupRequired(ignorant 1.0)
+setupRequired(color 1.0)
+setupRequired(congress 2.0)
+setupRequired(shape 2.0)

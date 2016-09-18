@@ -1,0 +1,3 @@
+setupRequired(crosswalk 2.0)
+setupRequired(shot 1.0)
+setupRequired(multiply 1.0)

@@ -1,0 +1,5 @@
+setupRequired(primary 1.0)
+setupRequired(soak 1.0)
+setupRequired(holiday 3.0)
+setupRequired(feel 1.0)
+setupRequired(cut 2.0)

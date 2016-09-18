@@ -1,0 +1,5 @@
+setupRequired(conglomerate 2.0)
+setupRequired(accident 2.0)
+setupRequired(champagne 3.0)
+setupRequired(native 1.0)
+setupRequired(faithful 1.0)

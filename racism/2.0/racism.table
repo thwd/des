@@ -1,0 +1,4 @@
+setupRequired(element 3.0)
+setupRequired(graze 1.0)
+setupRequired(danger 2.0)
+setupRequired(canvas 1.0)

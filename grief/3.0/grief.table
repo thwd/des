@@ -1,0 +1,5 @@
+setupRequired(highway 2.0)
+setupRequired(pause 2.0)
+setupRequired(fuel 1.0)
+setupRequired(cucumber 1.0)
+setupRequired(aisle 1.0)

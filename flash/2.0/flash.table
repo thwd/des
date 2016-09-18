@@ -1,0 +1,5 @@
+setupRequired(idea 3.0)
+setupRequired(distant 3.0)
+setupRequired(tense 1.0)
+setupRequired(parallel 3.0)
+setupRequired(like 3.0)

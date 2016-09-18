@@ -1,0 +1,5 @@
+setupRequired(retirement 2.0)
+setupRequired(ostracize 3.0)
+setupRequired(memorandum 2.0)
+setupRequired(complain 1.0)
+setupRequired(bathtub 3.0)

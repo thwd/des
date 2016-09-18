@@ -1,0 +1,5 @@
+setupRequired(detector 1.0)
+setupRequired(feel 1.0)
+setupRequired(overwhelm 3.0)
+setupRequired(wreck 2.0)
+setupRequired(team 1.0)

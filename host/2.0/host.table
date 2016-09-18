@@ -1,0 +1,4 @@
+setupRequired(warm 1.0)
+setupRequired(species 3.0)
+setupRequired(traffic 3.0)
+setupRequired(musical 1.0)

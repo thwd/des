@@ -1,0 +1,5 @@
+setupRequired(multiply 3.0)
+setupRequired(restrain 1.0)
+setupRequired(wriggle 1.0)
+setupRequired(note 1.0)
+setupRequired(laser 2.0)

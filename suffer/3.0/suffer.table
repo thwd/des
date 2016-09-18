@@ -1,0 +1,5 @@
+setupRequired(censorship 2.0)
+setupRequired(fever 3.0)
+setupRequired(surgeon 1.0)
+setupRequired(assignment 3.0)
+setupRequired(facility 3.0)

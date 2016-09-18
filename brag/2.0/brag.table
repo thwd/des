@@ -1,0 +1,5 @@
+setupRequired(episode 3.0)
+setupRequired(disorder 1.0)
+setupRequired(guard 3.0)
+setupRequired(banish 1.0)
+setupRequired(can 3.0)

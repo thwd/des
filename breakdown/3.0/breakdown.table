@@ -1,0 +1,4 @@
+setupRequired(empirical 2.0)
+setupRequired(colleague 2.0)
+setupRequired(dome 1.0)
+setupRequired(rub 2.0)

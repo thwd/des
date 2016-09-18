@@ -1,0 +1,5 @@
+setupRequired(narrow 1.0)
+setupRequired(basic 1.0)
+setupRequired(elbow 2.0)
+setupRequired(aisle 1.0)
+setupRequired(solution 1.0)

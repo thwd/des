@@ -1,0 +1,5 @@
+setupRequired(get 3.0)
+setupRequired(layer 1.0)
+setupRequired(whisper 2.0)
+setupRequired(teach 2.0)
+setupRequired(plan 1.0)

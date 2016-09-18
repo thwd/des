@@ -1,0 +1,4 @@
+setupRequired(rebellion 3.0)
+setupRequired(sympathetic 2.0)
+setupRequired(species 2.0)
+setupRequired(pair 2.0)

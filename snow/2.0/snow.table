@@ -1,0 +1,4 @@
+setupRequired(diet 2.0)
+setupRequired(magnetic 1.0)
+setupRequired(glove 1.0)
+setupRequired(thirsty 1.0)

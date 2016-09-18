@@ -1,0 +1,5 @@
+setupRequired(monarch 2.0)
+setupRequired(eye 3.0)
+setupRequired(sell 2.0)
+setupRequired(cluster 2.0)
+setupRequired(bother 3.0)

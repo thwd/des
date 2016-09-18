@@ -1,0 +1,4 @@
+setupRequired(condition 1.0)
+setupRequired(treasurer 3.0)
+setupRequired(cottage 2.0)
+setupRequired(origin 2.0)

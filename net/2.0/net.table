@@ -1,0 +1,5 @@
+setupRequired(myth 3.0)
+setupRequired(grand 2.0)
+setupRequired(social 1.0)
+setupRequired(pen 1.0)
+setupRequired(integrated 1.0)

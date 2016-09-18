@@ -1,0 +1,4 @@
+setupRequired(loop 1.0)
+setupRequired(holiday 1.0)
+setupRequired(deficiency 2.0)
+setupRequired(bad 3.0)

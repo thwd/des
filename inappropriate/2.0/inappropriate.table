@@ -1,0 +1,2 @@
+setupRequired(coverage 1.0)
+setupRequired(cabinet 3.0)

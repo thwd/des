@@ -1,0 +1,4 @@
+setupRequired(forum 3.0)
+setupRequired(piano 1.0)
+setupRequired(particular 2.0)
+setupRequired(abandon 2.0)

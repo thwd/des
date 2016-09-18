@@ -1,0 +1,5 @@
+setupRequired(print 2.0)
+setupRequired(accumulation 2.0)
+setupRequired(classify 1.0)
+setupRequired(exception 2.0)
+setupRequired(native 2.0)

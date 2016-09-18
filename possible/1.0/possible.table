@@ -1,0 +1,5 @@
+setupRequired(broccoli 3.0)
+setupRequired(straw 3.0)
+setupRequired(mist 3.0)
+setupRequired(breathe 1.0)
+setupRequired(countryside 2.0)

@@ -1,0 +1,5 @@
+setupRequired(eyebrow 1.0)
+setupRequired(approve 3.0)
+setupRequired(mother 1.0)
+setupRequired(dog 3.0)
+setupRequired(jockey 3.0)

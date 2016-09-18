@@ -1,0 +1,3 @@
+setupRequired(car 2.0)
+setupRequired(core 3.0)
+setupRequired(native 3.0)

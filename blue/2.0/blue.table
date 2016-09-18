@@ -1,0 +1,4 @@
+setupRequired(apology 2.0)
+setupRequired(press 1.0)
+setupRequired(abandon 2.0)
+setupRequired(redeem 3.0)

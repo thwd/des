@@ -1,0 +1,4 @@
+setupRequired(approve 2.0)
+setupRequired(rotate 3.0)
+setupRequired(laundry 1.0)
+setupRequired(chair 3.0)

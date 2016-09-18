@@ -1,0 +1,4 @@
+setupRequired(sniff 2.0)
+setupRequired(nature 2.0)
+setupRequired(nationalism 3.0)
+setupRequired(print 3.0)

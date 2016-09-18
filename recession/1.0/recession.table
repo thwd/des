@@ -1,0 +1,4 @@
+setupRequired(theft 2.0)
+setupRequired(domestic 1.0)
+setupRequired(lineage 2.0)
+setupRequired(slant 2.0)

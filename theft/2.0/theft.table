@@ -1,0 +1,5 @@
+setupRequired(fibre 1.0)
+setupRequired(complain 1.0)
+setupRequired(negligence 3.0)
+setupRequired(shell 1.0)
+setupRequired(ball 1.0)

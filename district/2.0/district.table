@@ -1,0 +1,3 @@
+setupRequired(basic 3.0)
+setupRequired(genetic 2.0)
+setupRequired(noise 2.0)

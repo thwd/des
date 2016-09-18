@@ -1,0 +1,5 @@
+setupRequired(economic 2.0)
+setupRequired(liberal 2.0)
+setupRequired(salmon 2.0)
+setupRequired(chair 1.0)
+setupRequired(news 1.0)

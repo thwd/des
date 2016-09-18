@@ -1,0 +1,5 @@
+setupRequired(crusade 3.0)
+setupRequired(law 2.0)
+setupRequired(warm 2.0)
+setupRequired(harsh 1.0)
+setupRequired(traffic 3.0)

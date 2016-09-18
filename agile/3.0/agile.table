@@ -1,0 +1,5 @@
+setupRequired(decline 2.0)
+setupRequired(fuel 1.0)
+setupRequired(deficit 1.0)
+setupRequired(accumulation 1.0)
+setupRequired(few 1.0)

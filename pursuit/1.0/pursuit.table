@@ -1,0 +1,5 @@
+setupRequired(rabbit 1.0)
+setupRequired(unaware 1.0)
+setupRequired(coat 2.0)
+setupRequired(steak 1.0)
+setupRequired(courtesy 3.0)

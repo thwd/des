@@ -1,0 +1,5 @@
+setupRequired(court 1.0)
+setupRequired(fuel 2.0)
+setupRequired(protection 3.0)
+setupRequired(humor 3.0)
+setupRequired(role 2.0)

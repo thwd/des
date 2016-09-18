@@ -1,0 +1,5 @@
+setupRequired(debut 2.0)
+setupRequired(cross 1.0)
+setupRequired(light 1.0)
+setupRequired(commerce 2.0)
+setupRequired(student 2.0)

@@ -1,0 +1,5 @@
+setupRequired(proof 3.0)
+setupRequired(recession 3.0)
+setupRequired(institution 1.0)
+setupRequired(torture 1.0)
+setupRequired(satisfied 3.0)

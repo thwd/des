@@ -1,0 +1,5 @@
+setupRequired(shake 2.0)
+setupRequired(edition 1.0)
+setupRequired(approach 1.0)
+setupRequired(student 3.0)
+setupRequired(occupy 1.0)

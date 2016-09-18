@@ -1,0 +1,4 @@
+setupRequired(slump 2.0)
+setupRequired(bracket 2.0)
+setupRequired(reserve 1.0)
+setupRequired(beg 1.0)

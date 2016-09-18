@@ -1,0 +1,4 @@
+setupRequired(scale 2.0)
+setupRequired(forum 3.0)
+setupRequired(traffic 3.0)
+setupRequired(contradiction 1.0)

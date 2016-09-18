@@ -1,0 +1,4 @@
+setupRequired(engineer 1.0)
+setupRequired(quota 1.0)
+setupRequired(elbow 2.0)
+setupRequired(win 2.0)

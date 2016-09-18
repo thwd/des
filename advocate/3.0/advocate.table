@@ -1,0 +1,5 @@
+setupRequired(annual 1.0)
+setupRequired(depart 3.0)
+setupRequired(reserve 3.0)
+setupRequired(tie 2.0)
+setupRequired(progressive 2.0)

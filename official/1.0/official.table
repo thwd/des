@@ -1,0 +1,5 @@
+setupRequired(shape 1.0)
+setupRequired(daughter 2.0)
+setupRequired(convert 3.0)
+setupRequired(dress 1.0)
+setupRequired(exception 2.0)

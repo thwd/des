@@ -1,0 +1,3 @@
+setupRequired(circulation 1.0)
+setupRequired(fireplace 2.0)
+setupRequired(muscle 3.0)

@@ -1,0 +1,5 @@
+setupRequired(throne 2.0)
+setupRequired(set 2.0)
+setupRequired(basin 2.0)
+setupRequired(ideal 1.0)
+setupRequired(afford 2.0)

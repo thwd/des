@@ -1,0 +1,4 @@
+setupRequired(mist 3.0)
+setupRequired(scratch 3.0)
+setupRequired(prosecute 1.0)
+setupRequired(accompany 2.0)

@@ -1,0 +1,5 @@
+setupRequired(civilian 1.0)
+setupRequired(symbol 3.0)
+setupRequired(claim 1.0)
+setupRequired(run 3.0)
+setupRequired(colon 1.0)

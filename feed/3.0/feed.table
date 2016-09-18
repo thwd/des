@@ -1,0 +1,4 @@
+setupRequired(pop 1.0)
+setupRequired(heel 2.0)
+setupRequired(soak 1.0)
+setupRequired(laser 1.0)

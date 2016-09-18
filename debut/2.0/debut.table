@@ -1,0 +1,2 @@
+setupRequired(ghost 3.0)
+setupRequired(tree 1.0)

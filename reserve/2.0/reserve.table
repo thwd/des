@@ -1,0 +1,4 @@
+setupRequired(die 3.0)
+setupRequired(interference 3.0)
+setupRequired(ostracize 3.0)
+setupRequired(activity 3.0)

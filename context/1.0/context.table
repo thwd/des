@@ -1,0 +1,4 @@
+setupRequired(provoke 1.0)
+setupRequired(charge 3.0)
+setupRequired(court 1.0)
+setupRequired(banana 1.0)

@@ -1,0 +1,5 @@
+setupRequired(sea 1.0)
+setupRequired(eye 3.0)
+setupRequired(insurance 1.0)
+setupRequired(complain 2.0)
+setupRequired(chicken 3.0)

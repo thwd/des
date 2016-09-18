@@ -1,0 +1,4 @@
+setupRequired(lick 2.0)
+setupRequired(assumption 3.0)
+setupRequired(sweet 2.0)
+setupRequired(pepper 3.0)

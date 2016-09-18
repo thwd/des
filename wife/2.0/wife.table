@@ -1,0 +1,5 @@
+setupRequired(critical 2.0)
+setupRequired(inappropriate 1.0)
+setupRequired(residence 3.0)
+setupRequired(can 2.0)
+setupRequired(departure 3.0)

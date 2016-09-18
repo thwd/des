@@ -1,0 +1,4 @@
+setupRequired(litigation 3.0)
+setupRequired(green 2.0)
+setupRequired(incident 2.0)
+setupRequired(queen 1.0)

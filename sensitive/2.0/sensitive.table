@@ -1,0 +1,4 @@
+setupRequired(turkey 1.0)
+setupRequired(raise 3.0)
+setupRequired(wreck 3.0)
+setupRequired(scream 2.0)

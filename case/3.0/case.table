@@ -1,0 +1,5 @@
+setupRequired(diet 1.0)
+setupRequired(negotiation 2.0)
+setupRequired(makeup 3.0)
+setupRequired(insistence 1.0)
+setupRequired(tower 1.0)

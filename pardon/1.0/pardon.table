@@ -1,0 +1,4 @@
+setupRequired(strict 1.0)
+setupRequired(mainstream 2.0)
+setupRequired(get 2.0)
+setupRequired(tendency 3.0)

@@ -1,0 +1,4 @@
+setupRequired(chair 3.0)
+setupRequired(move 1.0)
+setupRequired(peak 2.0)
+setupRequired(promotion 3.0)

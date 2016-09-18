@@ -1,0 +1,4 @@
+setupRequired(chin 3.0)
+setupRequired(sex 2.0)
+setupRequired(constituency 3.0)
+setupRequired(tired 3.0)

@@ -1,0 +1,4 @@
+setupRequired(inspiration 1.0)
+setupRequired(confuse 2.0)
+setupRequired(tenant 1.0)
+setupRequired(queen 2.0)

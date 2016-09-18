@@ -1,0 +1,5 @@
+setupRequired(afford 3.0)
+setupRequired(AIDS 2.0)
+setupRequired(satisfaction 2.0)
+setupRequired(throat 1.0)
+setupRequired(boat 1.0)

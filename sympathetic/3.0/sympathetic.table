@@ -1,0 +1,5 @@
+setupRequired(series 2.0)
+setupRequired(stun 1.0)
+setupRequired(theft 1.0)
+setupRequired(mislead 2.0)
+setupRequired(mixture 3.0)

@@ -1,0 +1,5 @@
+setupRequired(log 3.0)
+setupRequired(colon 1.0)
+setupRequired(shareholder 1.0)
+setupRequired(circulation 2.0)
+setupRequired(mother 3.0)

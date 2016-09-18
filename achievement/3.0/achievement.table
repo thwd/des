@@ -1,0 +1,5 @@
+setupRequired(pavement 2.0)
+setupRequired(conclusion 2.0)
+setupRequired(parallel 1.0)
+setupRequired(ethics 1.0)
+setupRequired(fever 2.0)

@@ -1,0 +1,5 @@
+setupRequired(feather 1.0)
+setupRequired(rebellion 3.0)
+setupRequired(clearance 1.0)
+setupRequired(admire 2.0)
+setupRequired(bathtub 1.0)

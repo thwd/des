@@ -1,0 +1,4 @@
+setupRequired(muscle 3.0)
+setupRequired(dorm 1.0)
+setupRequired(random 3.0)
+setupRequired(bounce 2.0)

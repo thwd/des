@@ -1,0 +1,4 @@
+setupRequired(drop 2.0)
+setupRequired(log 3.0)
+setupRequired(hotdog 2.0)
+setupRequired(commission 1.0)

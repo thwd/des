@@ -1,0 +1,5 @@
+setupRequired(institution 2.0)
+setupRequired(shrink 2.0)
+setupRequired(dough 2.0)
+setupRequired(temporary 2.0)
+setupRequired(tenant 3.0)

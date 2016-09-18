@@ -1,0 +1,5 @@
+setupRequired(scale 1.0)
+setupRequired(wreck 2.0)
+setupRequired(behave 1.0)
+setupRequired(cottage 2.0)
+setupRequired(drop 1.0)

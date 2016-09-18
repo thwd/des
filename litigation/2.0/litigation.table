@@ -1,0 +1,3 @@
+setupRequired(ribbon 3.0)
+setupRequired(possibility 2.0)
+setupRequired(fight 3.0)

@@ -1,0 +1,5 @@
+setupRequired(deficiency 2.0)
+setupRequired(timetable 2.0)
+setupRequired(secure 2.0)
+setupRequired(visit 2.0)
+setupRequired(departure 2.0)

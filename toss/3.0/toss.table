@@ -1,0 +1,4 @@
+setupRequired(narrow 1.0)
+setupRequired(pattern 3.0)
+setupRequired(indulge 1.0)
+setupRequired(reduction 1.0)

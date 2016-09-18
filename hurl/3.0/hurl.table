@@ -1,0 +1,4 @@
+setupRequired(displace 3.0)
+setupRequired(tasty 1.0)
+setupRequired(stop 2.0)
+setupRequired(fun 1.0)

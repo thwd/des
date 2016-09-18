@@ -1,0 +1,5 @@
+setupRequired(different 1.0)
+setupRequired(get 3.0)
+setupRequired(dome 3.0)
+setupRequired(dive 3.0)
+setupRequired(foundation 1.0)

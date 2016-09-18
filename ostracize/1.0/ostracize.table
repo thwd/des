@@ -1,0 +1,4 @@
+setupRequired(basic 2.0)
+setupRequired(state 2.0)
+setupRequired(series 2.0)
+setupRequired(reserve 2.0)

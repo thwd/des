@@ -1,0 +1,4 @@
+setupRequired(social 3.0)
+setupRequired(give 3.0)
+setupRequired(established 2.0)
+setupRequired(win 2.0)

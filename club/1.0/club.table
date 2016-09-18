@@ -1,0 +1,5 @@
+setupRequired(wear 1.0)
+setupRequired(banner 2.0)
+setupRequired(official 1.0)
+setupRequired(provoke 3.0)
+setupRequired(freeze 1.0)

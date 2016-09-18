@@ -1,0 +1,5 @@
+setupRequired(corruption 2.0)
+setupRequired(annual 2.0)
+setupRequired(feedback 3.0)
+setupRequired(idea 2.0)
+setupRequired(swear 1.0)

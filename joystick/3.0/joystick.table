@@ -1,0 +1,4 @@
+setupRequired(pursuit 1.0)
+setupRequired(load 2.0)
+setupRequired(attract 1.0)
+setupRequired(onion 2.0)

@@ -1,0 +1,5 @@
+setupRequired(captain 3.0)
+setupRequired(tin 1.0)
+setupRequired(establish 1.0)
+setupRequired(raise 3.0)
+setupRequired(remember 1.0)

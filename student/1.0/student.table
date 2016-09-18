@@ -1,0 +1,4 @@
+setupRequired(normal 1.0)
+setupRequired(achievement 3.0)
+setupRequired(suppress 1.0)
+setupRequired(graduate 3.0)

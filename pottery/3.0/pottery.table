@@ -1,0 +1,4 @@
+setupRequired(stomach 2.0)
+setupRequired(registration 3.0)
+setupRequired(myth 3.0)
+setupRequired(stride 3.0)

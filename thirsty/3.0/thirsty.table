@@ -1,0 +1,3 @@
+setupRequired(symbol 3.0)
+setupRequired(observation 1.0)
+setupRequired(establish 1.0)

@@ -1,0 +1,5 @@
+setupRequired(bottom 2.0)
+setupRequired(man 1.0)
+setupRequired(screw 2.0)
+setupRequired(crosswalk 1.0)
+setupRequired(daughter 2.0)

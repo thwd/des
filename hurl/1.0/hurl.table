@@ -1,0 +1,4 @@
+setupRequired(tropical 3.0)
+setupRequired(lecture 2.0)
+setupRequired(banner 3.0)
+setupRequired(pace 2.0)

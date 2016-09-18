@@ -1,0 +1,5 @@
+setupRequired(steward 2.0)
+setupRequired(present 1.0)
+setupRequired(sensitive 3.0)
+setupRequired(morning 1.0)
+setupRequired(cause 2.0)

@@ -1,0 +1,4 @@
+setupRequired(problem 1.0)
+setupRequired(hurl 2.0)
+setupRequired(glove 2.0)
+setupRequired(stride 3.0)

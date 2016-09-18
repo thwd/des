@@ -1,0 +1,4 @@
+setupRequired(treasurer 3.0)
+setupRequired(vegetable 3.0)
+setupRequired(carve 1.0)
+setupRequired(glove 2.0)

@@ -1,0 +1,5 @@
+setupRequired(grand 2.0)
+setupRequired(grave 3.0)
+setupRequired(wear 3.0)
+setupRequired(flash 2.0)
+setupRequired(canvas 2.0)

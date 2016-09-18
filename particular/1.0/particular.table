@@ -1,0 +1,4 @@
+setupRequired(session 3.0)
+setupRequired(salvation 1.0)
+setupRequired(plaster 1.0)
+setupRequired(suit 2.0)

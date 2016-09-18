@@ -1,0 +1,4 @@
+setupRequired(flex 3.0)
+setupRequired(wave 1.0)
+setupRequired(index 1.0)
+setupRequired(lease 1.0)

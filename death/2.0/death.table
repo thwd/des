@@ -1,0 +1,3 @@
+setupRequired(liberal 2.0)
+setupRequired(control 3.0)
+setupRequired(fame 3.0)

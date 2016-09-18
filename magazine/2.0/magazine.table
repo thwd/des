@@ -1,0 +1,5 @@
+setupRequired(observer 2.0)
+setupRequired(determine 1.0)
+setupRequired(yearn 2.0)
+setupRequired(exempt 3.0)
+setupRequired(charge 3.0)

@@ -1,0 +1,5 @@
+setupRequired(champagne 1.0)
+setupRequired(access 3.0)
+setupRequired(admiration 2.0)
+setupRequired(composer 1.0)
+setupRequired(pan 3.0)

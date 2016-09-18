@@ -1,0 +1,4 @@
+setupRequired(novel 3.0)
+setupRequired(mixture 1.0)
+setupRequired(cycle 1.0)
+setupRequired(digress 2.0)

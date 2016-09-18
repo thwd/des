@@ -1,0 +1,4 @@
+setupRequired(feel 2.0)
+setupRequired(classroom 1.0)
+setupRequired(coffin 2.0)
+setupRequired(rent 3.0)

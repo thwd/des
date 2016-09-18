@@ -1,0 +1,4 @@
+setupRequired(carriage 2.0)
+setupRequired(function 3.0)
+setupRequired(coast 3.0)
+setupRequired(death 2.0)

@@ -1,0 +1,4 @@
+setupRequired(bathtub 3.0)
+setupRequired(technology 2.0)
+setupRequired(departure 2.0)
+setupRequired(protect 2.0)

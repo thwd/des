@@ -1,0 +1,3 @@
+setupRequired(moment 2.0)
+setupRequired(preference 1.0)
+setupRequired(load 3.0)

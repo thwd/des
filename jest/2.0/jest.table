@@ -1,0 +1,4 @@
+setupRequired(plane 1.0)
+setupRequired(academy 1.0)
+setupRequired(slump 2.0)
+setupRequired(tape 3.0)

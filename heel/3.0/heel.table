@@ -1,0 +1,5 @@
+setupRequired(dive 1.0)
+setupRequired(inappropriate 1.0)
+setupRequired(dull 2.0)
+setupRequired(nomination 1.0)
+setupRequired(speed 3.0)

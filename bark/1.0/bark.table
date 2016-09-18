@@ -1,0 +1,4 @@
+setupRequired(onion 1.0)
+setupRequired(straw 2.0)
+setupRequired(wilderness 2.0)
+setupRequired(mix 2.0)

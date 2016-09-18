@@ -1,0 +1,4 @@
+setupRequired(oil 1.0)
+setupRequired(pollution 1.0)
+setupRequired(item 2.0)
+setupRequired(charge 3.0)

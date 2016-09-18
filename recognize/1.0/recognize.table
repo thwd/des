@@ -1,0 +1,5 @@
+setupRequired(reckless 2.0)
+setupRequired(ribbon 1.0)
+setupRequired(provoke 2.0)
+setupRequired(formal 2.0)
+setupRequired(basketball 3.0)

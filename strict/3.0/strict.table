@@ -1,0 +1,5 @@
+setupRequired(bow 3.0)
+setupRequired(warm 3.0)
+setupRequired(rub 2.0)
+setupRequired(scale 3.0)
+setupRequired(aid 3.0)

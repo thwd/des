@@ -1,0 +1,4 @@
+setupRequired(eyebrow 3.0)
+setupRequired(room 2.0)
+setupRequired(braid 3.0)
+setupRequired(manner 2.0)

@@ -1,0 +1,3 @@
+setupRequired(compromise 3.0)
+setupRequired(timetable 2.0)
+setupRequired(district 2.0)

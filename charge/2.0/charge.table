@@ -1,0 +1,2 @@
+setupRequired(fun 3.0)
+setupRequired(governor 1.0)

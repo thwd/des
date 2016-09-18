@@ -1,0 +1,4 @@
+setupRequired(admit 2.0)
+setupRequired(route 1.0)
+setupRequired(storm 3.0)
+setupRequired(crusade 1.0)

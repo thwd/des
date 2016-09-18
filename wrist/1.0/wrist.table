@@ -1,0 +1,4 @@
+setupRequired(monk 1.0)
+setupRequired(indulge 3.0)
+setupRequired(blame 1.0)
+setupRequired(overwhelm 1.0)

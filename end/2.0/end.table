@@ -1,0 +1,4 @@
+setupRequired(academy 2.0)
+setupRequired(site 3.0)
+setupRequired(tube 3.0)
+setupRequired(instrument 2.0)

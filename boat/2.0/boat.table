@@ -1,0 +1,4 @@
+setupRequired(compose 2.0)
+setupRequired(diet 2.0)
+setupRequired(accumulation 1.0)
+setupRequired(admit 3.0)

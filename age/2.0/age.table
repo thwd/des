@@ -1,0 +1,3 @@
+setupRequired(graphic 1.0)
+setupRequired(classroom 1.0)
+setupRequired(track 3.0)

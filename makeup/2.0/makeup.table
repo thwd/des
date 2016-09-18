@@ -1,0 +1,4 @@
+setupRequired(ice 1.0)
+setupRequired(wife 1.0)
+setupRequired(section 3.0)
+setupRequired(secure 2.0)

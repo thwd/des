@@ -1,0 +1,4 @@
+setupRequired(sow 2.0)
+setupRequired(partnership 3.0)
+setupRequired(hostility 3.0)
+setupRequired(bulletin 3.0)

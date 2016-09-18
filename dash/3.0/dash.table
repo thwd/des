@@ -1,0 +1,3 @@
+setupRequired(entry 2.0)
+setupRequired(host 2.0)
+setupRequired(stream 1.0)

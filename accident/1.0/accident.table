@@ -1,0 +1,4 @@
+setupRequired(tribute 2.0)
+setupRequired(wagon 2.0)
+setupRequired(profession 2.0)
+setupRequired(tribute 3.0)

@@ -1,0 +1,5 @@
+setupRequired(bottom 2.0)
+setupRequired(alive 3.0)
+setupRequired(arm 1.0)
+setupRequired(staff 3.0)
+setupRequired(pattern 2.0)

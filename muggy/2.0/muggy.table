@@ -1,0 +1,5 @@
+setupRequired(raise 3.0)
+setupRequired(iron 3.0)
+setupRequired(salvation 1.0)
+setupRequired(bronze 1.0)
+setupRequired(registration 3.0)

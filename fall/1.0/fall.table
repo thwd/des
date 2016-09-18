@@ -1,0 +1,5 @@
+setupRequired(article 1.0)
+setupRequired(publication 2.0)
+setupRequired(brick 1.0)
+setupRequired(prize 3.0)
+setupRequired(composer 3.0)

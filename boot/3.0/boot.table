@@ -1,0 +1,3 @@
+setupRequired(bill 1.0)
+setupRequired(market 3.0)
+setupRequired(confuse 3.0)

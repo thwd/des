@@ -1,0 +1,5 @@
+setupRequired(fraud 1.0)
+setupRequired(village 3.0)
+setupRequired(Venus 3.0)
+setupRequired(director 1.0)
+setupRequired(symbol 3.0)

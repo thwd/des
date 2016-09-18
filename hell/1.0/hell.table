@@ -1,0 +1,4 @@
+setupRequired(wild 1.0)
+setupRequired(temple 1.0)
+setupRequired(continuous 1.0)
+setupRequired(novel 3.0)

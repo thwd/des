@@ -1,0 +1,4 @@
+setupRequired(strike 1.0)
+setupRequired(tendency 3.0)
+setupRequired(end 3.0)
+setupRequired(terrace 2.0)

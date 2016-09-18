@@ -1,0 +1,4 @@
+setupRequired(wear 2.0)
+setupRequired(element 1.0)
+setupRequired(magnetic 1.0)
+setupRequired(manufacture 2.0)

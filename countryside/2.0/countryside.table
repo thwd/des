@@ -1,0 +1,5 @@
+setupRequired(strap 2.0)
+setupRequired(plane 2.0)
+setupRequired(castle 3.0)
+setupRequired(conventional 3.0)
+setupRequired(lemon 3.0)

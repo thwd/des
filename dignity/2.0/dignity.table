@@ -1,0 +1,2 @@
+setupRequired(fibre 3.0)
+setupRequired(countryside 2.0)

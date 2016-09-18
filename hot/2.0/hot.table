@@ -1,0 +1,4 @@
+setupRequired(blame 3.0)
+setupRequired(troop 1.0)
+setupRequired(cottage 3.0)
+setupRequired(unit 1.0)

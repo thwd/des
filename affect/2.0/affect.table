@@ -1,0 +1,4 @@
+setupRequired(primary 2.0)
+setupRequired(muscle 1.0)
+setupRequired(bathtub 1.0)
+setupRequired(item 1.0)

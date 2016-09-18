@@ -1,0 +1,3 @@
+setupRequired(reject 1.0)
+setupRequired(package 1.0)
+setupRequired(Venus 2.0)

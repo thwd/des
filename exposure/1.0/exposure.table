@@ -1,0 +1,5 @@
+setupRequired(suppress 1.0)
+setupRequired(established 3.0)
+setupRequired(location 2.0)
+setupRequired(creed 2.0)
+setupRequired(rest 2.0)

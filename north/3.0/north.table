@@ -1,0 +1,5 @@
+setupRequired(coffin 2.0)
+setupRequired(party 2.0)
+setupRequired(evening 1.0)
+setupRequired(intention 3.0)
+setupRequired(lemon 2.0)

@@ -1,0 +1,5 @@
+setupRequired(great 3.0)
+setupRequired(colleague 3.0)
+setupRequired(iron 1.0)
+setupRequired(beautiful 3.0)
+setupRequired(storm 2.0)

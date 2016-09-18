@@ -1,0 +1,5 @@
+setupRequired(cheap 2.0)
+setupRequired(man 3.0)
+setupRequired(domestic 2.0)
+setupRequired(dash 3.0)
+setupRequired(state 1.0)

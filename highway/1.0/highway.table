@@ -1,0 +1,4 @@
+setupRequired(pattern 1.0)
+setupRequired(plane 2.0)
+setupRequired(publicity 2.0)
+setupRequired(dorm 2.0)

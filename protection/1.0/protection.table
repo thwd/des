@@ -1,0 +1,5 @@
+setupRequired(ethics 1.0)
+setupRequired(jealous 2.0)
+setupRequired(terrace 3.0)
+setupRequired(slave 3.0)
+setupRequired(intermediate 2.0)

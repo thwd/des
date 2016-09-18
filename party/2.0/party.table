@@ -1,0 +1,5 @@
+setupRequired(risk 2.0)
+setupRequired(lick 2.0)
+setupRequired(parallel 1.0)
+setupRequired(feather 2.0)
+setupRequired(nature 1.0)

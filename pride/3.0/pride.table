@@ -1,0 +1,5 @@
+setupRequired(bow 1.0)
+setupRequired(inhibition 2.0)
+setupRequired(freeze 2.0)
+setupRequired(countryside 2.0)
+setupRequired(company 1.0)

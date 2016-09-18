@@ -1,0 +1,5 @@
+setupRequired(monk 1.0)
+setupRequired(Venus 3.0)
+setupRequired(plan 2.0)
+setupRequired(commerce 3.0)
+setupRequired(court 1.0)

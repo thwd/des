@@ -1,0 +1,3 @@
+setupRequired(clinic 3.0)
+setupRequired(board 1.0)
+setupRequired(minister 2.0)

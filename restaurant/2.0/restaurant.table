@@ -1,0 +1,5 @@
+setupRequired(danger 3.0)
+setupRequired(green 3.0)
+setupRequired(agent 1.0)
+setupRequired(snow 3.0)
+setupRequired(chimney 2.0)

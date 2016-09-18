@@ -1,0 +1,4 @@
+setupRequired(lecture 3.0)
+setupRequired(pillow 2.0)
+setupRequired(party 1.0)
+setupRequired(flash 2.0)

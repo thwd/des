@@ -1,0 +1,4 @@
+setupRequired(suburb 2.0)
+setupRequired(election 1.0)
+setupRequired(graduate 2.0)
+setupRequired(corruption 1.0)

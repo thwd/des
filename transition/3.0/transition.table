@@ -1,0 +1,4 @@
+setupRequired(desert 1.0)
+setupRequired(lover 1.0)
+setupRequired(fog 1.0)
+setupRequired(profession 1.0)

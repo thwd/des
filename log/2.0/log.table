@@ -1,0 +1,5 @@
+setupRequired(mushroom 3.0)
+setupRequired(pride 1.0)
+setupRequired(behave 3.0)
+setupRequired(cow 1.0)
+setupRequired(steak 3.0)

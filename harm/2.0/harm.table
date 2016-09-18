@@ -1,0 +1,4 @@
+setupRequired(AIDS 3.0)
+setupRequired(gaffe 1.0)
+setupRequired(session 1.0)
+setupRequired(laser 2.0)

@@ -1,0 +1,4 @@
+setupRequired(cute 3.0)
+setupRequired(consumer 3.0)
+setupRequired(mobile 1.0)
+setupRequired(troop 1.0)

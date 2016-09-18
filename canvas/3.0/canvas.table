@@ -1,0 +1,4 @@
+setupRequired(pocket 3.0)
+setupRequired(claim 2.0)
+setupRequired(critical 1.0)
+setupRequired(site 3.0)

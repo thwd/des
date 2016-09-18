@@ -1,0 +1,4 @@
+setupRequired(myth 2.0)
+setupRequired(welcome 2.0)
+setupRequired(cucumber 2.0)
+setupRequired(clinic 3.0)

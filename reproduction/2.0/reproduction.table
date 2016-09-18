@@ -1,0 +1,4 @@
+setupRequired(trade 2.0)
+setupRequired(refund 3.0)
+setupRequired(cheque 3.0)
+setupRequired(student 1.0)

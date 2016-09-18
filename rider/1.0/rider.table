@@ -1,0 +1,5 @@
+setupRequired(final 3.0)
+setupRequired(elbow 3.0)
+setupRequired(note 3.0)
+setupRequired(fast 2.0)
+setupRequired(invisible 1.0)

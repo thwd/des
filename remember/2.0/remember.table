@@ -1,0 +1,2 @@
+setupRequired(dash 3.0)
+setupRequired(rebellion 3.0)

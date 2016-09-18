@@ -1,0 +1,4 @@
+setupRequired(spell 2.0)
+setupRequired(rational 3.0)
+setupRequired(lip 3.0)
+setupRequired(possibility 1.0)

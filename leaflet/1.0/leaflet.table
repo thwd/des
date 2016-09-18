@@ -1,0 +1,4 @@
+setupRequired(pop 1.0)
+setupRequired(output 2.0)
+setupRequired(bounce 2.0)
+setupRequired(disorder 1.0)

@@ -1,0 +1,4 @@
+setupRequired(mayor 3.0)
+setupRequired(clique 2.0)
+setupRequired(fog 2.0)
+setupRequired(sculpture 2.0)

@@ -1,0 +1,4 @@
+setupRequired(constitutional 3.0)
+setupRequired(arm 2.0)
+setupRequired(miracle 2.0)
+setupRequired(basic 3.0)

@@ -1,0 +1,4 @@
+setupRequired(staircase 1.0)
+setupRequired(effective 2.0)
+setupRequired(net 3.0)
+setupRequired(cute 3.0)

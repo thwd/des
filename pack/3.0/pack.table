@@ -1,0 +1,4 @@
+setupRequired(crouch 2.0)
+setupRequired(throat 1.0)
+setupRequired(recovery 2.0)
+setupRequired(reject 3.0)

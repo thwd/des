@@ -1,0 +1,3 @@
+setupRequired(colorful 2.0)
+setupRequired(trance 3.0)
+setupRequired(fair 1.0)

@@ -1,0 +1,4 @@
+setupRequired(virus 3.0)
+setupRequired(mix 1.0)
+setupRequired(dash 1.0)
+setupRequired(weave 3.0)

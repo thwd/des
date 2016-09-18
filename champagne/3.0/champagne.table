@@ -1,0 +1,4 @@
+setupRequired(hammer 3.0)
+setupRequired(cheque 3.0)
+setupRequired(deserve 2.0)
+setupRequired(empirical 3.0)

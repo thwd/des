@@ -1,0 +1,4 @@
+setupRequired(cinema 3.0)
+setupRequired(ranch 3.0)
+setupRequired(chicken 2.0)
+setupRequired(color 1.0)

@@ -1,0 +1,5 @@
+setupRequired(crosswalk 1.0)
+setupRequired(familiar 1.0)
+setupRequired(fight 2.0)
+setupRequired(excess 3.0)
+setupRequired(valley 2.0)

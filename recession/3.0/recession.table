@@ -1,0 +1,4 @@
+setupRequired(connection 1.0)
+setupRequired(census 2.0)
+setupRequired(challenge 3.0)
+setupRequired(fun 3.0)

@@ -1,0 +1,4 @@
+setupRequired(buy 1.0)
+setupRequired(sin 1.0)
+setupRequired(licence 1.0)
+setupRequired(wall 2.0)

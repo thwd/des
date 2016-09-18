@@ -1,0 +1,5 @@
+setupRequired(thaw 3.0)
+setupRequired(eyebrow 1.0)
+setupRequired(boat 1.0)
+setupRequired(suppress 1.0)
+setupRequired(deer 2.0)

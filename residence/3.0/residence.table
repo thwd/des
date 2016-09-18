@@ -1,0 +1,4 @@
+setupRequired(cucumber 3.0)
+setupRequired(spy 3.0)
+setupRequired(proof 2.0)
+setupRequired(president 3.0)

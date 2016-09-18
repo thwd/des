@@ -1,0 +1,2 @@
+setupRequired(fail 2.0)
+setupRequired(presence 3.0)

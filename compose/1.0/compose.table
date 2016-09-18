@@ -1,0 +1,5 @@
+setupRequired(fresh 1.0)
+setupRequired(dictate 3.0)
+setupRequired(tape 2.0)
+setupRequired(turkey 3.0)
+setupRequired(acquisition 3.0)

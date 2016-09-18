@@ -1,0 +1,3 @@
+setupRequired(walk 3.0)
+setupRequired(publication 1.0)
+setupRequired(exempt 1.0)

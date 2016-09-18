@@ -1,0 +1,4 @@
+setupRequired(fresh 1.0)
+setupRequired(engineer 3.0)
+setupRequired(highlight 3.0)
+setupRequired(dare 2.0)

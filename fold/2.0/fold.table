@@ -1,0 +1,4 @@
+setupRequired(subway 3.0)
+setupRequired(green 2.0)
+setupRequired(pour 3.0)
+setupRequired(nomination 3.0)

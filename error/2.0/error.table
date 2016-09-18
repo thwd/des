@@ -1,0 +1,4 @@
+setupRequired(hurl 3.0)
+setupRequired(print 3.0)
+setupRequired(fascinate 1.0)
+setupRequired(shelf 3.0)

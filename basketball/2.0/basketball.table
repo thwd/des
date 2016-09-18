@@ -1,0 +1,4 @@
+setupRequired(wagon 2.0)
+setupRequired(real 1.0)
+setupRequired(glow 2.0)
+setupRequired(dash 3.0)

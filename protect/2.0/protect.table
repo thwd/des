@@ -1,0 +1,5 @@
+setupRequired(tribute 1.0)
+setupRequired(fog 2.0)
+setupRequired(housewife 3.0)
+setupRequired(government 3.0)
+setupRequired(species 3.0)

@@ -1,0 +1,4 @@
+setupRequired(court 3.0)
+setupRequired(cut 1.0)
+setupRequired(photography 3.0)
+setupRequired(pack 3.0)

@@ -1,0 +1,3 @@
+setupRequired(restrict 3.0)
+setupRequired(tired 1.0)
+setupRequired(lamp 1.0)

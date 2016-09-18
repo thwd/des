@@ -1,0 +1,5 @@
+setupRequired(get 1.0)
+setupRequired(warm 3.0)
+setupRequired(length 3.0)
+setupRequired(coast 1.0)
+setupRequired(hell 1.0)

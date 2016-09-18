@@ -1,0 +1,3 @@
+setupRequired(steam 2.0)
+setupRequired(express 3.0)
+setupRequired(market 3.0)

@@ -1,0 +1,5 @@
+setupRequired(depart 2.0)
+setupRequired(surgeon 1.0)
+setupRequired(factor 3.0)
+setupRequired(fast 2.0)
+setupRequired(agile 1.0)

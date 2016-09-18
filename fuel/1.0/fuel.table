@@ -1,0 +1,4 @@
+setupRequired(musical 1.0)
+setupRequired(pound 2.0)
+setupRequired(basketball 2.0)
+setupRequired(poor 2.0)

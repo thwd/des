@@ -1,0 +1,3 @@
+setupRequired(mass 3.0)
+setupRequired(bark 3.0)
+setupRequired(density 2.0)

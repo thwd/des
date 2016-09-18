@@ -1,0 +1,4 @@
+setupRequired(alive 2.0)
+setupRequired(spell 3.0)
+setupRequired(cinema 1.0)
+setupRequired(pattern 1.0)

@@ -1,0 +1,3 @@
+setupRequired(coach 2.0)
+setupRequired(cute 3.0)
+setupRequired(effective 3.0)

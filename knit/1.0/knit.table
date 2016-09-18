@@ -1,0 +1,3 @@
+setupRequired(coin 1.0)
+setupRequired(assumption 3.0)
+setupRequired(visit 3.0)

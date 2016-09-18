@@ -1,0 +1,4 @@
+setupRequired(south 3.0)
+setupRequired(world 3.0)
+setupRequired(encourage 2.0)
+setupRequired(ethics 3.0)

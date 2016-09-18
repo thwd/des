@@ -1,0 +1,5 @@
+setupRequired(reduction 3.0)
+setupRequired(parking 1.0)
+setupRequired(welcome 3.0)
+setupRequired(tumble 2.0)
+setupRequired(reputation 2.0)

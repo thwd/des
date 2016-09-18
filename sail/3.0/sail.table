@@ -1,0 +1,3 @@
+setupRequired(moment 3.0)
+setupRequired(judgment 1.0)
+setupRequired(radiation sickness 2.0)

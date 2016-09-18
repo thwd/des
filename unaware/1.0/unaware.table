@@ -1,0 +1,5 @@
+setupRequired(unit 3.0)
+setupRequired(get 3.0)
+setupRequired(registration 1.0)
+setupRequired(retirement 2.0)
+setupRequired(winter 3.0)

@@ -1,0 +1,3 @@
+setupRequired(cap 1.0)
+setupRequired(banana 1.0)
+setupRequired(constraint 1.0)

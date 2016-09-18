@@ -1,0 +1,5 @@
+setupRequired(print 3.0)
+setupRequired(integration 2.0)
+setupRequired(licence 2.0)
+setupRequired(aid 3.0)
+setupRequired(trade 1.0)

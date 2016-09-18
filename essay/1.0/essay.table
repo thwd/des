@@ -1,0 +1,4 @@
+setupRequired(jest 3.0)
+setupRequired(ban 2.0)
+setupRequired(grave 3.0)
+setupRequired(lunch 2.0)

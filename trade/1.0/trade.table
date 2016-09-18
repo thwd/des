@@ -1,0 +1,5 @@
+setupRequired(loop 3.0)
+setupRequired(composer 3.0)
+setupRequired(move 3.0)
+setupRequired(deer 2.0)
+setupRequired(displace 3.0)

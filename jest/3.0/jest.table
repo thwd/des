@@ -1,0 +1,5 @@
+setupRequired(daughter 3.0)
+setupRequired(compose 1.0)
+setupRequired(composer 3.0)
+setupRequired(letter 1.0)
+setupRequired(official 3.0)

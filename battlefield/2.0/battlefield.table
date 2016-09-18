@@ -1,0 +1,5 @@
+setupRequired(relax 2.0)
+setupRequired(reflect 3.0)
+setupRequired(treasurer 3.0)
+setupRequired(uncle 3.0)
+setupRequired(graduate 2.0)

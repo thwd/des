@@ -1,0 +1,5 @@
+setupRequired(horn 1.0)
+setupRequired(rugby 3.0)
+setupRequired(seek 3.0)
+setupRequired(microphone 1.0)
+setupRequired(subway 2.0)

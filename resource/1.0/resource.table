@@ -1,0 +1,5 @@
+setupRequired(secular 1.0)
+setupRequired(indulge 2.0)
+setupRequired(withdrawal 1.0)
+setupRequired(unlawful 2.0)
+setupRequired(copy 3.0)

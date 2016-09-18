@@ -1,0 +1,4 @@
+setupRequired(fascinate 3.0)
+setupRequired(liberal 3.0)
+setupRequired(fresh 1.0)
+setupRequired(runner 2.0)

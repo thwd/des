@@ -1,0 +1,4 @@
+setupRequired(clothes 3.0)
+setupRequired(access 1.0)
+setupRequired(chain 1.0)
+setupRequired(tired 2.0)

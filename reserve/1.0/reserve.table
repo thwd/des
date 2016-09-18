@@ -1,0 +1,4 @@
+setupRequired(narrow 1.0)
+setupRequired(pan 1.0)
+setupRequired(desert 1.0)
+setupRequired(bad 3.0)

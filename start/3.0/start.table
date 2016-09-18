@@ -1,0 +1,4 @@
+setupRequired(walk 2.0)
+setupRequired(salvation 2.0)
+setupRequired(knit 1.0)
+setupRequired(coin 2.0)

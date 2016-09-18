@@ -1,0 +1,5 @@
+setupRequired(ghost 3.0)
+setupRequired(temple 1.0)
+setupRequired(interference 2.0)
+setupRequired(unlawful 2.0)
+setupRequired(stadium 3.0)

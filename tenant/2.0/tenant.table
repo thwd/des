@@ -1,0 +1,5 @@
+setupRequired(protection 3.0)
+setupRequired(insurance 2.0)
+setupRequired(tense 2.0)
+setupRequired(highway 1.0)
+setupRequired(world 3.0)

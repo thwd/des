@@ -1,0 +1,4 @@
+setupRequired(inappropriate 3.0)
+setupRequired(inappropriate 1.0)
+setupRequired(account 1.0)
+setupRequired(scratch 2.0)

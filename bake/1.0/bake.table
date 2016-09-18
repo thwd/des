@@ -1,0 +1,4 @@
+setupRequired(literacy 1.0)
+setupRequired(reader 1.0)
+setupRequired(charity 1.0)
+setupRequired(location 1.0)

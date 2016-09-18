@@ -1,0 +1,4 @@
+setupRequired(end 3.0)
+setupRequired(mushroom 2.0)
+setupRequired(stomach 3.0)
+setupRequired(map 3.0)

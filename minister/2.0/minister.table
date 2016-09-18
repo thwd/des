@@ -1,0 +1,4 @@
+setupRequired(AIDS 2.0)
+setupRequired(edition 1.0)
+setupRequired(slam 2.0)
+setupRequired(accumulation 3.0)

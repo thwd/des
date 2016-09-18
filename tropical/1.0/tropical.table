@@ -1,0 +1,5 @@
+setupRequired(south 2.0)
+setupRequired(mix 2.0)
+setupRequired(consumer 2.0)
+setupRequired(exposure 1.0)
+setupRequired(charge 3.0)

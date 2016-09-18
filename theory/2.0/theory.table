@@ -1,0 +1,5 @@
+setupRequired(performer 2.0)
+setupRequired(game 3.0)
+setupRequired(advocate 2.0)
+setupRequired(cut 3.0)
+setupRequired(entry 3.0)

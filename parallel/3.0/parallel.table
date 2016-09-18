@@ -1,0 +1,4 @@
+setupRequired(resist 2.0)
+setupRequired(element 3.0)
+setupRequired(reserve 1.0)
+setupRequired(run 3.0)

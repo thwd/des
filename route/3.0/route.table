@@ -1,0 +1,5 @@
+setupRequired(ranch 3.0)
+setupRequired(continental 1.0)
+setupRequired(proportion 3.0)
+setupRequired(declaration 1.0)
+setupRequired(recommendation 3.0)

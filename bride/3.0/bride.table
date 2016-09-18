@@ -1,0 +1,4 @@
+setupRequired(purpose 2.0)
+setupRequired(tree 3.0)
+setupRequired(creed 2.0)
+setupRequired(essay 2.0)

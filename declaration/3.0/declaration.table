@@ -1,0 +1,4 @@
+setupRequired(fibre 2.0)
+setupRequired(get 3.0)
+setupRequired(party 2.0)
+setupRequired(death 1.0)

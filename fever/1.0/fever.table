@@ -1,0 +1,4 @@
+setupRequired(stomach 1.0)
+setupRequired(maximum 2.0)
+setupRequired(observation 1.0)
+setupRequired(prospect 2.0)

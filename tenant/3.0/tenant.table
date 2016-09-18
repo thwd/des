@@ -1,0 +1,4 @@
+setupRequired(makeup 3.0)
+setupRequired(fragment 2.0)
+setupRequired(cute 1.0)
+setupRequired(basic 1.0)

@@ -1,0 +1,4 @@
+setupRequired(cook 3.0)
+setupRequired(chain 2.0)
+setupRequired(clothes 2.0)
+setupRequired(peak 2.0)

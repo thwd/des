@@ -1,0 +1,5 @@
+setupRequired(conservation 3.0)
+setupRequired(entitlement 3.0)
+setupRequired(reject 2.0)
+setupRequired(courtesy 1.0)
+setupRequired(harmful 1.0)

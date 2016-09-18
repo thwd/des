@@ -1,0 +1,4 @@
+setupRequired(literacy 2.0)
+setupRequired(nose 2.0)
+setupRequired(moment 2.0)
+setupRequired(package 3.0)

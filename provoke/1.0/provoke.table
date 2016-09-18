@@ -1,0 +1,5 @@
+setupRequired(risk 3.0)
+setupRequired(moment 2.0)
+setupRequired(hotdog 1.0)
+setupRequired(window 1.0)
+setupRequired(manner 2.0)

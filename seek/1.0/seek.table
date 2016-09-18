@@ -1,0 +1,4 @@
+setupRequired(item 1.0)
+setupRequired(context 3.0)
+setupRequired(tight 1.0)
+setupRequired(wilderness 3.0)

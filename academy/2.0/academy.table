@@ -1,0 +1,3 @@
+setupRequired(biscuit 1.0)
+setupRequired(staircase 1.0)
+setupRequired(like 3.0)

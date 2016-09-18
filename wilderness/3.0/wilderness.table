@@ -1,0 +1,2 @@
+setupRequired(catch 3.0)
+setupRequired(trance 2.0)

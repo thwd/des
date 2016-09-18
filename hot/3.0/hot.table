@@ -1,0 +1,4 @@
+setupRequired(news 3.0)
+setupRequired(scratch 1.0)
+setupRequired(queen 1.0)
+setupRequired(steward 1.0)

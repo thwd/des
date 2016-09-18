@@ -1,0 +1,4 @@
+setupRequired(monk 3.0)
+setupRequired(chimney 1.0)
+setupRequired(scream 2.0)
+setupRequired(brake 3.0)

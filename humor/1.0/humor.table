@@ -1,0 +1,5 @@
+setupRequired(afford 3.0)
+setupRequired(insurance 2.0)
+setupRequired(engineer 3.0)
+setupRequired(feast 1.0)
+setupRequired(breakdown 2.0)

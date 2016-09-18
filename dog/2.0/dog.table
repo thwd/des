@@ -1,0 +1,5 @@
+setupRequired(gaffe 3.0)
+setupRequired(confuse 3.0)
+setupRequired(critic 3.0)
+setupRequired(version 3.0)
+setupRequired(switch 1.0)

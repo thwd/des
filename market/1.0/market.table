@@ -1,0 +1,4 @@
+setupRequired(permanent 1.0)
+setupRequired(effective 1.0)
+setupRequired(conservation 2.0)
+setupRequired(censorship 3.0)

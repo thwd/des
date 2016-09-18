@@ -1,0 +1,4 @@
+setupRequired(feel 3.0)
+setupRequired(registration 1.0)
+setupRequired(litigation 2.0)
+setupRequired(cook 1.0)

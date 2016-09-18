@@ -1,0 +1,5 @@
+setupRequired(muggy 2.0)
+setupRequired(ditch 2.0)
+setupRequired(exit 1.0)
+setupRequired(moment 1.0)
+setupRequired(theme 3.0)

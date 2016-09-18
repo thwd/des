@@ -1,0 +1,3 @@
+setupRequired(steam 2.0)
+setupRequired(stun 2.0)
+setupRequired(admire 3.0)

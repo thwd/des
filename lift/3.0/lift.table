@@ -1,0 +1,3 @@
+setupRequired(output 2.0)
+setupRequired(visit 1.0)
+setupRequired(soak 2.0)

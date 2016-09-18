@@ -1,0 +1,4 @@
+setupRequired(pollution 3.0)
+setupRequired(goal 3.0)
+setupRequired(yearn 2.0)
+setupRequired(tie 3.0)

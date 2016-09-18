@@ -1,0 +1,4 @@
+setupRequired(team 3.0)
+setupRequired(convenience 2.0)
+setupRequired(spy 3.0)
+setupRequired(cut 1.0)

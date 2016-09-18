@@ -1,0 +1,3 @@
+setupRequired(plaintiff 1.0)
+setupRequired(critical 2.0)
+setupRequired(unlikely 3.0)

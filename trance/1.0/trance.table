@@ -1,0 +1,4 @@
+setupRequired(run 1.0)
+setupRequired(customer 1.0)
+setupRequired(entitlement 1.0)
+setupRequired(handy 1.0)

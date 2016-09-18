@@ -1,0 +1,4 @@
+setupRequired(champion 2.0)
+setupRequired(censorship 3.0)
+setupRequired(offend 1.0)
+setupRequired(rabbit 3.0)

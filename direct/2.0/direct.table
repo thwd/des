@@ -1,0 +1,5 @@
+setupRequired(east 1.0)
+setupRequired(wear 2.0)
+setupRequired(depart 1.0)
+setupRequired(spread 2.0)
+setupRequired(wriggle 3.0)

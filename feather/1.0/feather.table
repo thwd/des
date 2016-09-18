@@ -1,0 +1,3 @@
+setupRequired(coffin 3.0)
+setupRequired(trance 1.0)
+setupRequired(stroke 1.0)

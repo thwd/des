@@ -1,0 +1,4 @@
+setupRequired(teach 3.0)
+setupRequired(battlefield 3.0)
+setupRequired(drink 1.0)
+setupRequired(error 3.0)

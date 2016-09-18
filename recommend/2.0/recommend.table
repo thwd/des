@@ -1,0 +1,4 @@
+setupRequired(revolutionary 3.0)
+setupRequired(series 2.0)
+setupRequired(outfit 1.0)
+setupRequired(suit 1.0)

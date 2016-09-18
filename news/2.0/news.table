@@ -1,0 +1,2 @@
+setupRequired(knit 2.0)
+setupRequired(lineage 2.0)

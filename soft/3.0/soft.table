@@ -1,0 +1,3 @@
+setupRequired(litigation 3.0)
+setupRequired(raid 1.0)
+setupRequired(magazine 3.0)

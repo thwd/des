@@ -1,0 +1,5 @@
+setupRequired(countryside 2.0)
+setupRequired(chain 1.0)
+setupRequired(fold 1.0)
+setupRequired(offend 3.0)
+setupRequired(win 2.0)

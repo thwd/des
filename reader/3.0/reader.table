@@ -1,0 +1,5 @@
+setupRequired(dive 3.0)
+setupRequired(brink 1.0)
+setupRequired(knit 3.0)
+setupRequired(provoke 1.0)
+setupRequired(sausage 1.0)

@@ -1,0 +1,3 @@
+setupRequired(throne 2.0)
+setupRequired(vote 3.0)
+setupRequired(route 1.0)

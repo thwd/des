@@ -1,0 +1,5 @@
+setupRequired(bind 1.0)
+setupRequired(jewel 1.0)
+setupRequired(bird 2.0)
+setupRequired(announcement 2.0)
+setupRequired(regard 1.0)

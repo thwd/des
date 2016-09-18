@@ -1,0 +1,3 @@
+setupRequired(constraint 3.0)
+setupRequired(tax 1.0)
+setupRequired(coin 1.0)

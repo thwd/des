@@ -1,0 +1,4 @@
+setupRequired(turkey 2.0)
+setupRequired(edition 2.0)
+setupRequired(cinema 2.0)
+setupRequired(shareholder 1.0)

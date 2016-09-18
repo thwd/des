@@ -1,0 +1,3 @@
+setupRequired(hotdog 2.0)
+setupRequired(jet 3.0)
+setupRequired(leash 3.0)

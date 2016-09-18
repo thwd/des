@@ -1,0 +1,4 @@
+setupRequired(demonstrator 1.0)
+setupRequired(superintendent 2.0)
+setupRequired(district 2.0)
+setupRequired(faint 3.0)

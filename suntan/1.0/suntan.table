@@ -1,0 +1,5 @@
+setupRequired(staff 1.0)
+setupRequired(housewife 2.0)
+setupRequired(spend 2.0)
+setupRequired(retain 1.0)
+setupRequired(prospect 1.0)

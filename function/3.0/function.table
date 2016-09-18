@@ -1,0 +1,2 @@
+setupRequired(hammer 1.0)
+setupRequired(coat 2.0)

@@ -1,0 +1,2 @@
+setupRequired(cereal 3.0)
+setupRequired(tumble 2.0)

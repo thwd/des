@@ -1,0 +1,5 @@
+setupRequired(smash 1.0)
+setupRequired(package 3.0)
+setupRequired(sword 3.0)
+setupRequired(tropical 3.0)
+setupRequired(chain 1.0)

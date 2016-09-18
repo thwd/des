@@ -1,0 +1,4 @@
+setupRequired(glory 2.0)
+setupRequired(fibre 3.0)
+setupRequired(compete 2.0)
+setupRequired(noise 1.0)

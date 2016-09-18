@@ -1,0 +1,4 @@
+setupRequired(pepper 2.0)
+setupRequired(limit 2.0)
+setupRequired(trouser 1.0)
+setupRequired(possibility 2.0)

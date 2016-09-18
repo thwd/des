@@ -1,0 +1,4 @@
+setupRequired(AIDS 2.0)
+setupRequired(swipe 2.0)
+setupRequired(account 3.0)
+setupRequired(critic 3.0)

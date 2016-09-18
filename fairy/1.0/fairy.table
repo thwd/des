@@ -1,0 +1,5 @@
+setupRequired(yearn 3.0)
+setupRequired(past 1.0)
+setupRequired(tendency 1.0)
+setupRequired(clothes 3.0)
+setupRequired(coffin 1.0)

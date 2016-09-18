@@ -1,0 +1,4 @@
+setupRequired(demonstrator 1.0)
+setupRequired(bless 1.0)
+setupRequired(sell 2.0)
+setupRequired(fast 3.0)

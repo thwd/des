@@ -1,0 +1,5 @@
+setupRequired(alive 1.0)
+setupRequired(visit 3.0)
+setupRequired(field 1.0)
+setupRequired(flawed 1.0)
+setupRequired(district 1.0)

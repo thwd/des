@@ -1,0 +1,5 @@
+setupRequired(year 3.0)
+setupRequired(color 1.0)
+setupRequired(blue 3.0)
+setupRequired(terrace 1.0)
+setupRequired(rent 3.0)

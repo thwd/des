@@ -1,0 +1,3 @@
+setupRequired(connection 3.0)
+setupRequired(technology 3.0)
+setupRequired(arrow 2.0)

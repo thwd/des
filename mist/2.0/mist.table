@@ -1,0 +1,4 @@
+setupRequired(uncle 2.0)
+setupRequired(sex 3.0)
+setupRequired(continental 3.0)
+setupRequired(critical 2.0)

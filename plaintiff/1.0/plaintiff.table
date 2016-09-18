@@ -1,0 +1,5 @@
+setupRequired(microphone 3.0)
+setupRequired(give 2.0)
+setupRequired(unlawful 1.0)
+setupRequired(cow 2.0)
+setupRequired(communication 3.0)

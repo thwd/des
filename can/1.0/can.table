@@ -1,0 +1,5 @@
+setupRequired(basic 1.0)
+setupRequired(spring 1.0)
+setupRequired(sail 1.0)
+setupRequired(jet 2.0)
+setupRequired(miracle 2.0)

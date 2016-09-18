@@ -1,0 +1,5 @@
+setupRequired(redeem 2.0)
+setupRequired(graduate 2.0)
+setupRequired(dive 1.0)
+setupRequired(loop 3.0)
+setupRequired(advocate 1.0)

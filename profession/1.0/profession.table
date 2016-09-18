@@ -1,0 +1,4 @@
+setupRequired(tie 1.0)
+setupRequired(brick 2.0)
+setupRequired(freeze 2.0)
+setupRequired(civilian 2.0)

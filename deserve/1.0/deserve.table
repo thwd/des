@@ -1,0 +1,4 @@
+setupRequired(accumulation 1.0)
+setupRequired(riot 1.0)
+setupRequired(carry 2.0)
+setupRequired(spare 1.0)

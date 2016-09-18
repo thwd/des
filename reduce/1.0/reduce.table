@@ -1,0 +1,4 @@
+setupRequired(pepper 1.0)
+setupRequired(end 2.0)
+setupRequired(pull 1.0)
+setupRequired(joystick 3.0)

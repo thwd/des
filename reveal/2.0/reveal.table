@@ -1,0 +1,4 @@
+setupRequired(auction 2.0)
+setupRequired(negotiation 3.0)
+setupRequired(whisper 1.0)
+setupRequired(rotate 1.0)

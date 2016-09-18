@@ -1,0 +1,5 @@
+setupRequired(courtesy 1.0)
+setupRequired(shower 2.0)
+setupRequired(bathroom 2.0)
+setupRequired(species 2.0)
+setupRequired(brainstorm 2.0)

@@ -1,0 +1,4 @@
+setupRequired(temporary 3.0)
+setupRequired(court 3.0)
+setupRequired(bark 3.0)
+setupRequired(carve 1.0)

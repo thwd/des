@@ -1,0 +1,4 @@
+setupRequired(random 2.0)
+setupRequired(stimulation 1.0)
+setupRequired(peak 1.0)
+setupRequired(champion 2.0)

@@ -1,0 +1,5 @@
+setupRequired(rent 3.0)
+setupRequired(fever 3.0)
+setupRequired(menu 1.0)
+setupRequired(rotate 3.0)
+setupRequired(tendency 1.0)

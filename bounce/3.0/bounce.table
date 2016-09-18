@@ -1,0 +1,5 @@
+setupRequired(defend 2.0)
+setupRequired(party 1.0)
+setupRequired(pound 1.0)
+setupRequired(route 3.0)
+setupRequired(lemon 3.0)

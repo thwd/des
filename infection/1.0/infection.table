@@ -1,0 +1,5 @@
+setupRequired(story 2.0)
+setupRequired(temple 1.0)
+setupRequired(pavement 3.0)
+setupRequired(posture 2.0)
+setupRequired(account 3.0)

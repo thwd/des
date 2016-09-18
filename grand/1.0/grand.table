@@ -1,0 +1,4 @@
+setupRequired(nature 3.0)
+setupRequired(canvas 1.0)
+setupRequired(retirement 2.0)
+setupRequired(museum 3.0)

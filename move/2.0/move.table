@@ -1,0 +1,4 @@
+setupRequired(cheque 3.0)
+setupRequired(coincide 1.0)
+setupRequired(pound 1.0)
+setupRequired(publicity 3.0)

@@ -1,0 +1,4 @@
+setupRequired(beg 2.0)
+setupRequired(grandmother 1.0)
+setupRequired(primary 3.0)
+setupRequired(grave 3.0)

@@ -1,0 +1,5 @@
+setupRequired(scream 3.0)
+setupRequired(leash 2.0)
+setupRequired(riot 3.0)
+setupRequired(cheap 3.0)
+setupRequired(path 1.0)

@@ -1,0 +1,2 @@
+setupRequired(print 2.0)
+setupRequired(microphone 3.0)

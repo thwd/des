@@ -1,0 +1,3 @@
+setupRequired(global 2.0)
+setupRequired(mainstream 1.0)
+setupRequired(edition 1.0)

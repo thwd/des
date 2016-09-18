@@ -1,0 +1,3 @@
+setupRequired(swipe 3.0)
+setupRequired(language 1.0)
+setupRequired(ostracize 2.0)

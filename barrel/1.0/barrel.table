@@ -1,0 +1,4 @@
+setupRequired(lip 3.0)
+setupRequired(ample 2.0)
+setupRequired(crusade 1.0)
+setupRequired(restrict 3.0)

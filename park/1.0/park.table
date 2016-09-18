@@ -1,0 +1,4 @@
+setupRequired(feedback 1.0)
+setupRequired(banana 1.0)
+setupRequired(switch 1.0)
+setupRequired(condition 3.0)

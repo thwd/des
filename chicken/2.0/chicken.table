@@ -1,0 +1,5 @@
+setupRequired(fair 3.0)
+setupRequired(foundation 3.0)
+setupRequired(spread 2.0)
+setupRequired(superintendent 1.0)
+setupRequired(limit 2.0)

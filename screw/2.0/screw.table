@@ -1,0 +1,3 @@
+setupRequired(fair 2.0)
+setupRequired(rider 1.0)
+setupRequired(performer 1.0)

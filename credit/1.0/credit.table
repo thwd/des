@@ -1,0 +1,5 @@
+setupRequired(accumulation 1.0)
+setupRequired(debut 2.0)
+setupRequired(intermediate 2.0)
+setupRequired(advice 1.0)
+setupRequired(staircase 3.0)

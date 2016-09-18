@@ -1,0 +1,4 @@
+setupRequired(stream 3.0)
+setupRequired(technology 1.0)
+setupRequired(graduate 3.0)
+setupRequired(joystick 1.0)

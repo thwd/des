@@ -1,0 +1,4 @@
+setupRequired(established 3.0)
+setupRequired(sword 2.0)
+setupRequired(costume 2.0)
+setupRequired(cancer 1.0)

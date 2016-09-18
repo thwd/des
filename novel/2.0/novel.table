@@ -1,0 +1,5 @@
+setupRequired(ignorant 2.0)
+setupRequired(bother 1.0)
+setupRequired(official 3.0)
+setupRequired(dash 2.0)
+setupRequired(dark 1.0)

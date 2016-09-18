@@ -1,0 +1,4 @@
+setupRequired(knock 2.0)
+setupRequired(admire 2.0)
+setupRequired(battlefield 3.0)
+setupRequired(manage 3.0)

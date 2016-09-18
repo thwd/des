@@ -1,0 +1,5 @@
+setupRequired(money 1.0)
+setupRequired(canvas 2.0)
+setupRequired(scream 3.0)
+setupRequired(entertain 1.0)
+setupRequired(theme 1.0)

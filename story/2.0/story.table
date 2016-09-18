@@ -1,0 +1,3 @@
+setupRequired(bird 3.0)
+setupRequired(layer 2.0)
+setupRequired(episode 3.0)

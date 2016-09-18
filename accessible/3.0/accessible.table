@@ -1,0 +1,4 @@
+setupRequired(charge 1.0)
+setupRequired(mobile 2.0)
+setupRequired(figure 2.0)
+setupRequired(load 1.0)

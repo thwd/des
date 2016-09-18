@@ -1,0 +1,2 @@
+setupRequired(fireplace 2.0)
+setupRequired(pillow 2.0)

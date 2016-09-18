@@ -1,0 +1,5 @@
+setupRequired(dome 2.0)
+setupRequired(spring 1.0)
+setupRequired(side 1.0)
+setupRequired(boot 3.0)
+setupRequired(secure 2.0)

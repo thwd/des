@@ -1,0 +1,5 @@
+setupRequired(location 1.0)
+setupRequired(give 3.0)
+setupRequired(organize 3.0)
+setupRequired(slam 3.0)
+setupRequired(social 1.0)

@@ -1,0 +1,4 @@
+setupRequired(photography 2.0)
+setupRequired(shell 1.0)
+setupRequired(section 3.0)
+setupRequired(adult 2.0)

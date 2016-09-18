@@ -1,0 +1,3 @@
+setupRequired(ranch 1.0)
+setupRequired(item 3.0)
+setupRequired(suggest 2.0)

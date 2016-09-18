@@ -1,0 +1,4 @@
+setupRequired(reader 1.0)
+setupRequired(censorship 3.0)
+setupRequired(basic 2.0)
+setupRequired(rent 2.0)

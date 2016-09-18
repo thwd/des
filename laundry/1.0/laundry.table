@@ -1,0 +1,3 @@
+setupRequired(rabbit 1.0)
+setupRequired(facility 2.0)
+setupRequired(onion 2.0)

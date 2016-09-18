@@ -1,0 +1,5 @@
+setupRequired(sea 1.0)
+setupRequired(rotate 3.0)
+setupRequired(tribute 1.0)
+setupRequired(glimpse 3.0)
+setupRequired(bake 3.0)

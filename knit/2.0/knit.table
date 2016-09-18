@@ -1,0 +1,5 @@
+setupRequired(bind 3.0)
+setupRequired(wrist 3.0)
+setupRequired(unlawful 2.0)
+setupRequired(landowner 3.0)
+setupRequired(account 3.0)

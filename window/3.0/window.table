@@ -1,0 +1,4 @@
+setupRequired(cut 2.0)
+setupRequired(trade 1.0)
+setupRequired(fan 3.0)
+setupRequired(daughter 1.0)

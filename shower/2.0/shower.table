@@ -1,0 +1,4 @@
+setupRequired(post 1.0)
+setupRequired(lineage 1.0)
+setupRequired(mayor 3.0)
+setupRequired(plane 3.0)

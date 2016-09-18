@@ -1,0 +1,3 @@
+setupRequired(sensitive 2.0)
+setupRequired(piano 1.0)
+setupRequired(crosswalk 1.0)

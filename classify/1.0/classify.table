@@ -1,0 +1,4 @@
+setupRequired(reckless 3.0)
+setupRequired(fly 2.0)
+setupRequired(hotdog 1.0)
+setupRequired(domestic 2.0)

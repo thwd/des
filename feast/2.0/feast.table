@@ -1,0 +1,4 @@
+setupRequired(loop 1.0)
+setupRequired(profession 1.0)
+setupRequired(laser 3.0)
+setupRequired(reckless 1.0)

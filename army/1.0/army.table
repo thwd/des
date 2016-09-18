@@ -1,0 +1,4 @@
+setupRequired(classify 1.0)
+setupRequired(die 1.0)
+setupRequired(express 3.0)
+setupRequired(dog 2.0)

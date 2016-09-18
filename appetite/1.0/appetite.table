@@ -1,0 +1,5 @@
+setupRequired(ranch 1.0)
+setupRequired(affect 1.0)
+setupRequired(close 3.0)
+setupRequired(harm 1.0)
+setupRequired(snap 1.0)

@@ -1,0 +1,5 @@
+setupRequired(surgeon 3.0)
+setupRequired(elbow 1.0)
+setupRequired(fail 3.0)
+setupRequired(orchestra 2.0)
+setupRequired(load 1.0)

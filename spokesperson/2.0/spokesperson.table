@@ -1,0 +1,5 @@
+setupRequired(tribute 3.0)
+setupRequired(AIDS 2.0)
+setupRequired(slam 3.0)
+setupRequired(satisfied 1.0)
+setupRequired(pocket 1.0)

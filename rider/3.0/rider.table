@@ -1,0 +1,5 @@
+setupRequired(revoke 2.0)
+setupRequired(scale 3.0)
+setupRequired(hurl 3.0)
+setupRequired(solution 2.0)
+setupRequired(die 3.0)

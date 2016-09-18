@@ -1,0 +1,4 @@
+setupRequired(faithful 3.0)
+setupRequired(exception 3.0)
+setupRequired(publicity 2.0)
+setupRequired(real 1.0)

@@ -1,0 +1,4 @@
+setupRequired(recovery 1.0)
+setupRequired(exclude 3.0)
+setupRequired(cereal 3.0)
+setupRequired(boot 1.0)

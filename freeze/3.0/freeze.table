@@ -1,0 +1,3 @@
+setupRequired(shrink 3.0)
+setupRequired(ostracize 1.0)
+setupRequired(tenant 2.0)

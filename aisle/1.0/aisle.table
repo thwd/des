@@ -1,0 +1,4 @@
+setupRequired(cucumber 1.0)
+setupRequired(stitch 2.0)
+setupRequired(career 2.0)
+setupRequired(ignorant 2.0)

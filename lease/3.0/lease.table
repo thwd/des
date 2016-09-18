@@ -1,0 +1,4 @@
+setupRequired(pressure 3.0)
+setupRequired(element 3.0)
+setupRequired(innovation 3.0)
+setupRequired(debt 3.0)

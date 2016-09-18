@@ -1,0 +1,4 @@
+setupRequired(dirty 1.0)
+setupRequired(lamp 1.0)
+setupRequired(genetic 3.0)
+setupRequired(welcome 2.0)

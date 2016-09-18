@@ -1,0 +1,4 @@
+setupRequired(pocket 2.0)
+setupRequired(lecture 3.0)
+setupRequired(win 1.0)
+setupRequired(spokesperson 2.0)

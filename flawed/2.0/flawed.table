@@ -1,0 +1,4 @@
+setupRequired(conglomerate 3.0)
+setupRequired(output 3.0)
+setupRequired(scale 3.0)
+setupRequired(board 2.0)

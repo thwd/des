@@ -1,0 +1,4 @@
+setupRequired(bounce 1.0)
+setupRequired(freeze 2.0)
+setupRequired(breakdown 3.0)
+setupRequired(torture 3.0)

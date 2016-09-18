@@ -1,0 +1,4 @@
+setupRequired(promotion 2.0)
+setupRequired(countryside 2.0)
+setupRequired(tendency 3.0)
+setupRequired(reveal 3.0)

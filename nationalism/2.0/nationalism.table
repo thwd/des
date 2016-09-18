@@ -1,0 +1,5 @@
+setupRequired(parallel 3.0)
+setupRequired(beautiful 1.0)
+setupRequired(mislead 2.0)
+setupRequired(spend 3.0)
+setupRequired(queen 1.0)

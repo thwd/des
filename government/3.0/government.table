@@ -1,0 +1,4 @@
+setupRequired(pillow 3.0)
+setupRequired(cause 1.0)
+setupRequired(fever 3.0)
+setupRequired(raid 1.0)

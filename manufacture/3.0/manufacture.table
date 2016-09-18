@@ -1,0 +1,5 @@
+setupRequired(final 2.0)
+setupRequired(government 1.0)
+setupRequired(cycle 1.0)
+setupRequired(plaster 1.0)
+setupRequired(limit 1.0)

@@ -1,0 +1,5 @@
+setupRequired(slab 2.0)
+setupRequired(judgment 3.0)
+setupRequired(conglomerate 3.0)
+setupRequired(breakdown 2.0)
+setupRequired(law 1.0)

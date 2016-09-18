@@ -1,0 +1,5 @@
+setupRequired(adoption 3.0)
+setupRequired(courtesy 3.0)
+setupRequired(regard 2.0)
+setupRequired(general 1.0)
+setupRequired(jet 3.0)

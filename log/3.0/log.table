@@ -1,0 +1,4 @@
+setupRequired(observation 2.0)
+setupRequired(bless 3.0)
+setupRequired(winter 2.0)
+setupRequired(close 3.0)

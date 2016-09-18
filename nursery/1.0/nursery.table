@@ -1,0 +1,5 @@
+setupRequired(departure 3.0)
+setupRequired(rent 3.0)
+setupRequired(bless 2.0)
+setupRequired(industry 2.0)
+setupRequired(dough 2.0)

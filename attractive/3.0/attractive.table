@@ -1,0 +1,5 @@
+setupRequired(disorder 2.0)
+setupRequired(observer 3.0)
+setupRequired(boat 3.0)
+setupRequired(toss 3.0)
+setupRequired(peace 3.0)

@@ -1,0 +1,5 @@
+setupRequired(plot 3.0)
+setupRequired(litigation 3.0)
+setupRequired(sword 3.0)
+setupRequired(reproduction 3.0)
+setupRequired(hay 3.0)

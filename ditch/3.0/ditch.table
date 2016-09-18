@@ -1,0 +1,5 @@
+setupRequired(recovery 3.0)
+setupRequired(disco 3.0)
+setupRequired(rent 1.0)
+setupRequired(start 2.0)
+setupRequired(presence 2.0)

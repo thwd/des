@@ -1,0 +1,5 @@
+setupRequired(hell 3.0)
+setupRequired(retain 3.0)
+setupRequired(party 1.0)
+setupRequired(map 1.0)
+setupRequired(disco 2.0)

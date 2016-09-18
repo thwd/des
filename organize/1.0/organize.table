@@ -1,0 +1,4 @@
+setupRequired(patience 3.0)
+setupRequired(storm 2.0)
+setupRequired(knock 2.0)
+setupRequired(inappropriate 3.0)

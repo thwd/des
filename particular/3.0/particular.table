@@ -1,0 +1,5 @@
+setupRequired(cute 3.0)
+setupRequired(few 1.0)
+setupRequired(rotate 3.0)
+setupRequired(spokesperson 3.0)
+setupRequired(aisle 1.0)

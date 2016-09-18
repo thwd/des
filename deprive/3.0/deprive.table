@@ -1,0 +1,5 @@
+setupRequired(news 1.0)
+setupRequired(rugby 2.0)
+setupRequired(tape 2.0)
+setupRequired(withdrawal 2.0)
+setupRequired(south 3.0)

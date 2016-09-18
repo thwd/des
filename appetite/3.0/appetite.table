@@ -1,0 +1,4 @@
+setupRequired(harass 1.0)
+setupRequired(multiply 1.0)
+setupRequired(siege 2.0)
+setupRequired(walk 1.0)

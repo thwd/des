@@ -1,0 +1,5 @@
+setupRequired(goal 2.0)
+setupRequired(snow 1.0)
+setupRequired(cross 1.0)
+setupRequired(normal 2.0)
+setupRequired(appetite 1.0)

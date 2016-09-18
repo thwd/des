@@ -1,0 +1,4 @@
+setupRequired(exception 3.0)
+setupRequired(lighter 1.0)
+setupRequired(menu 1.0)
+setupRequired(idea 2.0)

@@ -1,0 +1,4 @@
+setupRequired(drop 1.0)
+setupRequired(flawed 1.0)
+setupRequired(uniform 3.0)
+setupRequired(tendency 1.0)

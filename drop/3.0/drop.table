@@ -1,0 +1,5 @@
+setupRequired(coat 3.0)
+setupRequired(market 2.0)
+setupRequired(multiply 2.0)
+setupRequired(adult 1.0)
+setupRequired(quota 3.0)

@@ -1,0 +1,5 @@
+setupRequired(retain 3.0)
+setupRequired(restaurant 1.0)
+setupRequired(demonstrator 1.0)
+setupRequired(spare 3.0)
+setupRequired(clue 2.0)

@@ -1,0 +1,5 @@
+setupRequired(ethics 1.0)
+setupRequired(copy 2.0)
+setupRequired(range 3.0)
+setupRequired(corruption 1.0)
+setupRequired(wagon 1.0)

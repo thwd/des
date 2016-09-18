@@ -1,0 +1,5 @@
+setupRequired(swipe 1.0)
+setupRequired(lunch 3.0)
+setupRequired(innovation 2.0)
+setupRequired(activate 3.0)
+setupRequired(jockey 2.0)

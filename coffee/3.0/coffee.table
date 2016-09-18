@@ -1,0 +1,3 @@
+setupRequired(advocate 3.0)
+setupRequired(shake 1.0)
+setupRequired(cutting 1.0)

@@ -1,0 +1,3 @@
+setupRequired(behave 3.0)
+setupRequired(diet 2.0)
+setupRequired(lamp 3.0)

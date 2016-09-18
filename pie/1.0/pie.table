@@ -1,0 +1,4 @@
+setupRequired(coin 1.0)
+setupRequired(cereal 2.0)
+setupRequired(screw 1.0)
+setupRequired(wealth 2.0)

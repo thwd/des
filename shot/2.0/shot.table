@@ -1,0 +1,5 @@
+setupRequired(swear 2.0)
+setupRequired(grand 3.0)
+setupRequired(customer 1.0)
+setupRequired(constituency 3.0)
+setupRequired(visit 1.0)

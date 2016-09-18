@@ -1,0 +1,5 @@
+setupRequired(adopt 1.0)
+setupRequired(splurge 2.0)
+setupRequired(normal 3.0)
+setupRequired(desert 3.0)
+setupRequired(mine 3.0)

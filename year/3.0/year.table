@@ -1,0 +1,5 @@
+setupRequired(hierarchy 2.0)
+setupRequired(bless 2.0)
+setupRequired(rest 3.0)
+setupRequired(insistence 3.0)
+setupRequired(fresh 1.0)

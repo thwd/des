@@ -1,0 +1,4 @@
+setupRequired(chimney 1.0)
+setupRequired(onion 3.0)
+setupRequired(lecture 3.0)
+setupRequired(novel 3.0)

@@ -1,0 +1,4 @@
+setupRequired(snub 2.0)
+setupRequired(unaware 2.0)
+setupRequired(strike 3.0)
+setupRequired(laundry 1.0)

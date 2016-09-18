@@ -1,0 +1,5 @@
+setupRequired(admiration 2.0)
+setupRequired(lecture 3.0)
+setupRequired(crutch 3.0)
+setupRequired(global 3.0)
+setupRequired(pattern 2.0)

@@ -1,0 +1,5 @@
+setupRequired(stun 2.0)
+setupRequired(weight 1.0)
+setupRequired(castle 2.0)
+setupRequired(snap 2.0)
+setupRequired(gaffe 1.0)

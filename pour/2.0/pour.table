@@ -1,0 +1,5 @@
+setupRequired(sticky 1.0)
+setupRequired(ban 1.0)
+setupRequired(teach 1.0)
+setupRequired(patch 1.0)
+setupRequired(break down 3.0)

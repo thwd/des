@@ -1,0 +1,4 @@
+setupRequired(wagon 2.0)
+setupRequired(fraction 3.0)
+setupRequired(knit 2.0)
+setupRequired(graze 2.0)

@@ -1,0 +1,5 @@
+setupRequired(side 2.0)
+setupRequired(species 2.0)
+setupRequired(ice 1.0)
+setupRequired(direct 2.0)
+setupRequired(thesis 2.0)

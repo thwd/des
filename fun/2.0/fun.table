@@ -1,0 +1,2 @@
+setupRequired(salmon 2.0)
+setupRequired(protection 3.0)

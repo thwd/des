@@ -1,0 +1,4 @@
+setupRequired(sausage 2.0)
+setupRequired(fan 2.0)
+setupRequired(proposal 2.0)
+setupRequired(coverage 1.0)

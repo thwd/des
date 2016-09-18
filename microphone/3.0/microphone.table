@@ -1,0 +1,4 @@
+setupRequired(green 2.0)
+setupRequired(dirty 1.0)
+setupRequired(edition 3.0)
+setupRequired(peace 3.0)

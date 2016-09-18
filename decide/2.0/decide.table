@@ -1,0 +1,5 @@
+setupRequired(crusade 1.0)
+setupRequired(thesis 1.0)
+setupRequired(president 1.0)
+setupRequired(tight 2.0)
+setupRequired(sniff 2.0)

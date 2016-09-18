@@ -1,0 +1,4 @@
+setupRequired(accompany 1.0)
+setupRequired(access 2.0)
+setupRequired(determine 1.0)
+setupRequired(close 3.0)

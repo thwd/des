@@ -1,0 +1,4 @@
+setupRequired(scratch 1.0)
+setupRequired(high 1.0)
+setupRequired(game 3.0)
+setupRequired(temple 1.0)

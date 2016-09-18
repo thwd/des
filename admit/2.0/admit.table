@@ -1,0 +1,5 @@
+setupRequired(background 1.0)
+setupRequired(hammer 3.0)
+setupRequired(disco 3.0)
+setupRequired(jet 3.0)
+setupRequired(access 2.0)

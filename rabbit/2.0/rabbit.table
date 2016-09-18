@@ -1,0 +1,4 @@
+setupRequired(biscuit 3.0)
+setupRequired(magnetic 2.0)
+setupRequired(elect 3.0)
+setupRequired(stitch 2.0)

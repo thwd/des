@@ -1,0 +1,2 @@
+setupRequired(rational 3.0)
+setupRequired(fail 3.0)

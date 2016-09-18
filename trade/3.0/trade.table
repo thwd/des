@@ -1,0 +1,5 @@
+setupRequired(bark 3.0)
+setupRequired(despair 3.0)
+setupRequired(reputation 2.0)
+setupRequired(champagne 2.0)
+setupRequired(thesis 1.0)

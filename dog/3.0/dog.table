@@ -1,0 +1,4 @@
+setupRequired(shareholder 2.0)
+setupRequired(native 3.0)
+setupRequired(lot 3.0)
+setupRequired(composer 1.0)

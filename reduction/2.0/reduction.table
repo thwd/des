@@ -1,0 +1,2 @@
+setupRequired(brink 1.0)
+setupRequired(treasurer 3.0)

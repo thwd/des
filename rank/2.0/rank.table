@@ -1,0 +1,4 @@
+setupRequired(cluster 2.0)
+setupRequired(progressive 3.0)
+setupRequired(swear 3.0)
+setupRequired(retain 1.0)

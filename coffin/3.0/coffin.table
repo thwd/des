@@ -1,0 +1,5 @@
+setupRequired(reflect 1.0)
+setupRequired(yearn 2.0)
+setupRequired(partnership 1.0)
+setupRequired(swear 1.0)
+setupRequired(temporary 2.0)

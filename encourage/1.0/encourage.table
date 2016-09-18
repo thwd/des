@@ -1,0 +1,4 @@
+setupRequired(soak 2.0)
+setupRequired(weight 2.0)
+setupRequired(turkey 3.0)
+setupRequired(student 2.0)

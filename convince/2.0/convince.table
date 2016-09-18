@@ -1,0 +1,5 @@
+setupRequired(reduce 2.0)
+setupRequired(salmon 2.0)
+setupRequired(cream 2.0)
+setupRequired(adventure 3.0)
+setupRequired(beautiful 2.0)

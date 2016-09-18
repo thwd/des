@@ -1,0 +1,4 @@
+setupRequired(residence 3.0)
+setupRequired(connection 2.0)
+setupRequired(widen 2.0)
+setupRequired(parking 2.0)

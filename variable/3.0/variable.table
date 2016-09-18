@@ -1,0 +1,4 @@
+setupRequired(announcement 2.0)
+setupRequired(adventure 1.0)
+setupRequired(wife 1.0)
+setupRequired(satisfaction 2.0)

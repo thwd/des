@@ -1,0 +1,4 @@
+setupRequired(slave 2.0)
+setupRequired(net 3.0)
+setupRequired(dog 3.0)
+setupRequired(jealous 3.0)

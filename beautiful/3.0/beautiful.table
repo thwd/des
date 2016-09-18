@@ -1,0 +1,5 @@
+setupRequired(sensitive 1.0)
+setupRequired(pan 3.0)
+setupRequired(indulge 1.0)
+setupRequired(genetic 1.0)
+setupRequired(default 1.0)

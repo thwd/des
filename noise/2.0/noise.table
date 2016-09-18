@@ -1,0 +1,5 @@
+setupRequired(television 3.0)
+setupRequired(swipe 1.0)
+setupRequired(final 1.0)
+setupRequired(prize 3.0)
+setupRequired(package 1.0)

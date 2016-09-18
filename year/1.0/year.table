@@ -1,0 +1,3 @@
+setupRequired(rabbit 3.0)
+setupRequired(disorder 2.0)
+setupRequired(exit 3.0)

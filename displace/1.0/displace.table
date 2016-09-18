@@ -1,0 +1,4 @@
+setupRequired(compromise 1.0)
+setupRequired(exit 1.0)
+setupRequired(ride 3.0)
+setupRequired(subway 2.0)

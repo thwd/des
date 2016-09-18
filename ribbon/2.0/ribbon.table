@@ -1,0 +1,5 @@
+setupRequired(crime 2.0)
+setupRequired(socialist 3.0)
+setupRequired(bronze 3.0)
+setupRequired(clinic 2.0)
+setupRequired(function 3.0)

@@ -1,0 +1,4 @@
+setupRequired(rank 3.0)
+setupRequired(child 2.0)
+setupRequired(celebration 3.0)
+setupRequired(minister 3.0)

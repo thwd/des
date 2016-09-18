@@ -1,0 +1,5 @@
+setupRequired(suit 2.0)
+setupRequired(eye 2.0)
+setupRequired(assignment 3.0)
+setupRequired(post 1.0)
+setupRequired(precision 3.0)

@@ -1,0 +1,4 @@
+setupRequired(organize 3.0)
+setupRequired(provoke 2.0)
+setupRequired(ban 2.0)
+setupRequired(mushroom 1.0)

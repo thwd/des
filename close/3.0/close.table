@@ -1,0 +1,5 @@
+setupRequired(monk 2.0)
+setupRequired(moment 1.0)
+setupRequired(writer 1.0)
+setupRequired(shape 1.0)
+setupRequired(widen 2.0)

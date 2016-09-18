@@ -1,0 +1,5 @@
+setupRequired(harsh 1.0)
+setupRequired(refrigerator 3.0)
+setupRequired(rotate 3.0)
+setupRequired(pull 1.0)
+setupRequired(layer 1.0)

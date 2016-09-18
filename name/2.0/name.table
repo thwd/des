@@ -1,0 +1,5 @@
+setupRequired(negotiation 3.0)
+setupRequired(sensitive 1.0)
+setupRequired(goal 2.0)
+setupRequired(nose 2.0)
+setupRequired(chin 1.0)

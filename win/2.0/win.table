@@ -1,0 +1,5 @@
+setupRequired(rock 3.0)
+setupRequired(clinic 2.0)
+setupRequired(length 3.0)
+setupRequired(stream 1.0)
+setupRequired(fascinate 2.0)

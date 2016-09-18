@@ -1,0 +1,5 @@
+setupRequired(strict 3.0)
+setupRequired(sculpture 1.0)
+setupRequired(arrow 1.0)
+setupRequired(rob 1.0)
+setupRequired(runner 3.0)

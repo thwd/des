@@ -1,0 +1,4 @@
+setupRequired(child 3.0)
+setupRequired(stun 1.0)
+setupRequired(basic 2.0)
+setupRequired(account 2.0)

@@ -1,0 +1,5 @@
+setupRequired(broccoli 1.0)
+setupRequired(bill 3.0)
+setupRequired(element 3.0)
+setupRequired(sheet 3.0)
+setupRequired(defend 2.0)

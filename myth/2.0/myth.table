@@ -1,0 +1,4 @@
+setupRequired(determine 1.0)
+setupRequired(housewife 2.0)
+setupRequired(error 2.0)
+setupRequired(room 3.0)

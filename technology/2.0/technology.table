@@ -1,0 +1,4 @@
+setupRequired(cheque 1.0)
+setupRequired(drop 3.0)
+setupRequired(tribute 3.0)
+setupRequired(wagon 3.0)

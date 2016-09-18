@@ -1,0 +1,5 @@
+setupRequired(beg 2.0)
+setupRequired(loop 2.0)
+setupRequired(photograph 1.0)
+setupRequired(colorful 1.0)
+setupRequired(corn 3.0)

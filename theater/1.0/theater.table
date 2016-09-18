@@ -1,0 +1,5 @@
+setupRequired(vegetable 2.0)
+setupRequired(regard 2.0)
+setupRequired(census 3.0)
+setupRequired(bat 1.0)
+setupRequired(flex 3.0)

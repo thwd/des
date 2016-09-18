@@ -1,0 +1,5 @@
+setupRequired(clique 1.0)
+setupRequired(guard 3.0)
+setupRequired(cow 3.0)
+setupRequired(blackmail 2.0)
+setupRequired(horn 1.0)

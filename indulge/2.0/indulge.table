@@ -1,0 +1,4 @@
+setupRequired(solo 3.0)
+setupRequired(horn 2.0)
+setupRequired(wrist 2.0)
+setupRequired(shout 2.0)

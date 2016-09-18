@@ -1,0 +1,5 @@
+setupRequired(element 2.0)
+setupRequired(queen 1.0)
+setupRequired(weave 2.0)
+setupRequired(revoke 3.0)
+setupRequired(graze 2.0)

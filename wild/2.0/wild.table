@@ -1,0 +1,5 @@
+setupRequired(cry 3.0)
+setupRequired(leaflet 2.0)
+setupRequired(color 1.0)
+setupRequired(visit 2.0)
+setupRequired(test 3.0)

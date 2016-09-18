@@ -1,0 +1,2 @@
+setupRequired(mist 1.0)
+setupRequired(castle 3.0)

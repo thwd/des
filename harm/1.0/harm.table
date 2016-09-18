@@ -1,0 +1,4 @@
+setupRequired(bathroom 1.0)
+setupRequired(suburb 3.0)
+setupRequired(wild 2.0)
+setupRequired(clinic 3.0)

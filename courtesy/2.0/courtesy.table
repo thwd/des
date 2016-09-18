@@ -1,0 +1,4 @@
+setupRequired(liberal 1.0)
+setupRequired(foundation 1.0)
+setupRequired(onion 3.0)
+setupRequired(publicity 3.0)

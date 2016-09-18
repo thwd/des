@@ -1,0 +1,4 @@
+setupRequired(spare 3.0)
+setupRequired(twilight 2.0)
+setupRequired(forum 3.0)
+setupRequired(coverage 1.0)

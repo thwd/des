@@ -1,0 +1,2 @@
+setupRequired(copy 3.0)
+setupRequired(lift 1.0)

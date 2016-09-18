@@ -1,0 +1,5 @@
+setupRequired(steak 2.0)
+setupRequired(nursery 1.0)
+setupRequired(salon 3.0)
+setupRequired(biscuit 1.0)
+setupRequired(lip 3.0)

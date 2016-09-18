@@ -1,0 +1,5 @@
+setupRequired(offend 2.0)
+setupRequired(lemon 3.0)
+setupRequired(demonstrator 2.0)
+setupRequired(entitlement 3.0)
+setupRequired(proof 1.0)

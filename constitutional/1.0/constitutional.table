@@ -1,0 +1,4 @@
+setupRequired(message 3.0)
+setupRequired(reveal 1.0)
+setupRequired(novel 1.0)
+setupRequired(fun 1.0)

@@ -1,0 +1,4 @@
+setupRequired(settlement 1.0)
+setupRequired(grief 2.0)
+setupRequired(pan 3.0)
+setupRequired(charge 3.0)

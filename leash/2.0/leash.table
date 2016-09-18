@@ -1,0 +1,3 @@
+setupRequired(compete 2.0)
+setupRequired(colon 2.0)
+setupRequired(riot 1.0)

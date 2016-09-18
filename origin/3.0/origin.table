@@ -1,0 +1,5 @@
+setupRequired(braid 2.0)
+setupRequired(constitutional 2.0)
+setupRequired(pepper 3.0)
+setupRequired(particular 2.0)
+setupRequired(trade 3.0)

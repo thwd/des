@@ -1,0 +1,5 @@
+setupRequired(mix 3.0)
+setupRequired(integration 3.0)
+setupRequired(polish 3.0)
+setupRequired(tidy 3.0)
+setupRequired(sail 2.0)

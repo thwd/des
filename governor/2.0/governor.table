@@ -1,0 +1,5 @@
+setupRequired(cook 3.0)
+setupRequired(courtesy 1.0)
+setupRequired(multiply 1.0)
+setupRequired(bake 1.0)
+setupRequired(contradiction 3.0)

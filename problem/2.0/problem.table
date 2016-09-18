@@ -1,0 +1,5 @@
+setupRequired(clothes 2.0)
+setupRequired(economic 1.0)
+setupRequired(strike 3.0)
+setupRequired(adult 3.0)
+setupRequired(torture 1.0)

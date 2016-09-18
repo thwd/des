@@ -1,0 +1,5 @@
+setupRequired(confuse 2.0)
+setupRequired(afford 2.0)
+setupRequired(basketball 3.0)
+setupRequired(nationalism 1.0)
+setupRequired(dough 3.0)

@@ -1,0 +1,5 @@
+setupRequired(harsh 3.0)
+setupRequired(handy 3.0)
+setupRequired(global 2.0)
+setupRequired(spray 3.0)
+setupRequired(parking 1.0)

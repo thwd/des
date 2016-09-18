@@ -1,0 +1,5 @@
+setupRequired(dress 3.0)
+setupRequired(age 2.0)
+setupRequired(humor 2.0)
+setupRequired(offer 3.0)
+setupRequired(cluster 3.0)

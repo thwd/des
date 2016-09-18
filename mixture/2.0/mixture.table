@@ -1,0 +1,4 @@
+setupRequired(case 2.0)
+setupRequired(compose 1.0)
+setupRequired(knock 2.0)
+setupRequired(jest 3.0)

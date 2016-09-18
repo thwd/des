@@ -1,0 +1,5 @@
+setupRequired(debut 2.0)
+setupRequired(retirement 1.0)
+setupRequired(dome 1.0)
+setupRequired(steward 2.0)
+setupRequired(present 1.0)

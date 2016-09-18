@@ -1,0 +1,5 @@
+setupRequired(sheet 3.0)
+setupRequired(south 2.0)
+setupRequired(dictate 1.0)
+setupRequired(civilian 3.0)
+setupRequired(recommendation 3.0)

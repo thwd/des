@@ -1,0 +1,5 @@
+setupRequired(close 2.0)
+setupRequired(tree 1.0)
+setupRequired(colorful 1.0)
+setupRequired(ribbon 2.0)
+setupRequired(appoint 1.0)

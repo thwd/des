@@ -1,0 +1,2 @@
+setupRequired(drink 1.0)
+setupRequired(expect 3.0)

@@ -1,0 +1,5 @@
+setupRequired(background 3.0)
+setupRequired(carry 2.0)
+setupRequired(convince 2.0)
+setupRequired(daughter 1.0)
+setupRequired(straight 2.0)

@@ -1,0 +1,5 @@
+setupRequired(pull 3.0)
+setupRequired(north 2.0)
+setupRequired(recommend 3.0)
+setupRequired(welcome 3.0)
+setupRequired(homosexual 2.0)

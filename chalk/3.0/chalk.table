@@ -1,0 +1,4 @@
+setupRequired(slam 3.0)
+setupRequired(career 1.0)
+setupRequired(alarm 1.0)
+setupRequired(copy 3.0)

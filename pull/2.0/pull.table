@@ -1,0 +1,3 @@
+setupRequired(dark 2.0)
+setupRequired(positive 1.0)
+setupRequired(instrument 3.0)

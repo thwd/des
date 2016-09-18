@@ -1,0 +1,4 @@
+setupRequired(crosswalk 1.0)
+setupRequired(imposter 1.0)
+setupRequired(arrow 2.0)
+setupRequired(AIDS 1.0)

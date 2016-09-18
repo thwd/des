@@ -1,0 +1,5 @@
+setupRequired(present 2.0)
+setupRequired(lodge 1.0)
+setupRequired(key 1.0)
+setupRequired(scale 2.0)
+setupRequired(observation 1.0)

@@ -1,0 +1,5 @@
+setupRequired(government 3.0)
+setupRequired(entertain 3.0)
+setupRequired(elect 2.0)
+setupRequired(past 1.0)
+setupRequired(tie 2.0)

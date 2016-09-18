@@ -1,0 +1,5 @@
+setupRequired(vegetable 1.0)
+setupRequired(cry 3.0)
+setupRequired(aisle 2.0)
+setupRequired(sell 2.0)
+setupRequired(overwhelm 1.0)

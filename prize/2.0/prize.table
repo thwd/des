@@ -1,0 +1,4 @@
+setupRequired(cook 2.0)
+setupRequired(deficiency 2.0)
+setupRequired(stun 3.0)
+setupRequired(bind 1.0)

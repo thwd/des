@@ -1,0 +1,4 @@
+setupRequired(exclude 1.0)
+setupRequired(score 1.0)
+setupRequired(familiar 3.0)
+setupRequired(rob 3.0)

@@ -1,0 +1,5 @@
+setupRequired(score 1.0)
+setupRequired(bronze 3.0)
+setupRequired(cutting 1.0)
+setupRequired(nature 2.0)
+setupRequired(sniff 3.0)

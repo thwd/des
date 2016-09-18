@@ -1,0 +1,4 @@
+setupRequired(danger 3.0)
+setupRequired(recommendation 1.0)
+setupRequired(window 3.0)
+setupRequired(contradiction 1.0)

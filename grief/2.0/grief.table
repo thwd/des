@@ -1,0 +1,5 @@
+setupRequired(literacy 2.0)
+setupRequired(steam 2.0)
+setupRequired(fresh 1.0)
+setupRequired(paper 2.0)
+setupRequired(salmon 3.0)

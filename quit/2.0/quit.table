@@ -1,0 +1,5 @@
+setupRequired(add 1.0)
+setupRequired(coffee 3.0)
+setupRequired(deposit 1.0)
+setupRequired(Venus 2.0)
+setupRequired(entertainment 1.0)

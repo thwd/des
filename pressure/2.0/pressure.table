@@ -1,0 +1,3 @@
+setupRequired(random 2.0)
+setupRequired(global 3.0)
+setupRequired(rhythm 1.0)

@@ -1,0 +1,4 @@
+setupRequired(feed 1.0)
+setupRequired(retain 1.0)
+setupRequired(departure 2.0)
+setupRequired(idea 3.0)

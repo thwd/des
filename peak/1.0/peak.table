@@ -1,0 +1,3 @@
+setupRequired(critic 3.0)
+setupRequired(profession 3.0)
+setupRequired(story 3.0)

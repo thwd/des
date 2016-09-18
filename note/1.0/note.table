@@ -1,0 +1,4 @@
+setupRequired(general 2.0)
+setupRequired(worker 3.0)
+setupRequired(pocket 2.0)
+setupRequired(overlook 3.0)

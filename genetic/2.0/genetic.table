@@ -1,0 +1,4 @@
+setupRequired(admit 3.0)
+setupRequired(hostility 2.0)
+setupRequired(nose 2.0)
+setupRequired(settlement 1.0)

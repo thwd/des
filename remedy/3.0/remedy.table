@@ -1,0 +1,5 @@
+setupRequired(danger 2.0)
+setupRequired(bird 1.0)
+setupRequired(academy 2.0)
+setupRequired(shot 2.0)
+setupRequired(aid 1.0)

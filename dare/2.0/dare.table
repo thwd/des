@@ -1,0 +1,3 @@
+setupRequired(close 2.0)
+setupRequired(buy 1.0)
+setupRequired(narrow 1.0)

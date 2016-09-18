@@ -1,0 +1,3 @@
+setupRequired(chorus 3.0)
+setupRequired(ranch 3.0)
+setupRequired(cause 2.0)

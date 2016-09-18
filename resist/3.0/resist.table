@@ -1,0 +1,3 @@
+setupRequired(tower 2.0)
+setupRequired(glimpse 3.0)
+setupRequired(beautiful 2.0)

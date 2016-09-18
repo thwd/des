@@ -1,0 +1,3 @@
+setupRequired(knit 3.0)
+setupRequired(muggy 3.0)
+setupRequired(danger 1.0)

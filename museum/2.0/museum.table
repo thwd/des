@@ -1,0 +1,4 @@
+setupRequired(deliver 1.0)
+setupRequired(empirical 3.0)
+setupRequired(fraud 2.0)
+setupRequired(name 2.0)

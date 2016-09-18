@@ -1,0 +1,5 @@
+setupRequired(rhythm 1.0)
+setupRequired(governor 1.0)
+setupRequired(possibility 1.0)
+setupRequired(sin 2.0)
+setupRequired(encourage 3.0)

@@ -1,0 +1,5 @@
+setupRequired(flash 2.0)
+setupRequired(stimulation 2.0)
+setupRequired(makeup 1.0)
+setupRequired(inquiry 2.0)
+setupRequired(tin 3.0)

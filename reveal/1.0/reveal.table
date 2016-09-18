@@ -1,0 +1,3 @@
+setupRequired(mayor 2.0)
+setupRequired(strict 3.0)
+setupRequired(musical 1.0)

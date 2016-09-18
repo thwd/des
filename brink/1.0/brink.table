@@ -1,0 +1,4 @@
+setupRequired(rabbit 1.0)
+setupRequired(recession 3.0)
+setupRequired(subway 3.0)
+setupRequired(nomination 3.0)

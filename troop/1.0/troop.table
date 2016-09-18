@@ -1,0 +1,4 @@
+setupRequired(restrict 1.0)
+setupRequired(cause 1.0)
+setupRequired(sex 3.0)
+setupRequired(outfit 3.0)

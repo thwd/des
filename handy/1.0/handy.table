@@ -1,0 +1,5 @@
+setupRequired(compete 2.0)
+setupRequired(track 2.0)
+setupRequired(apology 2.0)
+setupRequired(banana 3.0)
+setupRequired(break down 1.0)

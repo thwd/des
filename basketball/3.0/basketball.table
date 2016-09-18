@@ -1,0 +1,4 @@
+setupRequired(leash 2.0)
+setupRequired(run 1.0)
+setupRequired(buy 2.0)
+setupRequired(recycle 1.0)

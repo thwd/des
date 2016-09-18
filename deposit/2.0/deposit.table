@@ -1,0 +1,4 @@
+setupRequired(wagon 2.0)
+setupRequired(turkey 1.0)
+setupRequired(brag 2.0)
+setupRequired(net 1.0)

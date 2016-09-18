@@ -1,0 +1,5 @@
+setupRequired(countryside 2.0)
+setupRequired(carry 1.0)
+setupRequired(ban 2.0)
+setupRequired(lease 2.0)
+setupRequired(pace 2.0)

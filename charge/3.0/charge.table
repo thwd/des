@@ -1,0 +1,5 @@
+setupRequired(rational 2.0)
+setupRequired(trouser 1.0)
+setupRequired(sculpture 2.0)
+setupRequired(continuous 2.0)
+setupRequired(familiar 3.0)

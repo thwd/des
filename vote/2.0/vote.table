@@ -1,0 +1,5 @@
+setupRequired(weave 1.0)
+setupRequired(set 1.0)
+setupRequired(problem 3.0)
+setupRequired(abandon 2.0)
+setupRequired(congress 1.0)

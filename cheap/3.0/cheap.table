@@ -1,0 +1,3 @@
+setupRequired(science 1.0)
+setupRequired(agent 2.0)
+setupRequired(parachute 3.0)

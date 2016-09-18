@@ -1,0 +1,2 @@
+setupRequired(catch 3.0)
+setupRequired(theme 2.0)

@@ -1,0 +1,5 @@
+setupRequired(stimulation 1.0)
+setupRequired(bulletin 2.0)
+setupRequired(appetite 3.0)
+setupRequired(density 2.0)
+setupRequired(slave 1.0)

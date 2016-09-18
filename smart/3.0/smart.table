@@ -1,0 +1,5 @@
+setupRequired(facility 3.0)
+setupRequired(wild 2.0)
+setupRequired(wording 2.0)
+setupRequired(screw 2.0)
+setupRequired(fascinate 1.0)

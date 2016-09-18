@@ -1,0 +1,4 @@
+setupRequired(reveal 1.0)
+setupRequired(get 2.0)
+setupRequired(map 1.0)
+setupRequired(wilderness 1.0)

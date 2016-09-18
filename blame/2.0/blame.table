@@ -1,0 +1,3 @@
+setupRequired(package 2.0)
+setupRequired(tie 1.0)
+setupRequired(trade 2.0)

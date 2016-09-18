@@ -1,0 +1,5 @@
+setupRequired(nomination 3.0)
+setupRequired(vote 1.0)
+setupRequired(highway 2.0)
+setupRequired(arm 2.0)
+setupRequired(detector 1.0)

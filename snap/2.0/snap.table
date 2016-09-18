@@ -1,0 +1,5 @@
+setupRequired(basin 1.0)
+setupRequired(uniform 3.0)
+setupRequired(acceptance 1.0)
+setupRequired(protect 3.0)
+setupRequired(subject 1.0)

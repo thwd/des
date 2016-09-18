@@ -1,0 +1,5 @@
+setupRequired(riot 3.0)
+setupRequired(episode 2.0)
+setupRequired(warm 3.0)
+setupRequired(regard 2.0)
+setupRequired(castle 2.0)

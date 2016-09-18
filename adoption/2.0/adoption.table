@@ -1,0 +1,4 @@
+setupRequired(uncle 2.0)
+setupRequired(terrace 3.0)
+setupRequired(donor 1.0)
+setupRequired(steam 1.0)

@@ -1,0 +1,4 @@
+setupRequired(highway 1.0)
+setupRequired(accumulation 3.0)
+setupRequired(lease 3.0)
+setupRequired(approach 2.0)

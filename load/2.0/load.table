@@ -1,0 +1,4 @@
+setupRequired(source 3.0)
+setupRequired(ban 2.0)
+setupRequired(tumble 3.0)
+setupRequired(tool 1.0)

@@ -1,0 +1,5 @@
+setupRequired(refrigerator 1.0)
+setupRequired(middle 3.0)
+setupRequired(surgeon 2.0)
+setupRequired(exempt 3.0)
+setupRequired(folk music 2.0)

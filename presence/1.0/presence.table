@@ -1,0 +1,4 @@
+setupRequired(automatic 1.0)
+setupRequired(swell 3.0)
+setupRequired(accumulation 2.0)
+setupRequired(ban 1.0)

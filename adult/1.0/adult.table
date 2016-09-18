@@ -1,0 +1,5 @@
+setupRequired(sex 3.0)
+setupRequired(reflect 1.0)
+setupRequired(fun 2.0)
+setupRequired(sheet 3.0)
+setupRequired(convince 3.0)

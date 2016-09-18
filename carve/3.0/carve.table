@@ -1,0 +1,5 @@
+setupRequired(advice 2.0)
+setupRequired(wild 1.0)
+setupRequired(student 1.0)
+setupRequired(tendency 1.0)
+setupRequired(infection 3.0)

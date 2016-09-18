@@ -1,0 +1,4 @@
+setupRequired(pause 3.0)
+setupRequired(dough 3.0)
+setupRequired(sin 3.0)
+setupRequired(riot 3.0)

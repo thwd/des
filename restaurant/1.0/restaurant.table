@@ -1,0 +1,5 @@
+setupRequired(valley 1.0)
+setupRequired(guard 1.0)
+setupRequired(sensitive 1.0)
+setupRequired(claim 1.0)
+setupRequired(access 3.0)

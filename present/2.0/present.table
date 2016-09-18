@@ -1,0 +1,3 @@
+setupRequired(qualify 2.0)
+setupRequired(plaster 1.0)
+setupRequired(guard 1.0)

@@ -1,0 +1,4 @@
+setupRequired(sweet 3.0)
+setupRequired(pattern 3.0)
+setupRequired(raise 1.0)
+setupRequired(intention 2.0)

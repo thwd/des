@@ -1,0 +1,5 @@
+setupRequired(posture 1.0)
+setupRequired(disability 2.0)
+setupRequired(achievement 2.0)
+setupRequired(offer 1.0)
+setupRequired(north 2.0)

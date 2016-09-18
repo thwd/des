@@ -1,0 +1,4 @@
+setupRequired(variation 3.0)
+setupRequired(crisis 2.0)
+setupRequired(connection 3.0)
+setupRequired(rock 3.0)

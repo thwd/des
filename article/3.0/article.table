@@ -1,0 +1,5 @@
+setupRequired(compromise 2.0)
+setupRequired(entry 1.0)
+setupRequired(court 2.0)
+setupRequired(technology 1.0)
+setupRequired(winter 1.0)

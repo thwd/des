@@ -1,0 +1,3 @@
+setupRequired(beautiful 3.0)
+setupRequired(admit 1.0)
+setupRequired(useful 2.0)

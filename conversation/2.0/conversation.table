@@ -1,0 +1,2 @@
+setupRequired(joystick 3.0)
+setupRequired(plot 3.0)

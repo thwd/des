@@ -1,0 +1,5 @@
+setupRequired(division 2.0)
+setupRequired(rabbit 3.0)
+setupRequired(student 3.0)
+setupRequired(appoint 3.0)
+setupRequired(literacy 2.0)

@@ -1,0 +1,2 @@
+setupRequired(wisecrack 3.0)
+setupRequired(constraint 1.0)

@@ -1,0 +1,5 @@
+setupRequired(bronze 1.0)
+setupRequired(guard 1.0)
+setupRequired(mainstream 1.0)
+setupRequired(abandon 1.0)
+setupRequired(deliver 3.0)

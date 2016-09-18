@@ -1,0 +1,4 @@
+setupRequired(shower 2.0)
+setupRequired(cell 2.0)
+setupRequired(colon 1.0)
+setupRequired(feel 2.0)

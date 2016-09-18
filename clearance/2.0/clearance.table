@@ -1,0 +1,5 @@
+setupRequired(poor 1.0)
+setupRequired(adventure 3.0)
+setupRequired(maze 2.0)
+setupRequired(direct 1.0)
+setupRequired(jungle 3.0)

@@ -1,0 +1,5 @@
+setupRequired(broccoli 2.0)
+setupRequired(wear 3.0)
+setupRequired(tidy 2.0)
+setupRequired(can 1.0)
+setupRequired(carry 3.0)

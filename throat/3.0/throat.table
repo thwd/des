@@ -1,0 +1,4 @@
+setupRequired(exit 1.0)
+setupRequired(avant-garde 1.0)
+setupRequired(spare 3.0)
+setupRequired(excess 2.0)
